@@ -1049,11 +1049,11 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(Untitled)"
+    title: "(untitled)"
     subject: "(The CIML)"
   - language_code: fra
     script: Latn
-    title: "(Supprimée)"
+    title: "(untitled)"
     subject: "(Le CIML)"
     actions:
     - type: remarks
@@ -1073,11 +1073,11 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(Untitled)"
+    title: "(untitled)"
     subject: "(The CIML)"
   - language_code: fra
     script: Latn
-    title: "(Supprimée)"
+    title: "(untitled)"
     subject: "(Le CIML)"
     actions:
     - type: remarks

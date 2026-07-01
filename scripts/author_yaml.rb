@@ -499,8 +499,12 @@ module ResolutionsData
         end
 
         # Title: prefer "Agenda item N" as the canonical reference, which
-        # is how OIML cites resolutions. Falls back to a synthesized verb-led
-        # snippet when no agenda item is recorded.
+        # is how OIML cites resolutions. Falls back to a synthesized
+        # verb-led snippet, but treats source deletion markers
+        # ("(Removed)", "(Supprimée)", ...), header echoes like
+        # "(Agenda item 1)" / "(Point 12 ...)", and empty bodies as
+        # "(untitled)" — the literal marker for "no real title in
+        # source".
         title = agenda_item ? "Agenda item #{agenda_item}" : synthesize_title(acts)
 
         res << {
@@ -685,6 +689,11 @@ module ResolutionsData
 
       title_str = title.to_s.strip
       title_str = title_str[0...100] + "…" if title_str.size > 100
+      # Treat deletion markers, header echoes, and empty titles as
+      # the literal "(untitled)" placeholder.
+      if title_str.empty? || deletion_marker?(title_str) || header_echo?(title_str)
+        title_str = "(untitled)"
+      end
 
       # Subject: extract the issuer phrase ("The Committee", "Le Comité",
       # "La Conférence", ...) directly from the section body if present.
@@ -1082,18 +1091,53 @@ module ResolutionsData
     end
 
     # Derive a short title from the first action: take the verb stem and the
-    # first sentence (truncated to ~12 words).
+    # first sentence (truncated to ~14 words). Returns the literal marker
+    # "(untitled)" when no real title can be synthesized — this includes
+    # empty actions AND the various "no real title" signals from source:
+    #   * deletion markers: "(Removed)", "(Supprimée)", "(Annulé)", ...
+    #   * header echoes: "(Agenda item N)", "(Point N ...)"
+    # All are replaced with "(untitled)" rather than propagated as titles.
     def self.synthesize_title(actions)
-      return "(Untitled)" if actions.empty?
+      return "(untitled)" if actions.empty?
       msg = actions.first["message"].to_s.strip
       # Cut at first sub-item list marker (a), b), ...) — those belong in the body.
       msg = msg.sub(/\s+\(?[a-z]\)\s.*\z/m, "")
+      # Treat deletion markers and header echoes as untitled — the
+      # source has no real title content for this resolution slot.
+      return "(untitled)" if deletion_marker?(msg) || header_echo?(msg)
       # Take the first 14 whitespace-separated tokens (resists "M." truncation).
       words = msg.split
       title = words.first(14).join(" ")
       title = title.sub(/[,;:]\z/, "")
       title = title[0...100] + "…" if title.size > 100
-      title.empty? ? "(Untitled)" : title
+      title.empty? ? "(untitled)" : title
+    end
+
+    # Source deletion markers — a short parenthesized phrase that means
+    # "this resolution slot was removed". Examples seen in the wild:
+    #   (Removed)  (Deleted)  (Cancelled)  (Canceled)  (Striked)
+    #   (Supprimée)  (Supprimé)  (Annulée)  (Annulé)  (Biffée)
+    #   (Removed at the ... Meeting)  (Supprimée — voir ...)
+    # These are not titles — we treat them as a signal that the source
+    # has no real title and surface "(untitled)" instead.
+    DELETION_MARKERS_RE = /\A\(\s*(?:removed|deleted|cancelled|canceled|striked|strikethrough|supprim(?:ée?|é|e)?|annul(?:ée?|é|e)?|biff(?:ée?|é|e)?|ray(?:ée?|é|e)?)\b[^)]*\)\z/i
+
+    def self.deletion_marker?(text)
+      t = text.to_s.strip
+      return false if t.empty?
+      DELETION_MARKERS_RE.match?(t)
+    end
+
+    # Header echo — when the body just repeats the agenda-item header
+    # that the OCR captured twice (e.g., "(Agenda item 1)" or
+    # "(Point 12 de l'ordre du jour)" without any real content).
+    # These are not titles either; surface as "(untitled)".
+    HEADER_ECHO_RE = /\A\(\s*(?:agenda\s+item|point)\b[^)]*\)\z/i
+
+    def self.header_echo?(text)
+      t = text.to_s.strip
+      return false if t.empty?
+      HEADER_ECHO_RE.match?(t)
     end
 
     def self.meeting_date(src)

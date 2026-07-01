@@ -34,7 +34,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(Agenda item 1)"
+    title: "(untitled)"
     subject: The Committee
     actions:
     - type: remarks
@@ -66,7 +66,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(Agenda item 2)"
+    title: "(untitled)"
     subject: The Committee
     actions:
     - type: remarks
@@ -98,7 +98,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(Agenda item 3.1)"
+    title: "(untitled)"
     subject: The Committee
     actions:
     - type: remarks
@@ -1336,7 +1336,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(Agenda item 12)"
+    title: "(untitled)"
     subject: The Committee
     actions:
     - type: remarks
@@ -1346,7 +1346,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 12 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     actions:
     - type: remarks

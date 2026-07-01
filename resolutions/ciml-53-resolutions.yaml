@@ -34,7 +34,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(agenda item 1)"
+    title: "(untitled)"
     subject: The Committee
     actions:
     - type: remarks
@@ -66,7 +66,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(agenda item 2)"
+    title: "(untitled)"
     subject: The Committee
     actions:
     - type: remarks
@@ -271,7 +271,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(point 8.2 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     considerations:
     - type: having
@@ -2041,7 +2041,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(agenda item 12.3)"
+    title: "(untitled)"
     subject: The Committee
     considerations:
     - type: noting
@@ -2094,7 +2094,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(agenda item 12.4)"
+    title: "(untitled)"
     subject: The Committee
     considerations:
     - type: noting
@@ -2147,7 +2147,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(agenda item 13)"
+    title: "(untitled)"
     subject: The Committee
     considerations:
     - type: noting
@@ -2250,7 +2250,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(point 14 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     considerations:
     - type: having
@@ -2308,7 +2308,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(agenda item 15)"
+    title: "(untitled)"
     subject: The Committee
     considerations:
     - type: having
@@ -2348,7 +2348,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(point 15 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     considerations:
     - type: having
@@ -2398,7 +2398,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(agenda item 16.1)"
+    title: "(untitled)"
     subject: The Committee
     actions:
     - type: remarks
@@ -2408,7 +2408,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(point 16.1 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     actions:
     - type: remarks
@@ -2428,7 +2428,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(agenda item 16.2)"
+    title: "(untitled)"
     subject: The Committee
     actions:
     - type: remarks
@@ -2438,7 +2438,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(point 16.2 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     actions:
     - type: remarks

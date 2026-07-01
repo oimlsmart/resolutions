@@ -772,7 +772,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 11.4 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     considerations:
     - type: noting
@@ -1513,7 +1513,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 14.3 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     considerations:
     - type: noting
@@ -1595,7 +1595,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 14.4 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     considerations:
     - type: noting
@@ -1879,7 +1879,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(Agenda Item 15.4)"
+    title: "(untitled)"
     subject: The Committee
     considerations:
     - type: noting
@@ -1897,7 +1897,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 15.4 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     considerations:
     - type: noting
@@ -1925,7 +1925,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(Agenda Item 16)"
+    title: "(untitled)"
     subject: The Committee
     considerations:
     - type: noting
@@ -1943,7 +1943,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 16 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     considerations:
     - type: noting
@@ -2007,7 +2007,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 17 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     considerations:
     - type: having

@@ -261,7 +261,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 5 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     actions:
     - type: remarks
@@ -1823,7 +1823,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(Agenda item 11)"
+    title: "(untitled)"
     subject: The Committee
     considerations:
     - type: noting
@@ -1841,7 +1841,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 11 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     actions:
     - type: remarks
@@ -1861,7 +1861,7 @@ resolutions:
   localizations:
   - language_code: eng
     script: Latn
-    title: "(Agenda item 12.1)"
+    title: "(untitled)"
     subject: The Committee
     actions:
     - type: remarks
@@ -1871,7 +1871,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 12.1 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     actions:
     - type: remarks
@@ -1949,7 +1949,7 @@ resolutions:
         type: adoption
   - language_code: fra
     script: Latn
-    title: "(Point 12.2 de l'ordre du jour)"
+    title: "(untitled)"
     subject: Le Comité
     actions:
     - type: remarks
