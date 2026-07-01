@@ -262,7 +262,7 @@ Decides that project TC 3/SC 5/p 5 (development of D xx Guide for the applicatio
 
 Decides that project TC 3/SC 5/p 12 (revision of D 30 Guide for the application of ISO/IEC 17025 to the assessment of Testing Laboratories involved in legal metrology) shall move to the OIML-CS MC,
 
-Instructs the OIML-CS Executive Secretary to establish a Project Group under the control of the OIML-CS MC to revise D30 Guide for the application of ISO/IEC 17025 to the assessment of Testing Laboratories involved in legal metrology, and
+Instructs the OIML-CS Executive Secretary to establish a Project Group under the control of the OIML-CS MC to revise D 30 Guide for the application of ISO/IEC 17025 to the assessment of Testing Laboratories involved in legal metrology, and
 
 Instructs the OIML-CS Executive Secretary to request that members of TC 3/SC 5 and members of the MC confirm their participation as P- or O-members in the Project Group and, where applicable, to nominate main contacts and contacts.
 

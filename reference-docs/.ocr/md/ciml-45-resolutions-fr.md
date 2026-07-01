@@ -128,7 +128,7 @@ Le Comité prend note de la confirmation des Publications OIML suivantes, par le
 
 - OIML R 131:2001 Systèmes dosimétriques au polyméthylméthacrylate (PMMA) pour le traitement par rayonnements ionisants des matériaux et produits,
 
-OIML R 132:2001 Systèmes dosimétriques RPE à l'alanine pour le traitement par rayonnements ionisants des matériaux et produits,
+OIML R 132:2001 Systèmes dosimétriques RPE à lalanine pour le traitement par rayonnements ionisants des matériaux et produits,
 
 OIML R 133:2002 Thermomètres à liquide en verre.
 

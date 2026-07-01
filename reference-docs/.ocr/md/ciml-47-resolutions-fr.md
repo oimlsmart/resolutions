@@ -106,7 +106,7 @@ Exprime son accord avec le Projet de Révision de l'OIML B 8 « Règlement Finan
 
 Charge son Président de soumettre le projet pour adoption à la 14ème Conférence.
 
-Résolution n° 7
+Résolution n°7
 
 [Point 6.6 de l'ordre du jour]
 
@@ -196,7 +196,7 @@ Le Comité,
 
 Rappelant ses discussions lors des 33eme et 44eme Réunions du CIML relatives à la participation des Membres Correspondants au travail technique de l'OIML,
 
-Confirme que les Membres Correspondants peuvent participer au travail des Comités Techniques, Sous-comités et Groupes de Projet de l'OIML en tant que Membres Observateurs (Membres-O) sans avoir à payer de droit supplémentaire.
+Confirmme que les Membres Correspondants peuvent participer au travail des Comités Techniques, Sous-comités et Groupes de Projet de l'OIML en tant que Membres Observateurs (Membres-O) sans avoir à payer de droit supplémentaire.
 
 ## Résolution n° 14 [Point 9.1 de l'ordre du jour]
 
@@ -314,7 +314,7 @@ Résolution n°23
 
 Le Comité,
 
-Rappelant la Résolution n° 25 de sa $ 4 6^{\mathrm{e m e}} $ Réunion,
+Rappelant la Résolution n° 25 de sa 46 $ ^{\mathrm{eme}} $ Réunion,
 
 Prenant note du rapport oral par le président du groupe de travail ad hoc Nouveau SI de I'OIML,
 

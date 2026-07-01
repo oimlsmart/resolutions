@@ -1,9 +1,10 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Driver: walk every PDF under reference-docs/{ciml,conferences}/ and OCR it.
-# For each PDF, write the concatenated markdown to reference-docs/.ocr/md/<slug>.md.
-# Chunks are cached by SHA-256 of (input, start, end) — re-runs resume for free.
+# Driver: walk every PDF under reference-docs/{ciml,conferences}/ (recursive)
+# and OCR it. For each PDF, write the concatenated markdown to
+# reference-docs/.ocr/md/<slug>.md. Chunks are cached by SHA-256 of
+# (input, start, end) — re-runs resume for free.
 
 require_relative "glm_ocr"
 require "open3"
@@ -13,7 +14,7 @@ require "yaml"
 module ResolutionsData
   module OcrRun
     ROOT   = File.expand_path("../../", __dir__)
-    PDFS   = Dir.glob(File.join(ROOT, "reference-docs", "{ciml,conferences}", "*.pdf")).sort
+    PDFS   = Dir.glob(File.join(ROOT, "reference-docs", "{ciml,conferences}", "**", "*.pdf")).sort
     MD_DIR = File.join(ROOT, "reference-docs", ".ocr", "md")
     ONLY   = ENV["ONLY"] # set ONLY=<slug> to process one PDF
 

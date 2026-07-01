@@ -256,7 +256,7 @@ Demande au Groupe Consultatif pour les CEEMS de mettre en place un ou plusieurs 
 
 1) un résumé, une analyse et une hiérarchisation des résultats du séminaire d'apprentissage en ligne,
 
-2) les moyens optimaux de recueillir les avis d'experts des comités et sous-comités techniques pour élaborer et maintainir un contenu de haute qualité,
+2) les moyens optimaux de recueillir les avis d'experts des comités et sous-comités techniques pour élaborer et maintenir un contenu de haute qualité,
 
 3) la collaboration avec d'autres organisations appropriées,
 

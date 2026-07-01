@@ -120,11 +120,11 @@ b) rendre les documents traduits et convertis accessibles aux Membres dans un fo
 
 c) rendre compte au Comité, tous les ans, du fonctionnement du Centre de traduction du BIML.
 
-## Résolution n° 8
+## Résolution n°8
 
 Le Comité souhaite la bienvenue au Zimbabwe et à la Géorgie, nouveaux Membres Correspondants.
 
-Résolution n°9
+Résolution n° 9
 
 Le Comité,
 
@@ -152,7 +152,7 @@ Le Comité,
 
 Se félicite de la perspective de l'établissement de relations avec le Comité pour la politique en matière de consommation de l'Organisation internationale de normalisation (ISO/COPOLCO),
 
-Donne instruction au Bureau d'identifier de possibles activités de liaisons, d'encourager de telles activités au niveau des Comités technique (TC) et Sous-Comités (SC) et de rendre compte de l'avancement de la présente résolution lors de la $ 4 7^{\mathrm{e m e}} $ Réunion du CIML.
+Donne instruction au Bureau d'identifier de possibles activités de liaisons, d'encourager de telles activités au niveau des Comités technique (TC) et Sous-Comités (SC) et de rendre compte de l'avancement de la présente résolution lors de la $ 4 7 ^{\mathrm{e m e}} $ Réunion du CIML.
 
 ## Résolution n° 12
 
@@ -284,7 +284,7 @@ Le Comité,
 
 Prenant note de l'élaboration de la 3ème édition du Vocabulaire international de métrologie – Concepts fondamentaux et généraux et termes associés (VIM) par le Comité conjoint pour les guides de métrologie (JCGM), dont l'OIML est Membre adhérent,
 
-Prenant note de la publication de la 3ème édition du VIM en tant que lexique de I'OIML (OIML V 2-200:2010),
+Prenant note de la publication de la 3ème édition du VIM en tant que lexique de l'OIML (OIML V 2-200:2010),
 
 Rappelant les exigences en matière d'élaboration et de présentation des termes et définitions dans les Recommandations et les Documents de I'OIML, telles que fixées dans I'annexe B de I'OIML B 6-2:1993, et en particulier dans le paragraphe B.1.2 « Avoidance of duplications and contradictions » (ca. Comment éviter les répétitions inutiles et les contradictions),
 

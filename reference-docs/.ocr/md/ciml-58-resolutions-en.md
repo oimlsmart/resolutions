@@ -442,7 +442,7 @@ Notes the recommendation from the CEEMS AG presented in Addendum 13.2b to the Wo
 
 Welcomes this significant proposal for the organisation of the OIML's CEEMS work,
 
-Approves the CEEMS AG's proposal to form a working group to look into the implementation of the "Chiang Mai Declaration on NEXT legal metrology system (LMS)”，with the necessary administrative support from the BIML,and
+Approves the CEEMS AG's proposal to form a working group to look into the implementation of the "Chiang Mai Declaration on NEXT legal metrology system (LMS)”，with the necessary administrative support from the BIML, and
 
 Encourages Members to take part in this work and to consider how they might participate in the resulting activities.
 

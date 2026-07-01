@@ -304,7 +304,7 @@ The Committee decided:
 
 The Committee decided that the following categories of measuring instruments will become applicable within the OIML Certificate System as soon as published:
 
-R 39 Rockwell hardness machines;
+R39 Rockwell hardness machines;
 
 R 49 Water meters;
 

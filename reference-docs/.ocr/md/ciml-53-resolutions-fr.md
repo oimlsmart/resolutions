@@ -392,7 +392,7 @@ Approuve l'annulation du projet TC 8/p 6: Révision de la R 119 Tubes étalons p
 
 Le Comité,
 
-Approuve en tant que nouveau projet, sous la responsabilité du TC 18, l'élaboration d'une nouvelle Recommandation Instruments ophtalmiques - tonomètes sans contact, ou la révision de la R 145:2015 existante Instruments ophtalmiques - Tonomètes d'empreinte et d'aplanation, à conduire conformément à la proposition de projet figurant dans l'Addendum 12.1.2.9 au document de travail de cette réunion,
+Approuve en tant que nouveau projet, sous la responsabilité du TC 18, l'élaboration d'une nouvelle Recommandation Instruments ophtalmiques - tonomètres sans contact, ou la révision de la R 145:2015 existante Instruments ophtalmiques - Tonomètres d'empreinte et d'aplanation, à conduire conformément à la proposition de projet figurant dans l'Addendum 12.1.2.9 au document de travail de cette réunion,
 
 ## Résolution no. 2018/32
 

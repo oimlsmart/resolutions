@@ -72,7 +72,7 @@ Welcomes Colombia as a new Member State and Zambia as a re-instated Member State
 
 Welcomes Iraq, Uganda and Yemen as new Corresponding Members and Guinea, Korea (DPR) and Rwanda as re-instated Corresponding Members.
 
-Resolution no. 2013/7 [Agenda item 6.1]
+Resolution no.2013/7 [Agenda item 6.1]
 
 The Committee,
 
@@ -182,7 +182,7 @@ Resolution no. 2013/14
 
 The Committee,
 
-Confirms its decision to start as a new project in TC1 Terminology, the set up and maintenance of a bilingual (i.e. English/French) electronic vocabulary containing the entries from the VIM and the VIML and additional terms and definitions validated by the Project Group.
+Confirmss its decision to start as a new project in TC1 Terminology, the set up and maintenance of a bilingual (i.e. English/French) electronic vocabulary containing the entries from the VIM and the VIML and additional terms and definitions validated by the Project Group.
 
 Resolution no. 2013/15
 
@@ -246,7 +246,7 @@ The Committee,
 
 Elects Dr. Yukinobu Miki, its Member for Japan, as second Vice-President for a six-year term.
 
-Resolution no.2013/19 [Agenda item 11]
+Resolution no. 2013/19 [Agenda item 11]
 
 The Committee,
 

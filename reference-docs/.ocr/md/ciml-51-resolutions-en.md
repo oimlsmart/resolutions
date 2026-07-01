@@ -88,7 +88,7 @@ Approves the 2015 accounts, and
 
 Instructs its President to present them to the 15th OIML Conference.
 
-## Resolution no.2016/7
+## Resolution no. 2016/7
 
 The Committee,
 

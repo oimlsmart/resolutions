@@ -40,7 +40,7 @@ The Committee welcomed Montenegro as a new Corresponding Member and expressed it
 
 The Committee instructed its President and the Bureau to continue to raise the level of awareness of the advantages of OIML Membership, in order to encourage the widest possible participation in the International Legal Metrology System.
 
-## Resolution no.3
+## Resolution no. 3
 
 The Committee rejected the appeal from Greece concerning its contributory class.
 
@@ -314,7 +314,7 @@ R 36 Verification of indenters for hardness testing machines
 
 R 37 Verification of hardness testing machines (Brinell system)
 
-R 38 Verification of hardness testing machines (Vickers system)
+R38 Verification of hardness testing machines (Vickers system)
 
 R 39 Rockwell hardness machines
 
@@ -364,23 +364,7 @@ V 3 Dictionnaire des essais de dureté (quadrilingue)
 
 Le Comité a approuvé les sujets de travail suivants:
 
-Révision du V 1:2000 Vocabulaire international des termes de métrologie légale
-
-Révision de la R 91:1990 Cinémomètres radar pour la mesure de la vitesse des véhicules
-
-Révision du D 11:2004 Exigences générales pour les instruments de mesure électroniques
-
-Nouveau projet: Document Logiciels - Méthodes et moyens de vérification
-
-Révision des exigences de la R 138 sur les bouteilles récipients-mesures par le TC 6
-
-Révision de la R 49:2006 Compteurs d'eau pour le mesurage de l'eau froide potable et de l'eau chaude
-
-Révision de la R 18:1989 Pyromètres optiques à filament disparaissant
-
-Révision de la R 60:2000 Réglementation métrologique des cellules de pesée
-
-Révision de la R 16-1:2002 Sphygmomanomètres non invasifs mécaniques
+<table border="1"><tr><td>Révision du V 1:2000</td><td>Vocabulaire international des termes de métrologie légale</td></tr><tr><td>Révision de la R 91:1990</td><td>Cinémomètres radar pour la mesure de la vitesse des véhicules</td></tr><tr><td>Révision du D 11:2004</td><td>Exigences générales pour les instruments de mesure électroniques</td></tr><tr><td>Nouveau projet: Document</td><td>Logiciels-Méthodes et moyens de vérification</td></tr><tr><td colspan="2">Révision des exigences de la R 138 sur les bouteilles récipients-mesures par le TC 6</td></tr><tr><td>Révision de la R 49:2006</td><td>Compteurs d'eau pour le mesure de l'eau froide potable et de l'eau chaude</td></tr><tr><td>Révision de la R 18:1989</td><td>Pyromètres optiques à filament disparaissant</td></tr><tr><td>Révision de la R 60:2000</td><td>Réglementation métrologique des cellules de pesée</td></tr><tr><td>Révision de la R 16-1:2002</td><td>Sphygmomanomètres non invasifs mécaniques</td></tr></table>
 
 Le Comité a annulé le projet suivant:
 

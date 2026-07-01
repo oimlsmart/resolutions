@@ -66,7 +66,7 @@ The Committee,
 
 Notes the report given by the BIML Director on the activities of the Bureau.
 
-Resolution no. 2017/5
+Resolution no.2017/5
 
 (Agenda Item 8)
 

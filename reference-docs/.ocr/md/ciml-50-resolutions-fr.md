@@ -10,7 +10,9 @@ RÉSOLUTIONS
 
 ![](page=0,bbox=[888, 1800, 1117, 1998])
 
-BUREAU INTERNATIONAL DE METROLOGIE LEGALE (BIML) 11, RUE TURGOT-F-75009 PARIS-FRANCE
+BUREAU INTERNATIONAL DE METROLOGIE LEGALE (BIML)
+
+11, RUE TURGOT-F-75009 PARIS-FRANCE
 
 TEL: 33(0)148781282
 
@@ -312,7 +314,7 @@ c) s'il n'est pas possible, dans un délai raisonnable déterminé par le Comit�
 
 Le Comité,
 
-Felicite les personnes récompensées cette année par une Médaille de l'OIML :
+Félicite les personnes récompensées cette année par une Médaille de l'OIML :
 
 - M. Ngo Quy Viet, Vietnam, et
 
