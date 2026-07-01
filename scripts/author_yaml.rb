@@ -160,9 +160,9 @@ module ResolutionsData
       groups = {}
       sources.each do |src|
         next unless src["slug"]
-        # Strip the trailing language tag (en / fr / bilingual) so
-        # the same meeting with EN and FR PDFs groups together.
-        base_slug = src["slug"].sub(/-(en|fr|bilingual)\z/, '')
+        # Strip the trailing language tag (en / fr / bilingual, case-insensitive)
+        # so the same meeting with EN and FR PDFs groups together.
+        base_slug = src["slug"].sub(/-(en|fr|bilingual)\z/i, '')
         groups[base_slug] ||= []
         groups[base_slug] << src
       end
@@ -171,7 +171,12 @@ module ResolutionsData
 
     def self.run
       FileUtils.mkdir_p(OUT_DIR)
+      only = ENV["ONLY"] # set ONLY=<base_slug> to author one meeting
       sources = YAML.load_file(MANIFEST)["sources"]
+      by_meeting = group_sources_by_meeting(sources)
+      by_meeting = by_meeting.select { |slug, _| slug == only } if only && !only.empty?
+      raise "no meeting matching ONLY=#{only}" if by_meeting.empty?
+
       stats = Hash.new(0)
       pending = []
 
@@ -179,7 +184,6 @@ module ResolutionsData
       # meeting gets ONE YAML file containing every language version
       # (each resolution row tagged with its `language:`). See
       # TODO.complete/13-meeting-single-file-yaml.md.
-      by_meeting = group_sources_by_meeting(sources)
       by_meeting.each do |meeting_slug, meeting_sources|
         emit_meeting(meeting_slug, meeting_sources, stats, pending)
       end
@@ -211,26 +215,42 @@ module ResolutionsData
         end
         md = File.read(md_path)
 
-        per_lang = case src["lang"]
-                   when "bilingual"
-                     en_md, fr_md = split_bilingual(md)
-                     parse_with_fallback(en_md, src, :en) +
-                       parse_with_fallback(fr_md, src, :fr)
-                   when "fr"
-                     parse_with_fallback(md, src, :fr)
-                   else
-                     parse_with_fallback(md, src, :en)
-                   end
+        # For bilingual sources, split into EN + FR halves and tag each
+        # parsed resolution with its actual language. Non-bilingual
+        # sources get a single tag based on src['lang'].
+        tagged =
+          case src["lang"]
+          when "bilingual"
+            en_md, fr_md = split_bilingual(md)
+            [
+              *parse_with_fallback(en_md, src, :en).map { |r| [r, "eng"] },
+              *parse_with_fallback(fr_md, src, :fr).map { |r| [r, "fra"] },
+            ]
+          when "fr"
+            parse_with_fallback(md, src, :fr).map { |r| [r, "fra"] }
+          else
+            parse_with_fallback(md, src, :en).map { |r| [r, "eng"] }
+          end
 
-        lang_639_3 = (src["lang"] == "fr" ? "fra" : "eng")
-        per_lang.each do |r|
+        tagged.each do |(r, lang_639_3)|
           r["language_code"] = lang_639_3
           r["script"] = "Latn"
           id_key = r["identifier"].to_s
           (by_identifier[id_key] ||= {})[lang_639_3] = r
         end
-        stats[:resolutions] += per_lang.size
-        titles_by_lang[lang_639_3.to_sym] ||= src["title"].to_s
+        stats[:resolutions] += tagged.size
+        # For bilingual sources both halves share the same manifest title;
+        # we put it in both eng and fra slots. The migrate script (and the
+        # title_localized block in render) handles the duplication.
+        case src["lang"]
+        when "bilingual"
+          titles_by_lang[:eng] ||= src["title"].to_s
+          titles_by_lang[:fra] ||= src["title_fr"].to_s if src["title_fr"]
+        when "fr"
+          titles_by_lang[:fra] ||= src["title"].to_s
+        else
+          titles_by_lang[:eng] ||= src["title"].to_s
+        end
       end
 
       resolutions = by_identifier.values.map { |langs| build_resolution_with_localizations(langs) }
@@ -275,12 +295,13 @@ module ResolutionsData
       }
     end
 
-    # Try the formal parser, then the narrative parser, then return [].
+    # Try the formal parser, then the narrative parser. The narrative
+    # parser handles both formats:
+    #   * CIML 39+ "## DECISIONS" + "## 1 Title"          (Arabic numerals)
+    #   * CIML 15-29 "## MINUTES" + "## I — Title"        (Roman + sub-letter)
     def self.parse_with_fallback(md, src, lang)
       resolutions, _deferred = parse(md, src, lang)
-      if resolutions.empty? && md =~ /#*\s*D[ÉE]CISIONS\b/i
-        resolutions, _deferred = parse_narrative(md, src, lang)
-      end
+      resolutions = parse_narrative(md, src, lang).first if resolutions.empty?
       resolutions
     end
 
@@ -305,13 +326,27 @@ module ResolutionsData
       end
 
       pdf_paths = meeting_sources.map { |s| source_pdf_path(s) }.join(" | ")
-      url_lines = meeting_sources.map do |s|
-        lang_639_3 = (s["lang"] == "fr" ? "fra" : "eng")
-        ref  = s["url"].to_s.gsub('"', '\"')
-        "    - { ref: \"#{ref}\", format: pdf, language_code: #{lang_639_3} }"
+      url_lines = meeting_sources.flat_map do |s|
+        case s["lang"]
+        when "bilingual"
+          [
+            "    - { ref: \"#{s['url'].to_s.gsub('"', '\"')}\", format: pdf, language_code: eng }",
+            "    - { ref: \"#{s['url'].to_s.gsub('"', '\"')}\", format: pdf, language_code: fra }",
+          ]
+        when "fr"
+          ["    - { ref: \"#{s['url'].to_s.gsub('"', '\"')}\", format: pdf, language_code: fra }"]
+        else
+          ["    - { ref: \"#{s['url'].to_s.gsub('"', '\"')}\", format: pdf, language_code: eng }"]
+        end
       end.join("\n")
 
-      available_langs = meeting_sources.map { |s| (s["lang"] == "fr" ? "fra" : "eng") }.uniq.join(", ")
+      available_langs = meeting_sources.flat_map do |s|
+        case s["lang"]
+        when "bilingual" then ["eng", "fra"]
+        when "fr" then ["fra"]
+        else ["eng"]
+        end
+      end.uniq.join(", ")
 
       <<~YAML
         # yaml-language-server: $schema=#{SCHEMA_URL}
@@ -416,12 +451,15 @@ module ResolutionsData
       pending << "#{out_slug}: ERROR #{e.class}: #{e.message}"
     end
 
-    # Split a bilingual markdown doc at the "# Résolutions" (FR) header.
-    # Returns [en_md, fr_md]. If the header isn't found, returns [md, ""].
+    # Split a bilingual markdown doc at the FR half's resolutions header.
+    # Returns [en_md, fr_md]. If no FR marker is found, returns [md, ""].
+    #
+    # Recognized split points (top-level `#` headers only):
+    #   # Résolutions                         (most bilingual resolution docs)
+    #   # DÉCISIONS et RÉSOLUTIONS            (ciml-38-decisions style)
+    #   # Décisions et Résolutions            (variant capitalization)
     def self.split_bilingual(md)
-      # The French half starts at a top-level "# Résolutions" header.
-      # Require the é in the regex so we don't split at the EN "# Resolutions".
-      m = md.match(/\n#\s+Résolutions\b/)
+      m = md.match(/\n#\s+(?:R[ée]solutions|D[ÉE]CISIONS\s+et\s+R[ÉE]SOLUTIONS|D[ée]cisions\s+et\s+R[ée]solutions)\b/)
       return [md, ""] unless m
       [md[0...m.begin(0)], md[m.begin(0)..]]
     end
@@ -483,19 +521,24 @@ module ResolutionsData
     end
 
 
-    # Parse narrative "DECISIONS" format (CIML 39–42, 2004–2007). Each numbered
-    # section becomes a resolution; each body paragraph starting with
-    # "The Committee [verb]" becomes an action.
+    # Parse narrative minutes/decisions format. Supports both:
+    #   * CIML 39+ "## N <title>" or "## N.M <title>"    (Arabic numerals)
+    #   * CIML 15-29 "## <Roman> — <title>"               (Roman + optional sub-letter)
+    #     e.g. "## IV b — Title"                          (Roman + sub-letter)
+    # Each numbered section becomes a resolution; each body paragraph
+    # starting with "The Committee [verb]" becomes an action.
+    # Match narrative section headers in either form:
+    #   "## IV — Title"      (Roman + em-dash, CIML 15-29 style)
+    #   "## IV b — Title"    (Roman + sub-letter)
+    #   "## 1 Title"         (Arabic, CIML 39+ style)
+    #   "## 2.1. Title"      (Arabic with sub-number)
+    NARRATIVE_SECTION_RE = /\A##\s+([IVX]+(?:\s?[a-z])?|\d+(?:\.\d+)?)\s*(?:[—–-]+|\.?)\s+(.+)/
+
     def self.parse_narrative(md, src, lang)
       res = []
       date_str = meeting_date(src)
 
-      # Slice from "## DECISIONS" to either the "ANNEX" section or end of file
-      if (m = md.match(/(^|\n)#+\s+D[ÉE]CISIONS\b/i))
-        body = md[m.end(0)..]
-      else
-        body = md
-      end
+      body = pick_narrative_body(md)
       # Cut at ANNEX
       if (m = body.match(/\n#\s+ANNEX\b/i))
         body = body[0...m.begin(0)]
@@ -505,22 +548,112 @@ module ResolutionsData
       current_body = []
 
       body.each_line do |line|
-        if line =~ /\A##\s+(\d+(?:\.\d+)?)\.?\s+(.*)/
-          res << build_narrative_resolution(current_header, current_body, src, date_str) if current_header
+        if line =~ NARRATIVE_SECTION_RE
+          if current_header && !looks_like_toc?(current_body)
+            res << build_narrative_resolution(current_header, current_body, src, date_str, lang)
+          end
           current_header = [$1, $2.strip]
           current_body = []
         elsif current_header
           current_body << line
         end
       end
-      res << build_narrative_resolution(current_header, current_body, src, date_str) if current_header
+      if current_header && !looks_like_toc?(current_body)
+        res << build_narrative_resolution(current_header, current_body, src, date_str, lang)
+      end
 
       [res, 0]
     end
 
-    def self.build_narrative_resolution(header, body_lines, src, date_str)
-      number, title = header
+    # Decide which slice of the markdown to walk for narrative sections.
+    #   * Has "## MINUTES" + "## DECISIONS": parse MINUTES → DECISIONS
+    #     (the narrative minutes between the two markers).
+    #   * Has only "## DECISIONS" with narrative before it: parse
+    #     pre-DECISIONS (e.g. CIML 24-style narrative + recap).
+    #   * Has only "## DECISIONS" with no narrative before: parse
+    #     POST-DECISIONS (e.g. CIML 38 dedicated decisions doc).
+    #   * If POST-DECISIONS starts with "## CIML YYYY POINT/ITEM N"
+    #     formal recap headers, return empty (skip — unparseable format).
+    #   * No "## DECISIONS" at all: walk whole doc (CIML 15-29 style).
+    def self.pick_narrative_body(md)
+      minutes_re = /(^|\n)#+\s+(?:MINUTES|COMPTE\s+RENDU\s+DES\s+D[ÉE]BATS)\b/i
+      decisions_re = /(^|\n)(#+\s+D[ÉE]CISIONS\b[^\n]*)/i
+
+      minutes_m = md.match(minutes_re)
+      decisions_m = md.match(decisions_re)
+
+      if minutes_m && decisions_m && minutes_m.begin(0) < decisions_m.begin(0)
+        # Standard narrative minutes between MINUTES and DECISIONS markers.
+        return md[minutes_m.end(0)...decisions_m.begin(0)]
+      end
+
+      return md unless decisions_m
+
+      pre = md[0...decisions_m.begin(0)]
+      # If pre-DECISIONS has numbered/Roman section headers, treat it as
+      # the narrative and parse it.
+      if pre =~ /\n##\s+(?:\d+|[IVX]+\s)/
+        return pre
+      end
+
+      # No narrative before DECISIONS — inspect what comes after.
+      after = md[decisions_m.end(0)..]
+      first_section = after.each_line.lazy.drop_while do |line|
+        line !~ /\A##\s+/
+      end.first
+
+      if first_section && first_section =~ /\A##\s+.*CIML\s+\d{4}[\s-]+(?:POINT|ITEM)/i
+        # Formal recap with POINT/ITEM headers — unparseable, skip.
+        ""
+      else
+        after
+      end
+    end
+
+    # Heuristic: a body is a SOMMAIRE/TOC fragment if most of its
+    # non-empty lines look like list entries ("N. ...", "N.M. ...", "a) ...").
+    # Such sections are OCR artifacts (TOC lines mis-rendered as ## headers)
+    # and should be skipped.
+    def self.looks_like_toc?(body_lines)
+      non_empty = body_lines.map(&:strip).reject(&:empty?)
+      return true if non_empty.empty?
+      list_pat = /\A(?:\d+\.\s+|\d+\.\d+\.?\s+|[a-z]\)\s+|[IVX]+\s+[—–-])/
+      list_lines = non_empty.count { |line| line =~ list_pat }
+      (list_lines.to_f / non_empty.size) > 0.5
+    end
+
+    # Convert a Roman numeral string to its integer value. Only handles
+    # I/X/V (sufficient for CIML section numbers, max ~30).
+    def self.roman_to_int(s)
+      vals = { "I" => 1, "V" => 5, "X" => 10 }
+      total = 0
+      prev  = 0
+      s.chars.reverse.each do |c|
+        v = vals[c] || 0
+        v < prev ? total -= v : total += v
+        prev = v
+      end
+      total
+    end
+
+    # Normalize a captured section-number token into the canonical form
+    # used in identifiers. Examples:
+    #   "IV"    → "4"
+    #   "IV b"  → "4b"
+    #   "2.1"   → "2.1"
+    #   "1"     → "1"
+    def self.canonical_section_number(token)
+      if token =~ /\A([IVX]+)\s?([a-z])?\z/
+        n = roman_to_int($1)
+        return $2 ? "#{n}#{$2}" : n.to_s
+      end
+      token
+    end
+
+    def self.build_narrative_resolution(header, body_lines, src, date_str, lang = :en)
+      raw_number, title = header
       kind_label = src["kind"] == "ciml" ? "CIML" : "Conference"
+      number = canonical_section_number(raw_number)
       identifier = "#{kind_label}/#{src['year']}/#{number}"
 
       paragraphs = body_lines.join.split(/\n\s*\n/).map(&:strip).reject(&:empty?)
@@ -539,9 +672,7 @@ module ResolutionsData
       end
 
       # Fallback: if no verb was recognized but the section had body content,
-      # preserve it as a "notes" action so the body isn't lost. Handles
-      # passive voice ("The Minutes of the 40th CIML Meeting were approved")
-      # and other structures the verb list doesn't cover.
+      # preserve it as a "notes" action so the body isn't lost.
       if acts.empty? && paragraphs.any?
         first = paragraphs.first
         msg = convert_tables(first)
@@ -555,11 +686,14 @@ module ResolutionsData
       title_str = title.to_s.strip
       title_str = title_str[0...100] + "…" if title_str.size > 100
 
+      # Subject default per language
+      subject_str = lang == :fr ? "CIML" : "CIML"
+
       {
         "identifier"     => identifier,
         "doi"            => compute_doi(src, identifier),
         "urn"            => compute_urn(src, identifier),
-        "subject"        => "CIML",
+        "subject"        => subject_str,
         "title"          => title_str.empty? ? "(Untitled)" : title_str,
         "dates"          => [{ "start" => date_str, "kind" => "decision" }],
         "considerations" => [],
@@ -1046,8 +1180,25 @@ module ResolutionsData
     end
 
     def self.source_pdf_path(src)
-      kind_dir = src["kind"] == "ciml" ? "ciml" : "conferences"
-      "reference-docs/#{kind_dir}/#{src['slug']}.pdf"
+      kind = src["kind"] == "ciml" ? "ciml" : "conferences"
+      # CIML PDFs were reorganized into ciml/{minutes,resolutions}/ subdirs.
+      # Conferences stay flat under conferences/.
+      subdir =
+        if src["path"]
+          src["path"]
+        elsif kind == "ciml"
+          case src["doc_kind"].to_s
+          when "minutes" then "minutes"
+          else "resolutions"
+          end
+        else
+          ""
+        end
+      if subdir.empty?
+        "reference-docs/#{kind}/#{src['slug']}.pdf"
+      else
+        "reference-docs/#{kind}/#{subdir}/#{src['slug']}.pdf"
+      end
     end
 
     def self.number_to_ordinal(n, lang)

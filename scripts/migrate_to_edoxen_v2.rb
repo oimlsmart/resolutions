@@ -161,8 +161,12 @@ def migrate_resolution(res, source_file)
     res["identifier"] = [{ "prefix" => "", "number" => "" }]
   end
 
-  # Resolution.type — default based on slug (decisions vs resolutions).
-  res["type"] ||= source_file.include?("-decisions-") ? "decision" : "resolution"
+  # Resolution.type — default based on source file naming.
+  #   *-decisions-* / *_decisions* / *-decisions.yaml → "decision"
+  #   everything else → "resolution"
+  if res["type"].nil? || res["type"].to_s.empty?
+    res["type"] = source_file =~ /(decisions|minutes)/ ? "decision" : "resolution"
+  end
 
   # Resolution.dates[] → [{date, type}]
   if res["dates"].is_a?(Array)
