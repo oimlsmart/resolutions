@@ -479,7 +479,7 @@ module ResolutionsData
 
 
         agenda_item = extract_agenda_item(body)
-        subject_str = extract_subject(body, lang)
+        subject_str = extract_subject(body, lang, src)
         date_str    = meeting_date(src)
         cleaned     = strip_meta_lines(body)
         cons, acts  = classify_body(cleaned, lang, date_str)
@@ -686,8 +686,12 @@ module ResolutionsData
       title_str = title.to_s.strip
       title_str = title_str[0...100] + "…" if title_str.size > 100
 
-      # Subject default per language
-      subject_str = lang == :fr ? "CIML" : "CIML"
+      # Subject: extract the issuer phrase ("The Committee", "Le Comité",
+      # "La Conférence", ...) directly from the section body if present.
+      # Preserves source text verbatim — no normalization to canonical
+      # labels. Returns nil when the body is verb-led and contains no
+      # explicit subject (which is fine for the optional field).
+      subject_str = extract_subject(body_lines.join, lang, src)
 
       {
         "identifier"     => identifier,
@@ -861,11 +865,16 @@ module ResolutionsData
 
     # Per-language canonical labels by subject kind. Returns the
     # display string that goes into Resolution.localization.subject.
+    #
+    # The subject is the issuer of the resolution AS STATED IN THE SOURCE
+    # TEXT, not an abbreviation or category. So a body that starts with
+    # "The Committee approves..." gets subject="The Committee"; one
+    # that starts with "Le Comité a approuvé..." gets subject="Le Comité".
     SUBJECT_LABELS_BY_KIND = {
-      committee:   { en: "CIML",            fr: "CIML" },
-      conference:  { en: "OIML Conference", fr: "Conférence OIML" },
-      bureau:      { en: "BIML Bureau",     fr: "Bureau du BIML" },
-      council:     { en: "Council",         fr: "Conseil" },
+      committee:   { en: "The Committee",  fr: "Le Comité" },
+      conference:  { en: "The Conference", fr: "La Conférence" },
+      bureau:      { en: "The Bureau",     fr: "Le Bureau" },
+      council:     { en: "The Council",    fr: "Le Conseil" },
     }.freeze
 
     # Detect the subject kind from a resolution body. Walks each line,
@@ -881,11 +890,36 @@ module ResolutionsData
       :unknown
     end
 
-    def self.extract_subject(body, lang)
-      kind = detect_subject_kind(body)
-      return SUBJECT_LABELS_BY_KIND.dig(kind, lang) || SUBJECT_LABELS_BY_KIND.dig(kind, :en) || "" unless kind == :unknown
-      # Fallback: derive from lang
-      lang == :fr ? "Conférence OIML" : "OIML Conference"
+    # Locate the first issuer phrase ("The Committee", "Le Comité",
+    # "La Conférence", ...) in the body and return its literal text.
+    # The literal text is preserved exactly as it appears — case,
+    # accent, and any surrounding punctuation from the source are kept,
+    # so a source with "le Comité" yields subject "le Comité", not
+    # "Le Comité". Returns nil if no issuer phrase is found (e.g. a
+    # verb-led formal resolution with no explicit subject).
+    def self.extract_subject(body, lang, _src = nil)
+      phrases =
+        case lang
+        when :fr
+          [
+            /\bLe\s+Comit[ée]\b/,        /\ble\s+Comit[ée]\b/,
+            /\bLa\s+Conf[ée]rence\b/,    /\bla\s+Conf[ée]rence\b/,
+            /\bLe\s+Bureau\b/,           /\ble\s+Bureau\b/,
+            /\bLe\s+Conseil\b/,          /\ble\s+Conseil\b/,
+          ]
+        else
+          [
+            /\bThe\s+Committee\b/,       /\bthe\s+Committee\b/,
+            /\bThe\s+Conference\b/,      /\bthe\s+Conference\b/,
+            /\bThe\s+Bureau\b/,          /\bthe\s+Bureau\b/,
+            /\bThe\s+Council\b/,         /\bthe\s+Council\b/,
+          ]
+        end
+      phrases.each do |pat|
+        m = body.match(pat)
+        return m[0] if m
+      end
+      nil
     end
 
     # Drop metadata lines (agenda item, subject marker) from body, and

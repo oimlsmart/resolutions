@@ -35,7 +35,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Appointment of an Honorary Member of the Committee
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Based on a proposal put forward by Mr. Faber, CIML President, the
@@ -49,7 +49,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nomination d'un Membre d'Honneur du Comité
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a nommé à l''unanimité Dr. Sam Chappell, ancien Premier
@@ -72,7 +72,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the minutes of the $ 3 4^{\mathrm{th}} $ CIML Meeting
-    subject: CIML
     actions:
     - type: remarks
       message: 'The minutes of the $ 3 4^{\mathrm{th}} $ CIML Meeting were approved
@@ -85,7 +84,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption du compte rendu de la 34ème réunion du CIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a approuvé le compte rendu de sa 34ème réunion sans modifications.
@@ -107,7 +106,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Member States and Corresponding Members
-    subject: CIML
     actions:
     - type: remarks
       message: "## Situation of certain Members\n"
@@ -117,7 +115,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: États Membres et Membres Correspondants
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''une liste donnant la population et la classe
@@ -144,7 +142,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Financial matters
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee adopted the Auditor''s report for 1999 and requested
@@ -157,7 +155,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Questions financières
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a approuvé le rapport comptable pour 1999 et a demandé à
@@ -180,7 +178,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Presidential Council activities
-    subject: CIML
+    subject: the Conference
     actions:
     - type: remarks
       message: 'Mr. Faber informed the Participants that the Presidential Council
@@ -203,7 +201,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Activités du Conseil de la Présidence
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport de son Président relatif aux activités
@@ -226,7 +224,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: BIML activities
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr. Athané made some remarks concerning a written report on BIML activities
@@ -249,7 +246,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Activités du BIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport décrivant les activités du BIML
@@ -272,7 +269,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Technical activities
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: "## Examination of the situation of certain TC's/SC's, if appropriate\n"
@@ -282,7 +279,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Activités techniques
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport du BIML décrivant la situation
@@ -313,7 +310,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Eleventh International Conference of Legal Metrology Agenda and program
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee accepted the draft agenda and schedule proposed for
@@ -327,7 +324,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Onzième Conférence Internationale de Métrologie Légale
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: "## Ordre du jour et programme\n"
@@ -347,7 +344,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: CIML Presidency
-    subject: CIML
     actions:
     - type: remarks
       message: "## Election of the CIML President\n"
@@ -357,7 +353,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Présidence du CIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a élu Mr. Faber (Pays-Bas) pour continuer comme Président
@@ -388,7 +384,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Director of the BIML
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'The Candidate nominated by the Selection Committee, Mr. Magana from
@@ -402,7 +398,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Directeur du BIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a nommé M. Magana (France) comme futur Directeur du BIML.
@@ -425,7 +421,7 @@ resolutions:
     script: Latn
     title: Eleventh International Conference of Legal Metrology Examination of the
       decisions made by the Confer…
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'Mr. Faber rapidly reviewed the decisions made by the Eleventh Conference
@@ -441,7 +437,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Onzième Conférence Internationale de Métrologie Légale
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note des décisions de la Conférence et a demandé
@@ -466,7 +462,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: "$ 3 6^{\\mathrm{th}} $ CIML Meeting (2001)"
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. Issaev confirmed that the Committee was invited to hold its next
@@ -481,7 +477,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 36ème réunion du CIML (2001)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a décidé de tenir sa 36ème réunion à Moscou, Fédération
@@ -504,7 +500,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: 37th CIML Meeting (2002)
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'Mr. Zarin confirmed that Israel was willing to host the CIML Meeting
@@ -518,7 +514,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 37ème réunion du CIML (2002)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a noté qu''Israël était en mesure de confirmer son invitation
@@ -542,7 +538,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Adoption of decisions
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'The text of the proposed decisions was read; the Committee adopted
@@ -556,7 +552,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption des décisions
-    subject: CIML
     actions:
     - type: remarks
       message: 'Les décisions ci-dessus ont été adoptées.

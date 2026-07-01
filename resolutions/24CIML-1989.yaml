@@ -29,7 +29,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU COMPTE RENDU DE LA 23e REUNION DU COMITE
-    subject: CIML
     actions:
     - type: remarks
       message: 'Ce compte rendu est adopté sans modification
@@ -51,7 +50,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouvelles adhésions Perspectives d'adhésions
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. ATHANÉ rappelle que quatre Etats ont adhéré comme Membres Correspondants
@@ -79,7 +77,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation de certains Etats Membres
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. ATHANÉ rappelle que la Guinée a été déclarée démissionnaire d''office,
@@ -107,7 +104,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption du rapport comptable pour 1988
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Ce rapport est adopté et le Comité charge son Président et le Directeur
@@ -130,7 +127,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation financière pour 1989 et 1990
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'M. ATHANÉ rappelle qu''il a proposé au Comité, fin 1988, de ne pas
@@ -159,7 +156,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PERSONNEL DU BUREAU
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité prend par ailleurs connaissance d''informations sur les
@@ -184,7 +181,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Autres questions.
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale
@@ -206,7 +203,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: MISE EN APPLICATION DES DECISIONS DE LA HUITIEME CONFERENCE
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. ATHANÉ rappelle les différentes décisions de la Huitième Conférence
@@ -231,7 +228,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: CERTIFICATION
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité avait ensuite chargé le Secrétariat Rapporteur SP 2-Sr 4,
@@ -264,7 +261,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Actions nécessaires au bon fonctionnement du système
-    subject: CIML
+    subject: Le Bureau
     actions:
     - type: remarks
       message: 'M. BIRKELAND propose que les discussions sur ce sujet prennent comme
@@ -287,7 +284,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: TRAVAUX DES SECRETARIATS
-    subject: CIML
+    subject: le Bureau
     actions:
     - type: remarks
       message: '7. 1. Examen de l''état d''avancement des travaux
@@ -309,7 +306,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Mode de travail des Secrétariats de l'OIML
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: "## a) Informations sur la révision du Mode de travail\n"
@@ -329,7 +326,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption de Recommandations Internationales
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. BIRKELAND rappelle que, pour la première fois, le Comité va adopter,
@@ -357,7 +354,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: POLITIQUE A LONG TERME DE L'ORGANISATION
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale
@@ -379,7 +376,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PAYS EN DEVELOPEMENT
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'M. BENKIRANE, Président du Conseil de Développement, donne un résumé
@@ -404,7 +401,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: SEMINAIRES OIML
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. THULIN informe le Comité de la préparation d''un séminaire technique
@@ -427,7 +424,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT D'ACTIVITE DU BIML
-    subject: CIML
     actions:
     - type: remarks
       message: 'Un rapport écrit couvrant la période octobre 1988-septembre 1989 est
@@ -450,7 +446,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Bulletin de l'OIML
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. ATHANÉ indique que le Comité International des Poids et Mesures
@@ -475,7 +471,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: DATE ET LIEU DE LA PROCHAINE REUNION
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité donne son accord et M. CRUZ indique que les informations

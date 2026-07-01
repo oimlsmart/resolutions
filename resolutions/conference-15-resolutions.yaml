@@ -35,7 +35,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approves the minutes of the 14th Conference in 2012.
-    subject: OIML Conference
+    subject: The Conference
     actions:
     - type: approves
       message: 'Approves the minutes of the 14th Conference in 2012.
@@ -48,7 +48,7 @@ resolutions:
     script: Latn
     title: Approuve le compte rendu de la $ 1 4^{\mathrm{\text{ème}}} $ Conférence
       en 2012.
-    subject: Conférence OIML
+    subject: La Conférence
     actions:
     - type: approves
       message: 'Approuve le compte rendu de la $ 1 4^{\mathrm{\text{ème}}} $ Conférence
@@ -71,7 +71,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Resolves
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: having
       message: 'Having regard to Article XXV, final paragraph, of the Convention,
@@ -100,7 +100,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 'Décide que '
-    subject: Conférence OIML
+    subject: La Conférence
     considerations:
     - type: having
       message: 'Vu le dernier paragraphe de l''Article XXV de la Convention,
@@ -140,7 +140,7 @@ resolutions:
     script: Latn
     title: Requests the Committee to consider the policy it should adopt towards the
       long-term level
-    subject: OIML Conference
+    subject: the Committee
     considerations:
     - type: having
       message: 'Having regard to its discussions on the levels of reserves appropriate
@@ -164,7 +164,7 @@ resolutions:
     script: Latn
     title: Demande au Comité d'examiner la politique qu'il devrait adopter en ce qui
       concerne le
-    subject: Conférence OIML
+    subject: La Conférence
     considerations:
     - type: having
       message: 'Vu ses discussions sur le niveau des réserves convenant au fonctionnement
@@ -199,7 +199,7 @@ resolutions:
     script: Latn
     title: 'Resolves: The audited accounts for 2012, 2013, 2014 and 2015 are hereby
       approved. The'
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: having
       message: 'Having regard to Article XXV, penultimate paragraph, of the Convention,
@@ -226,7 +226,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 'Décide que : Les comptes audités pour 2012, 2013, 2014 et 2015 sont à'
-    subject: Conférence OIML
+    subject: La Conférence
     considerations:
     - type: having
       message: 'Vu l''avant-dernier paragraphe de l''Article XXV de la Convention,
@@ -265,7 +265,7 @@ resolutions:
     script: Latn
     title: 'Resolves: The OIML publications listed in the report in Annex D are hereby
       sanctioned.'
-    subject: OIML Conference
+    subject: the Committee
     considerations:
     - type: having
       message: 'Having regard to Article VIII, first and fifth paragraphs, of the
@@ -295,7 +295,7 @@ resolutions:
     script: Latn
     title: 'Décide que : Les publications de l''OIML listées dans le rapport en Annexe
       D'
-    subject: Conférence OIML
+    subject: le Comité
     considerations:
     - type: having
       message: 'Vu les $ 1^{\mathrm{er}} $ et $ 5^{\mathrm{ème}} $ paragraphes de
@@ -335,7 +335,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Resolves
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: having
       message: 'Having regard to Article XXIV, first paragraph, Article XXVI (1),
@@ -376,7 +376,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 'Décide que '
-    subject: Conférence OIML
+    subject: La Conférence
     considerations:
     - type: having
       message: 'Vu le premier paragraphe de l''Article XXIV, l''Article XXVI (1),
@@ -428,7 +428,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Resolves
-    subject: OIML Conference
+    subject: the Committee
     considerations:
     - type: having
       message: 'Having regard to Article XIII of the Convention,
@@ -458,7 +458,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Décide que
-    subject: Conférence OIML
+    subject: le Comité
     considerations:
     - type: having
       message: 'Vu l''Article XIII de la Convention,
@@ -498,7 +498,7 @@ resolutions:
     script: Latn
     title: 'Resolves: The Committee is hereby charged to organize the 16th Conference
       in 2020, the'
-    subject: OIML Conference
+    subject: The Committee
     considerations:
     - type: having
       message: 'Having regard to Article X of the Convention,
@@ -594,7 +594,7 @@ resolutions:
     script: Latn
     title: 'Décide que : Le Comité est à présent chargé d''organiser la 16eme Conférence
       en'
-    subject: Conférence OIML
+    subject: Le Comité
     considerations:
     - type: having
       message: 'Vu l''Article X de la Convention,

@@ -29,7 +29,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF THE MINUTES OF THE TWENTY-FIRST MEETING OF THE COMMITTEE
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Minutes were approved with the following amendments :
@@ -51,7 +51,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New accessions ; expected accessions
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND reminded the Committee of the accession of PORTUGAL as
@@ -74,7 +74,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: The situation of some Member States and Corresponding Members
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr ATHANE reported that Venezuela had asked to be considered as no
@@ -97,7 +96,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the Auditor's reports for 1985 and 1986
-    subject: CIML
+    subject: The Committee
     actions:
     - type: approves
       message: 'The Committee approved these two reports and instructed its President
@@ -120,7 +119,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: The financial position in 1987 and 1988
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr ATHANE reported that at the end of 1986 and the beginning of 1987
@@ -148,7 +147,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: STAFF OF THE BUREAU
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee :
@@ -170,7 +169,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Planning exercise for the period 1985 to 1988
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'M. PETIK drew the attention of the Committee to the final drafts of
@@ -201,7 +200,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Preparation of the plan for the period 1989 to 1992
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND reminded the Committee of the reasons which had led it
@@ -233,7 +232,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: State of progress of work
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr BIRKELAND introduced the paper, "State of progress of the work
@@ -257,7 +255,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Particular Secretariats (creation, abolition, assignment of responsibilities)
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr ATHANE gave an account of the situation in which some of the Secretariats
@@ -281,7 +279,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Working method of OIML Secretariats
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND pointed out that the document Working Method of OIML
@@ -304,7 +302,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: CERTIFICATION
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND introduced this item by stressing the importance for
@@ -335,7 +333,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Reports from the host country and from BIML on preparations for the Conference
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRCH detailed fully the preparations for the Eighth Conference,
@@ -361,7 +359,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Preliminary budgetary proposals for the financial period 1989 to 1992
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr ATHANE submitted a preliminary draft agenda for the Conference
@@ -384,7 +382,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: DEVELOPING COUNTRIES
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr THULIN summarised the Bureau''s activities since the last meeting
@@ -407,7 +405,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: CATEGORIES OF OIML PUBLICATIONS
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr EDGERLY reminded the Committee that the Presidential Council had
@@ -439,7 +437,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML SEMINARS
-    subject: CIML
+    subject: The Bureau
     actions:
     - type: remarks
       message: 'Mr THULIN spoke of the seminar on the measurement of large quantities
@@ -468,7 +466,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: REPORT ON THE ACTIVITIES OF BIML
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee noted a report, of which copies were distributed during
@@ -492,7 +490,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: LIAISON WITH OTHER INTERNATIONAL INSTITUTIONS
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'a) Mr ATHANE spoke about cooperation between BIPM, IEC, ISO and BIML,
@@ -517,7 +515,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: TERMINOLOGY
-    subject: CIML
+    subject: The Committee
     actions:
     - type: approves
       message: 'The Committee approved the report of the 21st CIML meeting with the

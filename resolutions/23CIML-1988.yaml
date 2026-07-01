@@ -30,7 +30,7 @@ resolutions:
     script: Latn
     title: MINUTES OF THE 22nd MEETING OF THE COMMITTEE AND RECONSIDERATION OF THE
       MINUTES OF THE 21ST MEETING
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'The minutes of the 22nd meeting of the Committee were approved without
@@ -53,7 +53,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: AUDITOR'S REPORT FOR 1987 AND OTHER FINANCIAL MATTERS
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'a. The Committee approved the Auditor''s report for 1987 and instructed
@@ -76,7 +76,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: 'EIGHTH CONFERENCE: ORGANIZATION OF THE SESSIONS, PRESIDENCY, AGENDA'
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee accepted proposals from its President relating to the
@@ -103,7 +103,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: WORK PROGRAMMES FOR 1989-1992 AND PRIORITY CRITERIA
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND first made the remark that the draft work programmes
@@ -127,7 +127,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: CERTIFICATION
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'a. Discussions prior to the meeting of the Conference
@@ -149,7 +149,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: THE SITUATION OF CERTAIN SECRETARIATS
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'Mr ATHANE presented a number of proposals from Member States to disband
@@ -176,7 +176,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: REPORT ON THE ACTIVITIES OF BIML
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of the report on the activities of BIML for
@@ -199,7 +199,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: VICE-PRESIDENCY OF THE COMMITTEE
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee unanimously elected for a six year period:
@@ -221,7 +221,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: IMPLEMENTATION OF THE DECISIONS OF THE EIGHTH CONFERENCE
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'In application of a decision by the Conference under item 5 of its
@@ -246,7 +246,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: ANY OTHER BUSINESS
-    subject: CIML
     actions:
     - type: remarks
       message: 'There was no other business.
@@ -268,7 +267,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: DATE AND PLACE FOR THE NEXT MEETING
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee accepted the proposals concerning the organization of

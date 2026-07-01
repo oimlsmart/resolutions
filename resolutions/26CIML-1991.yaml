@@ -29,7 +29,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New members - Prospective new members
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr ATHANE reminded Members that a delegation from the Republic of
@@ -58,7 +58,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: The situations of some Member States
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr ATHANE said that Cameroon was the only Member State that was in
@@ -86,7 +85,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the auditor's report for 1990
-    subject: CIML
     actions:
     - type: remarks
       message: 'The auditor''s report was approved without comment.
@@ -108,7 +106,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: The financial situation for 1991 and 1992
-    subject: CIML
+    subject: the Conference
     actions:
     - type: remarks
       message: 'Mr ATHANE said that the financial estimates sent out at the end of
@@ -136,7 +134,7 @@ resolutions:
     script: Latn
     title: Replacement of a Director's Assistant retiring from the Bureau in September
       1992
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND reminded Members that Mr Thulin would retire in September
@@ -160,7 +158,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Other matters
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr ATHANE informed the Committee of the general staffing position
@@ -187,7 +185,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Operation of the OIML Certificate System
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND stressed the importance of this subject for OIML and
@@ -213,7 +211,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Recommendations to which the System is applicable
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND pointed out that this item covered in fact two items:
@@ -239,7 +237,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: The evolution of the System in the years to come
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND, continuing the drift of his previous remarks, said that
@@ -267,7 +265,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Procedures for the technical work of OIML
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND introduced the third draft of the Procedures for the
@@ -303,7 +301,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Drafting and presentation of OIML International Recommendations
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND indicated that the matter was independent of the Procedures
@@ -330,7 +328,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New structures to be established in application of the procedures
-    subject: CIML
+    subject: The Bureau
     actions:
     - type: remarks
       message: 'Mr BIRKELAND introduced the Bureau''s preliminary proposal for the
@@ -357,7 +355,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: State of progress of work
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr BIRKELAND indicated that the paper entitled State of progress of
@@ -381,7 +378,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Particular secretariats
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: "## 7.2.a Vacant secretariats\n"
@@ -401,7 +398,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Adoption of International Recommendations
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'By the vote of which the results are given in Annex 1, the Committee
@@ -425,7 +422,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: LIAISON WITH SOME INTERNATIONAL INSTITUTIONS
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'At Mr BIRKELAND''s request, Mr ATHANE submitted brief reports on the
@@ -448,7 +445,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: DEVELOPING COUNTRIES
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr THULIN indicated that in 1991 this activity had been limited to
@@ -486,7 +483,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML SEMINARS
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr THULIN reported on the preparations for the organization of a technical
@@ -516,7 +513,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: ELECTION OF A VICE-PRESIDENT OF THE COMMITTEE
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'On the President''s nomination, the Committee elected Mr M. KOCHSIEK,
@@ -539,7 +536,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: PREPARATIONS FOR THE NINTH CONFERENCE
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee made no comment on the Bureau''s proposals for the agenda
@@ -566,7 +563,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML Bulletin
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr THULIN spoke about the Bulletin, for which he was responsible,
@@ -594,7 +591,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Instituting a world metrology day
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr STOICHITOIU explained his reasons for the proposal: activities
@@ -622,7 +618,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Relations between OIML and the industries manufacturing measuring instruments
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee noted the content of a letter from CECIP (Comité Européen
@@ -653,7 +649,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: DATE AND PLACE OF NEXT MEETING
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee accepted Germany''s invitation to hold its twenty-eighth

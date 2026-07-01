@@ -29,7 +29,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouveaux Membres - Perspectives d'adhésions
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Athané rappelle au Comité l''adhésion comme État Membre du Kazakhstan;
@@ -57,7 +56,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation de certains membres
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Athané indique qu''il n''y a rien à signaler concernant les États
@@ -81,7 +79,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation de l'Iran
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. Athané rappelle que l''Iran a décidé de quitter l''OIML en 1979
@@ -114,7 +112,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption du rapport comptable pour 1994
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le rapport comptable pour 1994 est approuvé sans commentaire. Le Comité
@@ -138,7 +136,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation financiere pour 1995
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Athané rappelle que les estimations financières pour 1995 ont été
@@ -169,7 +166,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Contrat de M. Athané, Directeur
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité renouvelle le contrat du Directeur du Bureau pour une période
@@ -192,7 +189,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Contrat de M. Vichenkov, Adjoint au Directeur
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité prolonge le contrat de M. Vichenkov, Adjoint au Directeur,
@@ -217,7 +214,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Indexation des salaires sur l'inflation
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité accepte cette proposition comme mesure provisoire et, suivant
@@ -243,7 +240,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation de certains TC/SC
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'M. Chappell, responsable du suivi des activités techniques pour le
@@ -283,7 +280,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Amendement aux Directives pour les travaux techniques
-    subject: CIML
+    subject: le Conseil
     actions:
     - type: remarks
       message: 'M. Chappell indique qu''un amendement mineur aux Directives est soumis
@@ -310,7 +307,7 @@ resolutions:
     script: Latn
     title: APPROBATION DE RECOMMANDATIONS INTERNATIONALES ET D'ANNEXES A CERTAINES
       RECOMMANDATIONS
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. Athané indique que six projets sont soumis à l''approbation du
@@ -333,7 +330,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: CERTIFICATION
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Kochsiek, en tant que responsable du suivi de l''activité de certification
@@ -360,7 +356,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Rapport sur le TAG $ _{cert} $
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'M. Kochsiek indique que la création de ce groupe technique consultatif
@@ -385,7 +381,7 @@ resolutions:
     script: Latn
     title: Nouvelles Recommandations pouvant être appliquées dans le cadre du Système
       de Certificats OIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale
@@ -407,7 +403,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Rapport de publication
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Athané donne des informations concernant la publication et la diffusion
@@ -432,7 +427,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Commentaires
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité exprime sa satisfaction pour le travail réalisé par le Bureau.
@@ -457,7 +452,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: LIAISONS AVEC D'AUTRES ORGANISATIONS AUX NIVEAUX INTERNATIONAL ET RÉGIONAL
-    subject: CIML
+    subject: le Conseil
     actions:
     - type: remarks
       message: 'M. Athané indique que la seule information dont il dispose se rapporte
@@ -487,7 +482,6 @@ resolutions:
     script: Latn
     title: Rapport sur le Symposium Activités métrologiques dans les pays en développement,
       23-24 octobre 1995
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Kochsiek, responsable du suivi des activités de développement au
@@ -516,7 +510,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Rapport sur la réunion du Conseil de Développement du 25 octobre
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Benkirane, Président du Conseil de Développement de l''OIML, fait
@@ -541,7 +534,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Discussions et décisions
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité prend note de rapports présentés par MM. Kochsiek et Benkirane
@@ -636,7 +629,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT SUR LES ACTIVITÉS DU BIML (octobre 1994 - septembre 1995)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité prend note d''un rapport sur les activités du BIML, dont
@@ -660,7 +653,7 @@ resolutions:
     script: Latn
     title: RAPPORT CONCERNANT LE SÉMINAIRE OIML, LE PESAGE A L'APPROCHE DE L'AN 2000,
       13-15 septembre 1995
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. Bennett, Président du séminaire rapporte que 153 participants se
@@ -689,7 +682,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: LOGO OIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité ne voit pas d''objection à ce que le logo déjà utilisé pour
@@ -713,7 +706,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Généralités
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'M. Johnston donne des informations concernant les préparatifs pour
@@ -737,7 +730,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Budget 1997-2000
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Athané présente les grandes lignes générales du budget qui sera
@@ -760,7 +752,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PROCHAINES RÉUNIONS
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Outre la réunion à Vancouver en 1996, le Comité a reçu les invitations
@@ -783,7 +775,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: AUTRES QUESTIONS
-    subject: CIML
     actions:
     - type: remarks
       message: 'Il n''y a pas eu d''autres sujets de discussion.
@@ -805,7 +796,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: DÉCISIONS ET RÉSOLUTIONS
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité adopte des résolutions et prend des décisions sur les différents

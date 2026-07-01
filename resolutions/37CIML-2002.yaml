@@ -35,7 +35,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the Minutes of the $ 3 6^{th} $ CIML Meeting
-    subject: CIML
     actions:
     - type: remarks
       message: 'The Minutes of the 36th CIML Meeting (Moscow, 2001) were approved
@@ -48,7 +47,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Approbation du compte-rendu de la 36ème Réunion du CIML
-    subject: CIML
     actions:
     - type: remarks
       message: 'Le compte-rendu de la 36ème Réunion du CIML (Moscou, 2001) a été approuvé
@@ -72,7 +70,6 @@ resolutions:
     script: Latn
     title: Implementation of the Decisions and Resolutions of the $ 1 1^{th} $ Conference
       and $ 3 6^{th} $ CIML…
-    subject: CIML
     actions:
     - type: remarks
       message: 'The CIML President and BIML Director explained that all the Decisions
@@ -87,7 +84,6 @@ resolutions:
     script: Latn
     title: Mise en application des Décisions et Résolutions de la Onzième Conférence
       et de la 36ème Réunion du …
-    subject: CIML
     actions:
     - type: remarks
       message: 'Le Président du CIML et le Directeur du BIML ont expliqué que toutes
@@ -113,7 +109,7 @@ resolutions:
     script: Latn
     title: 1999-2002+2003-2004 Action Plan implementation and final extension up to
       the end of 2004
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The BIML Director reviewed the various points contained in the Action
@@ -130,7 +126,7 @@ resolutions:
     script: Latn
     title: Mise en application du Plan d'Action 1999-2002 + 2003-2004 et son extension
       finale jusqu'à la fin de…
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Directeur du BIML a examiné les divers points contenus dans le
@@ -156,7 +152,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New Members - Expected accessions
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee noted information given by its President and by the
@@ -170,7 +166,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouveaux Membres - Adhésions attendues
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations données par son Président et
@@ -194,7 +190,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Situation of certain Members
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee noted information given by the BIML Director concerning
@@ -208,7 +204,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation de certains Membres
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations données par le Directeur du
@@ -232,7 +228,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Adoption of the Auditor's Report for 2001
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'The Auditor''s Report for 2001 was adopted without comments and the
@@ -246,7 +242,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption du Rapport Comptable pour 2001
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Le Rapport Comptable pour 2001 a été adopté sans commentaires et le
@@ -270,7 +266,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examination of the financial situation for 2002 and 2003
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by the BIML concerning
@@ -292,7 +288,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation financière pour 2002 et 2003
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations fournies par le BIML concernant
@@ -324,7 +320,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Analysis of the operating costs of the BIML
-    subject: CIML
+    subject: The Committee
     actions:
     - type: instructs
       message: 'The Committee instructed the Bureau to progress in this direction
@@ -338,7 +334,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Analyse des coûts de fonctionnement du BIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a chargé le Bureau de poursuivre dans cette voie afin que
@@ -361,7 +357,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Presidential Council activities
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of a report by its President concerning the
@@ -374,7 +370,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Activités du Conseil de la Présidence
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport présenté par son Président concernant
@@ -397,7 +393,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Amendments to the Staff Regulations
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by the BIML Director
@@ -412,7 +408,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Amendements aux Statuts du Personnel
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations fournies par le Directeur du
@@ -438,7 +434,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: BIML Staff
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by the BIML Director
@@ -452,7 +448,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Personnel du BIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations fournies par le Directeur du
@@ -476,7 +472,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: BIML activities
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of a report distributed by the Bureau concerning
@@ -491,7 +487,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Activités du BIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport distribué par le Bureau concernant
@@ -516,7 +512,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Progress in the use of Internet and e-mail
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'A live demonstration of the new OIML web site modules was given, notably
@@ -532,7 +528,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Progrès dans l'utilisation d'Internet et du courrier électronique
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Une démonstration en direct des nouveaux modules du site Internet
@@ -559,7 +555,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Technical activities
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'A written report drawn up by the BIML was distributed to Participants
@@ -573,7 +569,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Activités techniques
-    subject: CIML
     actions:
     - type: remarks
       message: 'Un rapport rédigé par le BIML a été distribué aux Participants et
@@ -597,7 +592,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Acceleration of technical work
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by its President
@@ -614,7 +609,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Accélération des travaux techniques
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations fournies par son Président en
@@ -641,7 +636,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of draft Documents and Recommendations
-    subject: CIML
+    subject: The Committee
     actions:
     - type: approves
       message: 'The Committee approved the following draft Recommendations:
@@ -663,7 +658,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption des projets de Recommandations et de Documents
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a approuvé les projets de Recommandations suivants:
@@ -695,7 +690,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML Certificate System for Measuring Instruments
-    subject: CIML
     actions:
     - type: remarks
       message: 'A written report prepared by the BIML was distributed to Participants
@@ -709,7 +703,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Système de Certificats OIML pour les Instruments de Mesure
-    subject: CIML
     actions:
     - type: remarks
       message: 'Un rapport écrit préparé par le BIML était distribué aux Participants
@@ -733,7 +726,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: General information
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of the information delivered by Vice-President
@@ -747,7 +740,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Informations générales
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations communiquées par son Vice-Président
@@ -772,7 +765,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New Recommendations applicable within the System
-    subject: CIML
+    subject: The Committee
     actions:
     - type: decides
       message: 'The Committee decided that the following Recommendation would be applicable
@@ -794,7 +787,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouvelles Recommandations applicables au Système
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a décidé que la Recommandation suivante deviendrait applicable
@@ -826,7 +819,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Plans for future developments
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note that the revised document describing the operational
@@ -858,7 +851,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Plans pour les développements futurs
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note que le document révisé décrivant les règles
@@ -902,7 +895,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Mutual Acceptance Arrangement (MAA)
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by the Secretariat
@@ -920,7 +913,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Arrangement d'acceptation mutuelle (MAA)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations fournies par le Secrétariat
@@ -948,7 +941,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Horizontal documents
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by the BIML Director
@@ -963,7 +956,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Documents horizontaux
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations fournies par le Directeur du
@@ -990,7 +983,7 @@ resolutions:
     script: Latn
     title: Report on the study The Benefits of Legal Metrology for the Economy and
       Society
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by Honorary CIML
@@ -1005,7 +998,7 @@ resolutions:
     script: Latn
     title: Rapport sur l'étude Les Bénéfices de la Métrologie Légale pour l'Économie
       et pour la Société
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations fournies par le Membre d''Honneur
@@ -1030,7 +1023,7 @@ resolutions:
     script: Latn
     title: Preliminary examination of the output of the Seminar Legal Metrology in
       2020
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The CIML President presented the highlights of the Seminar held on
@@ -1047,7 +1040,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen préliminaire des résultats du Seminaire Métrologie Légale en 2020
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Président du CIML a présenté les points clés du Séminaire tenu
@@ -1074,7 +1067,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Presentation of World Bank programs
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr. Magaña reported that unfortunately Mr. Wilson of the World Bank,
@@ -1091,7 +1083,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Présentation des programmes de la Banque Mondiale
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Magaña a rapporté que malencontreusement M. Wilson de la Banque
@@ -1119,7 +1110,7 @@ resolutions:
     script: Latn
     title: Activities of the Development Council, action plan and possible evolutions
       of its structures
-    subject: CIML
+    subject: the Conference
     actions:
     - type: remarks
       message: 'Mr. Faber reported that following the last Development Council meeting
@@ -1138,7 +1129,7 @@ resolutions:
     script: Latn
     title: Activités du Conseil de Développement, plan d'action et évolutions possibles
       de ses structures
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'M. Faber a rapporté que suite à la dernière Réunion du Conseil de
@@ -1167,7 +1158,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Regional Legal Metrology Organizations (RLMOs)
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by the BIML Director
@@ -1182,7 +1173,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Organisations Régionales de Métrologie Légale (RLMO)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations fournies par le Directeur du
@@ -1208,7 +1199,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Other institutions (Meter Convention, ILAC, ISO, WTO, etc.)
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by its President
@@ -1251,7 +1242,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Autres institutions (Convention du Mètre, ILAC, ISO, OMC, etc.)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations fournies par son Président en
@@ -1304,7 +1295,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Information on legal metrology developments in the Regions
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of presentations delivered by representatives
@@ -1318,7 +1309,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Informations sur les activités de métrologie légale dans les Régions
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note des présentations fournies par les représentants
@@ -1342,7 +1333,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Election of the CIML President, 2003
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by its President
@@ -1358,7 +1349,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Élection du Président du CIML en 2003
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note des informations fournies par son Président
@@ -1385,7 +1376,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: "$ 3 8^{th} $ CIML Meeting (2003)"
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee was given a presentation by the Japanese delegation,
@@ -1400,7 +1391,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: "$ 38^{\\mathrm{ème}} $ Réunion du CIML (2003)"
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a assisté à une présentation donnée par la délégation japonise,
@@ -1425,7 +1416,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: "$ 3 9^{th} $ CIML Meeting and $ 1 2^{th} $ Conference (2004)"
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee noted that Israel''s invitation was still open, but
@@ -1440,7 +1431,7 @@ resolutions:
     script: Latn
     title: 39 $ ^{\mathrm{e m e}} $ Réunion du CIML et 12 $ ^{\mathrm{e m e}} $ Conférence
       (2004)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note que l''invitation d''Israël était maintenue
@@ -1464,7 +1455,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: "$ 4 0^{th} $ CIML Meeting (2005)"
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee accepted in principle the Bureau''s intention to organize
@@ -1477,7 +1468,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 40 $ ^{\mathrm{e m e}} $ Réunion du CIML (2005)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a accepté dans le principe l''intention du Bureau d''organiser
@@ -1500,7 +1491,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Other matters
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Firstly, the Committee decided to make awards to three distinguished
@@ -1513,7 +1504,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Autres questions
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Premièrement, le Comité a décidé de décerner des distinctions honorifiques
@@ -1537,7 +1528,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Adoption of decisions
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'The above decisions and resolutions were adopted.
@@ -1549,7 +1540,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption des décisions
-    subject: CIML
+    subject: le Bureau
     actions:
     - type: remarks
       message: 'Les décisions et résolutions ci-dessus ont été adoptées.
@@ -1571,7 +1562,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examination of the situation of certain TCs/SCs
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of information delivered by Vice-President
@@ -1631,7 +1622,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation de certains TC/SC
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations fournies par son Vice-Président
@@ -1701,7 +1692,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Report on the Development Council
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee congratulated Mrs. Annabi on her re-election as Development
@@ -1733,7 +1724,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Rapport sur le Conseil de Développement
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a félicité Mme Annabi pour sa réélection en tant Présidente

@@ -29,7 +29,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: OBJET
-    subject: CIML
+    subject: le Conseil
     actions:
     - type: remarks
       message: 'Il est créé à titre expérimental, au sein de l''OIML, un Conseil de
@@ -52,7 +52,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: SITUATION GENERALE DE L'ORGANISATION
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité constate qu''en raison des niveaux très divers de développement
@@ -88,7 +88,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: SITUATION FINANCIERE
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale,
@@ -117,7 +117,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PERSONNEL DU BUREAU
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale
@@ -139,7 +139,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: SECRETARIATS PILOTES et RAPPORTEURS
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris des décisions concernant la création, la suppression
@@ -179,7 +179,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: DISPOSITION TRANSITOIRE
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale,
@@ -229,7 +229,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: TRAVAUX DES SECRETARIATS
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: "## VII.a — Etat d'avancement des travaux.\n"
@@ -249,7 +249,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: MARQUE OIML.
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité décide la création d''un groupe ad hoc chargé d''étudier
@@ -279,7 +279,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RELATIONS AVEC LES INSTITUTIONS INTERNATIONALES
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité ne formule pas de commentaires au sujet du compte rendu
@@ -304,7 +304,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PAYS EN VOIE DE DEVELOPEMENT
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale,
@@ -326,7 +326,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: AUTRES QUESTIONS
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité déclare que cette phrase signifie que ces représentants
@@ -362,7 +362,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PROCHAINES REUNIONS
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale

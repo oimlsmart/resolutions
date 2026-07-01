@@ -29,7 +29,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU COMPTE RENDU DE LA 18ème REUNION DU COMITE
-    subject: CIML
     actions:
     - type: remarks
       message: 'Ce compte rendu est adopté avec les corrections suivantes :
@@ -51,7 +50,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouvelles adhésions, perspectives d'adhésions
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. BIRKELAND rappelle l''adhésion, comme Etat Membre, du Kenya, et,
@@ -75,7 +73,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen éventuel de la situation de certains Etats Membres
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale,
@@ -97,7 +95,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption des rapports comptables pour 1981 et 1982
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. DIXON, au nom de M. SOUCH, demande si, considérant le nombre non
@@ -121,7 +119,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen des estimations financières pour 1983
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. ATHANE rappelle que ces estimations ont été présentées aux Membres
@@ -149,7 +147,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Note sur le Franc-Or
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité prend note des informations données par le Directeur du
@@ -172,7 +170,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Note sur le Fonds de Réserve de l'OIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale,
@@ -194,7 +192,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen des postes devenant vacants dans un proche avenir
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité renouvelle pour une période de 5 années à compter de l''expiration
@@ -242,7 +240,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: POLITIQUE A LONG TERME DE L'ORGANISATION ET PLANIFICATION DES TRAVAUX
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale,
@@ -264,7 +262,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de l'état d'avancement des travaux
-    subject: CIML
     actions:
     - type: remarks
       message: 'Une édition, à jour au 1er avril 1983, du document « Etat d''avancement
@@ -289,7 +286,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption, à titre provisoire, de projets de Recommandations Internationales
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Deux projets, relatifs aux « Sonomètres » et aux « Humidimètres pour
@@ -314,7 +311,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Mode de travail des Secrétariats de l'OIML
-    subject: CIML
+    subject: le Bureau
     actions:
     - type: remarks
       message: 'Une version « provisoire » de ce document a été distribuée en octobre
@@ -343,7 +340,7 @@ resolutions:
     script: Latn
     title: Problèmes linguistiques relatifs aux Recommendations Internationales et
       Documents Internationaux
-    subject: CIML
+    subject: Le Bureau
     actions:
     - type: remarks
       message: 'Le Bureau est chargé, en liaison avec les Etats francophones et anglophones,
@@ -368,7 +365,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation de certains Secrétariats
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: "## a) SP 5 « Mesure des volumes de liquides »\n"
@@ -388,7 +385,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Suppression de certains Secrétariats
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'En janvier 1983, le Bureau a écrit à un certain nombre d''Etats responsables
@@ -415,7 +412,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Mise en activité de nouveaux Secrétariats
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'a) Il est rappelé au Comité qu''un Secrétariat sur le mesurage de
@@ -440,7 +437,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: SYSTEME DE CERTIFICATION OIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale,
@@ -462,7 +459,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RELATIONS AVEC D'AUTRES INSTITUTIONS INTERNATIONALES
-    subject: CIML
+    subject: Le Bureau
     actions:
     - type: remarks
       message: 'Il est tout d''abord rappelé qu''un rapport complet sera présenté
@@ -486,7 +483,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PAYS EN DEVELOPEMENT
-    subject: CIML
+    subject: le Bureau
     actions:
     - type: remarks
       message: 'M. THULIN indique que l''activité de l''OIML dans ce domaine est limitée
@@ -513,7 +510,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: SEMINAIRES OIML
-    subject: CIML
+    subject: le Conseil
     actions:
     - type: remarks
       message: 'M. THULIN indique que, après le succès du séminaire sur l''électronique,
@@ -541,7 +538,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT D'ACTIVITE DU BIML
-    subject: CIML
     actions:
     - type: remarks
       message: 'Un rapport, couvrant la période mars 1982 - avril 1983, est distribué
@@ -564,7 +560,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PREPARATION DE LA 7ème CONFERENCE INTERNATIONALE DE METROLOGIE LEGALE
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Mme LAHTEENMAKI donne les informations détaillées sur la préparation
@@ -589,7 +585,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: QUESTIONS DIVERSES
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'M. THULIN indique qu''il finit de réaliser deux documents qui seront
@@ -617,7 +613,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ELECTION DU DEUXIEME VICE-PRESIDENT DU COMITE
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Sur proposition de M. BIRKELAND, et à la suite de suggestions présentées
@@ -642,7 +638,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: CLOTURE
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a adopté le compte rendu de la 18ème réunion du CIML avec

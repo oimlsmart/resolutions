@@ -36,7 +36,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 2
-    subject: OIML Conference
+    subject: The Conference
     actions:
     - type: approves
       message: 'Approves the agenda for the 16th International Conference on Legal
@@ -60,7 +60,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 3
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: having
       message: 'Having regard to Article IX of OIML B 1:1968 OIML Convention,
@@ -100,7 +100,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 4
-    subject: OIML Conference
+    subject: The Conference
     actions:
     - type: approves
       message: 'Endorses Resolution CIML/2021/04 of the 56th Meeting of the International
@@ -132,7 +132,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 5
-    subject: OIML Conference
+    subject: The Conference
     actions:
     - type: approves
       message: 'Approves the minutes of the 15th OIML Conference.
@@ -155,7 +155,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 9
-    subject: OIML Conference
+    subject: the Committee
     considerations:
     - type: having
       message: 'Having regard to Article XXV, penultimate paragraph, of OIML B 1:1968
@@ -205,7 +205,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Ordre du jour point 9
-    subject: Conférence OIML
+    subject: La Conférence
     considerations:
     - type: having
       message: |
@@ -244,7 +244,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 10.1
-    subject: OIML Conference
+    subject: the Committee
     considerations:
     - type: having
       message: 'Having regard to Article XXVI (1) of OIML B 1:1968 OIML Convention,
@@ -281,7 +281,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Approuve la Résolution CIML/2021/13 de la 56ème Réunion du CIML.
-    subject: Conférence OIML
+    subject: le Comité
     considerations:
     - type: having
       message: 'Vu l''article XXVI (1) de la Convention OIML B 1:1968,
@@ -329,7 +329,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 10.1
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: recalling
       message: 'Recalling Resolution Conference/2021/06, which endorses Resolution
@@ -364,7 +364,7 @@ resolutions:
     script: Latn
     title: Approuve le principe décrit dans la Résolution CIML/2021/13 selon lequel
       les augmentations des cotis…
-    subject: Conférence OIML
+    subject: La Conférence
     considerations:
     - type: recalling
       message: 'Rappelant la Résolution Conférence/2021/06, qui approuve la résolution
@@ -398,7 +398,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 10.2
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: having
       message: 'Having regard to Article XXIV, first paragraph, Article XXVI (1),
@@ -471,7 +471,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Ordre du jour point 10.2
-    subject: Conférence OIML
+    subject: La Conférence
     considerations:
     - type: having
       message: 'Vu l''article XXIV, premier alinéa, l''article XXVI, paragraphe 1,
@@ -555,7 +555,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 10.3
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: recalling
       message: 'Recalling Resolution 2016/3 of the 15th OIML Conference,
@@ -575,7 +575,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Approuve la Résolution CIML/2021/15 de la 56ème Réunion du CIML.
-    subject: Conférence OIML
+    subject: La Conférence
     considerations:
     - type: recalling
       message: 'Rappelant la Résolution 2016/3 de la 15ème Conférence de l''OIML,
@@ -606,7 +606,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 12
-    subject: OIML Conference
+    subject: the Committee
     considerations:
     - type: having
       message: 'Having regard to Article VIII, first and fifth paragraphs, of OIML
@@ -639,7 +639,7 @@ resolutions:
     script: Latn
     title: Décide que les publications de l'OIML énumérées dans l'Addendum 12 du Document
       de Travail
-    subject: Conférence OIML
+    subject: le Comité
     considerations:
     - type: having
       message: 'Vu l''article VIII, premier et cinquième paragraphes, de la Convention
@@ -683,7 +683,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 14
-    subject: OIML Conference
+    subject: the Committee
     considerations:
     - type: having
       message: 'Having regard to Article X of OIML B 1:1968 OIML Convention,
@@ -722,7 +722,7 @@ resolutions:
     script: Latn
     title: Décide de charger le Comité d'organiser la 17ème Conférence OIML en 2025,
       le lieu
-    subject: Conférence OIML
+    subject: le Comité
     considerations:
     - type: having
       message: 'Vu l''article X de la convention OIML B 1:1968,

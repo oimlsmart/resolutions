@@ -29,7 +29,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU COMPTE RENDU DE LA VINGT-HUITIEME REUNION DU COMITE
-    subject: CIML
     actions:
     - type: remarks
       message: 'Le compte rendu de la 28e réunion du Comité International de Métrologie
@@ -52,7 +51,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouveaux Membres - Perspectives d'adhésions
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Athané rappelle l''adhésion comme État Membre de la République
@@ -80,7 +78,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation de certains Membres - si approprié
-    subject: CIML
     actions:
     - type: remarks
       message: 'Il n''y a pas d''information à donner à ce sujet.
@@ -102,7 +99,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption du rapport comptable pour 1993
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le rapport comptable pour 1993 est approuvé sans commentaire. Le Comité
@@ -126,7 +123,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation financiere pour 1994
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. Athané rappelle la décision du CIML en 1993 de diminuer annuellement
@@ -160,7 +157,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Rapport sur l'établissement définitif des TC et SC
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a chargé les secrétariats des TC et SC d''examiner attentivement
@@ -206,7 +203,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: APPROBATION DE RECOMMANDATIONS INTERNATIONALES ET D'ANNEXES À DES RECOMMANDATIONS
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. Athané présente des projets soumis à l''approbation du CIML, en
@@ -230,7 +227,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: CERTIFICATION
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Birkeland fait une introduction sur ce sujet et souligne l''importance
@@ -254,7 +250,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation actuelle du Système de Certificats OIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale
@@ -276,7 +272,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouvelles Recommandations pouvant être appliquées au Système
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale
@@ -298,7 +294,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Evolution du Système
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale
@@ -320,7 +316,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Séminaire sur la certification OIML
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. Vichenkov rappelle qu''une majorité des Membres du CIML est favorable
@@ -344,7 +340,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: POLITIQUE À LONG TERME
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a approuvé dans son principe le document en trois modules
@@ -394,7 +390,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: LIAISONS AVEC D'AUTRES ORGANISATIONS
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Athané rappelle que beaucoup d''organisations ont déjà été contactées
@@ -418,7 +413,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Activités futures
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport présenté par Mr M. Benkirane,
@@ -492,7 +487,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Bulletin
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Degavre et Melle French donnent une information concernant les
@@ -516,7 +510,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Brochure d'information générale
-    subject: CIML
     actions:
     - type: remarks
       message: 'Melle French donne une information concernant le développement de
@@ -548,7 +541,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT SUR LES ACTIVITES DU BIML (OCTOBRE 1993-SEPTEMBRE 1994)
-    subject: CIML
     actions:
     - type: remarks
       message: 'Un rapport écrit décrivant les activités du BIML depuis la dernière
@@ -572,7 +564,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: INFORMATISATION DU TRAVAIL DU BIML
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Weber fait un rapport décrivant la situation actuelle du travail
@@ -608,7 +599,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PROCHAIN SEMINAIRE TECHNIQUE OIML SUR LES INSTRUMENTS DE PESAGE
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Degavre donne une brève information concernant les préparations
@@ -633,7 +623,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PROCHAINES REUNIONS DU CIML ET DE LA CONFÉRENCE
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'La délégation chinoise et le Bureau donnent une information concernant
@@ -662,7 +652,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Élection du Président du Comité International de Métrologie Légale
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Birkeland introduit les quatre candidats à la Présidence du CIML:
@@ -687,7 +676,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Election d'un Vice-Président du Comité International de Métrologie Légale
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a réelu à l''unanimité M. Samuel E. Chappell comme Vice-Président
@@ -710,7 +699,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: AUTRES QUESTIONS
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''une information donnée par M. Kusakin, Membre
@@ -745,7 +734,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: DECISIONS ET RESOLUTIONS
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité adopte les résolutions et les décisions prises en fonction

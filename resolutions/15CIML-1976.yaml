@@ -29,7 +29,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION du COMPTE RENDU
-    subject: CIML
     actions:
     - type: remarks
       message: 'de la QUATORZIÈME RÉUNION du COMITÉ.
@@ -51,7 +50,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION du RAPPORT FINANCIER pour 1975.
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'Ce rapport est adopté, sans commentaires, avant sa présentation à
@@ -74,7 +73,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: EXAMEN de l'ORDRE du JOUR et de l'EMPLOI du TEMPS de la CONFÉRENCE.
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'PRÉSIDENCE de la CONFÉRENCE.
@@ -96,7 +95,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: EXAMEN de CERTAINS TRAVAUX DE LA CONFÉRENCE.
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'IV a — Etalon international pour la mesure de la masse à l''hectolitre
@@ -119,7 +118,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Conseil de Développement.
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Une proposition visant à créer un Conseil de Développement a été soumise
@@ -143,7 +142,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Population des États-membres.
-    subject: CIML
+    subject: le Bureau
     actions:
     - type: remarks
       message: 'L''enquête effectuée par le Bureau se poursuit et n''a donné lieu,
@@ -166,7 +165,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Projet « Unités de Mesure Légales » .
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'L''Assemblée, après discussion, partage le point de vue du responsable
@@ -191,7 +190,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation de la République Dominicaine.
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Ayant reçu en 1972 délégation de la Conférence pour statuer sur la
@@ -218,7 +217,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: État d'avancement de certains travaux.
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Le Document « État d''avancement des travaux » distribué aux participants
@@ -244,7 +243,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Dispositifs électroniques.
-    subject: CIML
     actions:
     - type: remarks
       message: 'Bien que certains participants aient soutenu l''avis contraire, l''ensemble
@@ -271,7 +269,7 @@ resolutions:
     script: Latn
     title: Plan de travail des Secrétariats-Pilotes 5 (Mesure des volumes de liquides)
       et 17 (Mesure des pollut…
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité examine ensuite une proposition de plan de travail du Secrétariat-Pilote
@@ -296,7 +294,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Secrétariats vacants.
-    subject: CIML
     actions:
     - type: remarks
       message: 'Certains États ayant posé leur candidature pour assumer la responsabilité
@@ -320,7 +317,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouveaux Secrétariats.
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité accueille favorablement une proposition de la Pologne relative
@@ -348,7 +345,7 @@ resolutions:
     script: Latn
     title: EXAMEN et MISE en APPLICATION des DÉCISIONS de la CONFÉRENCE. PROJET «
       UNITÉS de MESURE LÉGALES  ».
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'Ce projet de Document International ne peut être soumis à l''adoption
@@ -373,7 +370,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: QUESTIONS DIVERSES
-    subject: CIML
+    subject: Le Bureau
     actions:
     - type: remarks
       message: 'Le Bureau distribue un bref rapport sur son activité au cours des
@@ -397,7 +394,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: DATE et LIEU de la PROCHAINE RÉUNION — CLÔTURE
-    subject: CIML
+    subject: la Conférence
     actions:
     - type: remarks
       message: 'La prochaine réunion du Comité est prévue pour les mois de mai ou

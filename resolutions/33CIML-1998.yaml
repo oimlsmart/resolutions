@@ -29,7 +29,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: APPROBATION DU COMPTE RENDU DE LA 32'EME RÉUNION DU CIML
-    subject: CIML
     actions:
     - type: remarks
       message: 'Le compte rendu de la 32ème réunion du CIML a été approuvé sans commentaires.
@@ -51,7 +50,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouveaux Membres - Adhésions attendues
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note de l''adhésion de la République d''Afrique du
@@ -76,7 +75,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation de certains Membres
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations données par le Bureau au sujet
@@ -106,7 +105,7 @@ resolutions:
     script: Latn
     title: Propositions visant à accroître la participation des Membres Correspondants
       à certaines activités de…
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport présenté par le BIML au sujet
@@ -135,7 +134,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Approbation du rapport comptable pour 1997
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a approuvé le rapport comptable pour 1997 et a demandé à
@@ -158,7 +157,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation financière pour 1998
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport du Bureau relatif à la situation
@@ -181,7 +180,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen des budgets pour 1999 et 2000
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a exprimé sa satisfaction pour le fait que les cotisations
@@ -206,7 +205,6 @@ resolutions:
     script: Latn
     title: Informations sur le Séminaire International le Rôle de la Métrologie dans
       le Développement Économiqu…
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Kochsiek rapporte que plus de deux cent experts de quelques quatre-vingts
@@ -235,7 +233,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: L'Étude Birkeland
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a examiné les diverses recommandations contenues dans l''Annexe
@@ -266,7 +264,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de propositions en provenance du Conseil de Développement
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport de Mme Annabi, Présidente du Conseil
@@ -294,7 +292,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: BIPM et ILAC
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Faber indique que les relations avec le BIPM sont bonnes, bien
@@ -327,7 +324,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: JCGM
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Athané rappelle aux participants que le JCGM a été créé il y a
@@ -356,7 +352,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: OMC
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. Athané confirme que l''OIML s''est vu accorder le statut d''Observateur
@@ -381,7 +377,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Autres
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations données par son Président, certains
@@ -406,7 +402,7 @@ resolutions:
     script: Latn
     title: ACTIVITÉS LIÉES À LA RECONNAISSANCE MUTUELLE DES RÉSULTATS D'ESSAIS, À
       L'ACCRÉDITATION, ETC.
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport très complet de son Vice-Président
@@ -441,7 +437,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation de certains TC/SC
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport de son Vice-Président S. Chappell
@@ -473,7 +469,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Approbation de Recommandations Internationales
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a approuvé les projets de Recommandations suivants:
@@ -496,7 +492,7 @@ resolutions:
     script: Latn
     title: Disponibilité des Publications OIML sur papier, sur support électronique
       et via Internet
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport du Bureau sur ce sujet et lui
@@ -521,7 +517,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouvelles Recommandations applicables au Système
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a décidé que les Recommandations suivantes deviendraient
@@ -544,7 +540,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT SUR LES ACTIVITÉS DU BIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport du Bureau relatif à ses activités
@@ -568,7 +564,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Vice-Président du CIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a réélu à l''unanimité Prof. M. Kochsiek comme Vice-Président
@@ -591,7 +587,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Directeur du BIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''une information donnée par son Président,
@@ -614,7 +610,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adjoint au Directeur du BIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a nommé M. Ian Dunmill, du Royaume Uni, Adjoint au Directeur
@@ -637,7 +633,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Demandes de l'APLMF
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note de propositions de M. J. Birch, Animateur du
@@ -669,7 +665,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Séminaire technique
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note avec un vif intérêt d''une proposition de M.
@@ -692,7 +688,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 34ème réunion du CIML (1999)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a décidé de tenir sa 34ème réunion à Tunis, Tunisie, en
@@ -716,7 +712,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 35ème réunion du CIML et Onzième Conférence de l'OIML (2000)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a décidé que, sous réserve de confirmation, la 35ème réunion
@@ -740,7 +736,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 36ème réunion du CIML (2001)
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note de la possibilité de tenir sa 36ème réunion
@@ -763,7 +759,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DES DÉCISIONS
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Athané procède d''abord aux votes sur les cinq Projets de Recommandations;
@@ -786,7 +781,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: POLITIQUE À LONG TERME DE L'OIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport à ce sujet présenté par son Vice-Président
@@ -810,7 +805,7 @@ resolutions:
     script: Latn
     title: Informations sur les résultats du Séminaire International de Braunschweig
       et sur la réunion du Conse…
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations à ce sujet données par M. Kochsiek,
@@ -834,7 +829,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Développements du Système
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''informations données par le Vice-Président

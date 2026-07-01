@@ -29,7 +29,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New accessions - Expected accessions
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'The recent accession of Saudi Arabia having already been mentioned,
@@ -54,7 +54,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: The situation of some Member States
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr KOCHSIEK informed the Committee that on that very day, the 3rd
@@ -89,7 +89,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the auditor's report for 1989
-    subject: CIML
     actions:
     - type: remarks
       message: 'The auditor''s report for 1989 was approved without comment.
@@ -111,7 +110,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: The financial position in 1990 and 1991
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr ATHANE said that the financial estimates sent out at the end of
@@ -134,7 +133,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Replacement of an Assistant Director retiring from the Bureau in May 1991
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND reminded the Committee that Mr Petik would retire from
@@ -171,7 +170,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Staff members whose contracts expire before the end of 1992
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr ATHANE said that Mr Thulin, Assistant Director, would retire during
@@ -196,7 +195,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Other business
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'There was no other business concerning the staff of the Bureau.
@@ -218,7 +217,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: CERTIFICATION
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'The COMMITTEE raised no objection to those conclusions and, by a vote
@@ -243,7 +242,7 @@ resolutions:
     script: Latn
     title: OIML International Recommendations applicable within the OIML Certificate
       System
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr ATHANE reminded the Committee that it had requested the Bureau
@@ -270,7 +269,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Other actions necessary to the effective operation of the system
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND mentioned all the parties, apart from the OIML Secretariats,
@@ -297,7 +296,7 @@ resolutions:
     script: Latn
     title: Revision of the procedure for the drafting of International Recommendations
       and Documents
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND reminded the Committee of the importance of this subject
@@ -329,7 +328,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Standard contents of Recommendations
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND reminded the Committee that the Bureau had distributed
@@ -357,7 +356,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: State of progress of work
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'The paper entitled "State of progress of the work of OIML Secretariats",
@@ -381,7 +380,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Particular Secretariats
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'The BUREAU announced the following:
@@ -403,7 +402,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of International Recommendations
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'By a vote of which the results are given in Annex 1, the Committee
@@ -427,7 +426,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: LONG-TERM POLICY OF THE ORGANIZATION
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND remarked that there was no paper for that item of the
@@ -455,7 +454,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: DEVELOPING COUNTRIES
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'The BUREAU read a report on the organization of training courses for
@@ -483,7 +482,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML SEMINARS
-    subject: CIML
     actions:
     - type: remarks
       message: 'The BUREAU mentioned the technical seminars organized to date and
@@ -509,7 +507,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: REPORT ON THE ACTIVITIES OF BIML (OCTOBER 1989 TO SEPTEMBER 1990)
-    subject: CIML
     actions:
     - type: remarks
       message: 'The report was distributed to all present.
@@ -531,7 +528,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: ANY OTHER BUSINESS
-    subject: CIML
     actions:
     - type: remarks
       message: 'There was no other business.
@@ -553,7 +549,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: DATE AND PLACE OF THE NEXT MEETING
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Bearing in mind the General Conference on Weights and Measures, which

@@ -29,7 +29,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF THE REPORT ON THE 20TH COMMITTEE MEETING
-    subject: CIML
     actions:
     - type: remarks
       message: 'The report is approved without modification.
@@ -51,7 +50,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New accessions-Anticipated accessions
-    subject: CIML
     actions:
     - type: remarks
       message: 'After Mr. BIRKELAND has recalled the accession of the People''s Republic
@@ -76,7 +74,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examination of the situation of some Member States or Corresponding Members
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr. ATHANE indicates that he made final contact with FIDJI and JAMAICA,
@@ -103,7 +101,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the accountant report for 1984
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'No comment was received on this report and the report is adopted by
@@ -127,7 +125,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examination of the accountant report for 1985
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. ATHANE presents this report which was sent to the Committee Members
@@ -151,7 +149,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examination of the financial estimates for 1986
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. ATHANE presents these estimates which were already submitted to
@@ -181,7 +179,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examination of posts for which contracts expire in the near future
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'On the proposal of Mr. BIRKELAND, the Committee accepts the request
@@ -206,7 +204,7 @@ resolutions:
     script: Latn
     title: BIML staff regulations - General information and examination of individual
       cases
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. ATHANE recalls that the BIML staff regulations were adopted by
@@ -231,7 +229,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML retirement plan
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. ATHANE gives reasons for which the Committee is requested to modify
@@ -256,7 +254,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: IMPLEMENTATION OF THE DECISIONS OF THE 7th CONFERENCE
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr. ATHANE recalls the decisions of the 7th Conference and summarizes
@@ -280,7 +277,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: EXAMINATION OF THE 1985-1988 DRAFT WORK PROGRAMMES
-    subject: CIML
+    subject: The Committee
     actions:
     - type: instructs
       message: 'The Committee instructs the Presidential Council to examine the situation
@@ -303,7 +300,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Adoption of the final work programmes
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'At the conclusion of this examination the Committee adopts the following
@@ -326,7 +323,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Directives for future planning
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'In order to guide the Secretariats and the Bureau in their future
@@ -349,7 +346,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: 'Examination of the state of progress of the work :'
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. TURSKI presents in turn :
@@ -371,7 +368,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Provisional adoption of draft International Recommendations
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Two draft Recommendations are submitted for adoption (provisional)
@@ -396,7 +393,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Different types of OIML publications
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. EDGERLY indicates that this question was broached by the Presidential
@@ -420,7 +417,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: ROLE AND RESPONSIBILITY OF CIML MEMBERS
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. ATHANE indicates that this brochure is in the process of being
@@ -443,7 +440,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: DEVELOPING COUNTRIES
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'the Committee meeting. Mr. GOMEZ ROSELL requests Mr. THULIN, who assisted
@@ -467,7 +464,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: RELATIONS WITH OTHER INTERNATIONAL INSTITUTIONS
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: "## a) ISO TAG 4\n"
@@ -487,7 +484,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML BULLETIN
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. THULIN presents to the Committee an oral report on the situation
@@ -510,7 +507,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML SEMINARS
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. THULIN recalls that after the success of the first two OIML seminars
@@ -538,7 +535,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Various activities
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. PETIK recalls that the question of mutual recognition of metrological
@@ -567,7 +564,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Directives for future activities
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. ATHANE recalls that one of the actions proposed by SP 2-Sr4 (reference
@@ -596,7 +593,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: REPORT ON ACTIVITY OF BIML
-    subject: CIML
     actions:
     - type: remarks
       message: 'A report covering the activity of BIML between October 1984 and March
@@ -619,7 +615,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: PREPARATION OF THE 8TH CONFERENCE
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. HARVEY confirms the invitation of the Australian Government for
@@ -649,7 +645,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: PREPARATION OF THE 22nd COMMITTEE MEETING
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee is in agreement with the proposal of Mr. BIRKELAND to

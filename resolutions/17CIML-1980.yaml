@@ -29,7 +29,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF MINUTES OF THE 16th MEETING OF THE COMMITTEE
-    subject: CIML
     actions:
     - type: remarks
       message: 'The minutes were approved without modification.
@@ -51,7 +50,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the Accountants' Reports for 1978 and 1979
-    subject: CIML
+    subject: the Conference
     actions:
     - type: remarks
       message: 'These reports were adopted, prior to their presentation to the Conference.
@@ -73,7 +72,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examination of the draft "Financial Code"
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'It was recalled that the Committee had adopted, in 1962 and in accordance
@@ -97,7 +96,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Scale of salaries for BIML staff
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The last modification to the scale of salaries for BIML staff was
@@ -123,7 +122,7 @@ resolutions:
     script: Latn
     title: EXAMINATION OF THE AGENDA FOR THE CONFERENCE - PRESIDENCY OF THE CONFERENCE
       ORGANIZATION OF THE SESS…
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee expressed its agreement on the proposed agenda and time
@@ -146,7 +145,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Amendment of the Convention
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee expressed its agreement for a draft resolution to be
@@ -170,7 +169,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: SP 25 - Developing Countries
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee expressed its agreement in principle with the proposals
@@ -194,7 +193,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: SP 17 - Measurement of pollutants
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee expressed its agreement in principle concerning the
@@ -221,7 +220,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: SP 20 - Prepackaged products
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee expressed its agreement in principle with this proposal,
@@ -246,7 +245,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Creation of a new Secretariat for explosimeters.
-    subject: CIML
     actions:
     - type: remarks
       message: 'This Reporting Secretariat, created on the proposal of France, and
@@ -273,7 +271,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Reorganization of SP 18 (Food products).
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'The BIML indicated that this reorganization was still being discussed
@@ -297,7 +295,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: BIML proposal concerning the state of progress with certain activities
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr THULIN presented an analysis covering the activities of certain
@@ -324,7 +322,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New adoption procedures and new appellation
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee expressed its agreement with proposals put forward by
@@ -348,7 +346,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: BUREAU PERSONNEL
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee set up a Commission for the purpose of examining the
@@ -381,7 +379,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Composition of Reporting Secretariats
-    subject: CIML
+    subject: the Conference
     actions:
     - type: remarks
       message: 'Following the decision of the Conference concerning the creation of
@@ -407,7 +405,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Report on the work of the "OIML Mark" ad hoc group
-    subject: CIML
+    subject: the Conference
     actions:
     - type: remarks
       message: 'This report was presented to the Conference
@@ -429,7 +427,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: ORGANIZATION OF TECHNICAL SEMINARS
-    subject: CIML
+    subject: The Bureau
     actions:
     - type: remarks
       message: 'Mr THULIN summarized the general content of the report, issued following
@@ -455,7 +453,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML LOGO
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr THULIN summarized the results of an investigation conducted by
@@ -479,7 +477,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: SIGNIFICANCE OF NATIONAL MARKS OF METROLOGICAL CONTROL
-    subject: CIML
     actions:
     - type: remarks
       message: 'The investigation conducted by the BIML is being pursued, and it is
@@ -503,7 +500,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: REPORT ON BIML ACTIVITIES
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'A report summarizing the main points of BIML activity since the last
@@ -526,7 +523,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: ANY OTHER BUSINESS
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'The Bureau presented a short report on the utilization of the English
@@ -555,7 +552,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: DATE AND PLACE OF THE NEXT MEETING
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Certain Members of the Committee had advised the BIML of their intention
@@ -580,7 +577,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: PRESIDENCY OF THE INTERNATIONAL COMMITTEE OF LEGAL METROLOGY
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee has adopted the report of its sixteenth meeting.

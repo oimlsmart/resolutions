@@ -29,7 +29,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF THE REPORT ON THE 19th COMMITTEE MEETING
-    subject: CIML
     actions:
     - type: remarks
       message: 'This report is approved with the following amendment :
@@ -51,7 +50,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF THE ACCOUNTANT REPORT FOR 1983 AND OTHER FINANCIAL INFORMATION
-    subject: CIML
+    subject: The Committee
     actions:
     - type: approves
       message: 'The Committee approves the accountant report for 1983 and instructs
@@ -74,7 +73,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: EXAMINATION OF THE DETAILED DRAFT REGULATIONS FOR THE OIML RETIREMENT PLAN
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND recalls that the principle of the creation of an OIML
@@ -103,7 +102,7 @@ resolutions:
     script: Latn
     title: EXAMINATION OF PROPOSALS OF THE PRESIDENTIAL COUNCIL CONCERNING LONG-TERM
       PLANNING OF OIML WORK, AND…
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND presents the document on planning, elaborated by the
@@ -127,7 +126,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: 'SEVENTH CONFERENCE : ORGANIZATION OF THE MEETING, CHAIRMANSHIP, AGENDA'
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee adopts the drafts of the Agenda and of the timetable
@@ -151,7 +150,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: IMPLEMENTATION OF THE DECISIONS OF THE CONFERENCE
-    subject: CIML
+    subject: the Conference
     actions:
     - type: remarks
       message: 'Mr BIRKELAND gives a summary of the decisions of the Conference, ensures
@@ -175,7 +174,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: SP5 (volumes of liquids)
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee accepts the proposal presented by the Fed. Rep. of Germany,
@@ -200,7 +199,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: SP13 (electricity)
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr THULIN presents a study prepared by the Bureau about the possible
@@ -229,7 +228,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Photometry and radiometry
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr. THULIN recalls that in April 1984 the Bureau carried out an enquiry
@@ -253,7 +252,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: SP 17-Sr 3 (radioactive pollution)
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr ATHANE points out that the United Kingdom having initially accepted
@@ -277,7 +276,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: SP 2-Sr 4 (recognition of metrological controls)
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr BIRKELAND gives a summary of the discussions which took place during
@@ -301,7 +300,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Suppression of certain Secretariats
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Following the proposal of the Bureau and of the States concerned,
@@ -324,7 +323,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: SP 2-Sr 6 and SP 7-Sr 2
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr PETERSEN underlines the extreme urgency of the work of both these
@@ -349,7 +348,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Recalibration intervals of measurement standards and standard devices
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr ATHANE states that the two documents prepared by the ILAC task
@@ -372,7 +371,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: REPORT ON ACTIVITY OF BIML
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee took note of the report on the activity of BIML, presented
@@ -395,7 +394,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Collaboration ARSO-OIML
-    subject: CIML
+    subject: The Committee
     actions:
     - type: approves
       message: 'The Committee approves this agreement and instructs its President
@@ -418,7 +417,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: DATE AND PLACE OF THE NEXT CIML MEETING
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'The Committee adopted the report on its 19th meeting with the following

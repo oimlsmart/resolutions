@@ -29,7 +29,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU COMPTE RENDU DE LA 30 $ ^{\mathrm{E M E}} $ RÉUNION DU CIML
-    subject: CIML
     actions:
     - type: remarks
       message: 'Le compte rendu de la trentième réunion du Comité International de
@@ -52,7 +51,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU RAPPORT COMPTABLE POUR 1995 ET AUTRES QUESTIONS FINANCIÈRES
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le rapport comptable pour 1995 est approuvé sans commentaire. Le Comité
@@ -76,7 +75,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 'DIXIÈME CONFÉRENCE: ORGANISATION GÉNÉRALE, PRÉSIDENCE ORDRE DU JOUR'
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité accepte les propositions de son Président en ce qui concerne
@@ -100,7 +99,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RECOMMANDATIONS APPLICABLES AU SYSTEME DE CERTIFICATS
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'le Comité décide que la R 50 deviendra applicable au Système de Certificats
@@ -123,7 +122,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation générale
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Athané indique qu''il avait eu l''intention de parler de ce sujet
@@ -148,7 +146,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Indexation des salaires sur l'inflation
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. Athané rappelle aux participants que, en 1995, le Comité avait
@@ -177,7 +175,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nomination d'un Adjoint au Directeur
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'M. Faber rappelle aux participants qu''il a établi un groupe de travail
@@ -203,7 +201,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: MISE EN APPLICATION DES DÉCISIONS DE LA DIXIÈME CONFÉRENCE
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Faber passe en revue les diverses décisions et résolutions adoptées
@@ -227,7 +224,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT D'ACTIVITÉ DU BIML
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité prend note d''un rapport sur l''activité du BIML de novembre
@@ -251,7 +248,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PROCHAINES RÉUNIONS
-    subject: CIML
     actions:
     - type: remarks
       message: 'La Délégation du Brésil confirme l''invitation au Comité de se réunir
@@ -277,7 +273,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: QUESTIONS DIVERSES
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité accepte un nouveau thème de travail pour le TC 9/SC 4 sur
@@ -308,7 +304,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: CLOTURE
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. Faber exprime ses remerciements à tous les participants, aux interprètes

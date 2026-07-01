@@ -30,7 +30,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 2
-    subject: OIML Conference
+    subject: The Conference
     actions:
     - type: approves
       message: 'Approves the agenda for the 17th International Conference on Legal
@@ -54,7 +54,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 3
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: having
       message: 'Having regard to Article IX of OIML B 1:1968 OIML Convention,
@@ -95,7 +95,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 4
-    subject: OIML Conference
+    subject: The Conference
     actions:
     - type: approves
       message: 'Approves the minutes of the 16th OIML Conference (2021).
@@ -118,7 +118,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 8
-    subject: OIML Conference
+    subject: the Committee
     considerations:
     - type: having
       message: 'Having regard to Article XXV, penultimate paragraph, of OIML B 1:1968
@@ -179,7 +179,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 9.1
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: having
       message: 'Having regard to Article XXVI (1) of OIML B 1:1968 OIML Convention,
@@ -228,7 +228,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 9.1
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: recalling
       message: 'Recalling Resolution Conference/2021/07 of the 16th Conference, which
@@ -264,7 +264,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 9.1
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: having
       message: 'Having regard to Article XXIV, first paragraph, Article XXVI (1),
@@ -348,7 +348,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 9.2
-    subject: OIML Conference
+    subject: The Conference
     considerations:
     - type: recalling
       message: 'Recalling Resolution Conference 2021/09 of the 16th OIML Conference,
@@ -397,7 +397,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 10
-    subject: OIML Conference
+    subject: the Committee
     considerations:
     - type: having
       message: 'Having regard to Article VIII, first and fifth paragraphs, of OIML
@@ -439,7 +439,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 12
-    subject: OIML Conference
+    subject: the Committee
     considerations:
     - type: having
       message: 'Having regard to Article X of OIML B 1:1968 OIML Convention,
@@ -479,7 +479,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Agenda item 13
-    subject: OIML Conference
+    subject: The Conference
     actions:
     - type: thanks
       message: 'Thanks His Excellency Fahad M. Al Ruwaily (Ambassador of the Kingdom

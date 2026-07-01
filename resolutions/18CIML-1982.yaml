@@ -29,7 +29,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU COMPTE RENDU
-    subject: CIML
     actions:
     - type: remarks
       message: 'DE LA DIX-SEPTIEME REUNION DU COMITE
@@ -51,7 +50,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouvelles adhésions. Perspectives de nouvelles adhésions
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. BIRKELAND réitère ses souhaits de bienvenue à M. KNAPP, représentant
@@ -83,7 +81,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation de certains Etats Membres
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Sur leur demande, le Comité accepte que la République Populaire Démocratique
@@ -109,7 +107,7 @@ resolutions:
     script: Latn
     title: 'Membres Correspondants : mise en application de la Résolution de la 6e
       Conférence sur l''institution …'
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité demande au Bureau de refaire le point sur ce sujet lors
@@ -133,7 +131,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption du Rapport Comptable pour 1980
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Ce Rapport est adopté et le Comité charge le Bureau de le présenter
@@ -156,7 +154,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation financière pour 1981 et estimation pour 1982
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité examine, à titre d''information provisoire, le Rapport Comptable
@@ -186,7 +184,7 @@ resolutions:
     script: Latn
     title: Examen de l'éventualité d'une convocation d'une session extraordinaire
       de la Conférence
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'A la suite des discussions qui ont eu lieu, l''assemblée adopte à
@@ -209,7 +207,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen des postes devenant vacants dans un proche avenir
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'L''Assemblée adopte à l''unanimité la résolution suivante, présentée
@@ -232,7 +230,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de l'expertise comptable sur la caisse de retraite
-    subject: CIML
     actions:
     - type: remarks
       message: 'La présentation de cette expertise est reportée à la prochaine réunion
@@ -255,7 +252,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Création de « Commissions Spécialisées »
-    subject: CIML
     actions:
     - type: remarks
       message: 'Le Président rappelle que des propositions visant à étudier l''opportunité
@@ -281,7 +277,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: SECRETARIATS PILOTES ET RAPPORTEURS
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale :
@@ -303,7 +299,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Création de nouveaux Secrétariats
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité jusqu''à présent n''avait pas jugé opportun de créer un
@@ -350,7 +346,7 @@ resolutions:
     script: Latn
     title: Utilisation par les Secrétariats des résultats des travaux d'autres Institutions
       Internationales
-    subject: CIML
+    subject: le Bureau
     actions:
     - type: remarks
       message: 'L''Assemblée exprime son accord vis-à-vis du document élaboré par
@@ -379,7 +375,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Etat d'avancement des travaux des Secrétariats
-    subject: CIML
     actions:
     - type: remarks
       message: 'Une édition à jour du document « Etat d''avancement » dont la présentation
@@ -402,7 +397,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption des Documents Internationaux
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'Le Bureau fait le point sur la mise en application, très satisfaisante,
@@ -427,7 +422,7 @@ resolutions:
     script: Latn
     title: 'Participation des Etats Membres aux travaux des Secrétariats : Services
       de métrologie, autres organe…'
-    subject: CIML
+    subject: Le Bureau
     actions:
     - type: remarks
       message: 'Le rapport présenté par le Bureau à ce sujet n''appelle de remarques
@@ -450,7 +445,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Discussion des conclusions du groupe ad hoc
-    subject: CIML
+    subject: Le Bureau
     actions:
     - type: remarks
       message: 'M. PETIK résume les propositions formulées par le groupe ad hoc, à
@@ -474,7 +469,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Organes de la Convention du Mètre
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité International de Métrologie Légale,
@@ -496,7 +491,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ISO.
-    subject: CIML
+    subject: Le Bureau
     actions:
     - type: remarks
       message: 'Le Bureau résume et complète les informations écrites établies.
@@ -518,7 +513,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: CEI.
-    subject: CIML
+    subject: Le Bureau
     actions:
     - type: remarks
       message: 'Le Bureau rappelle les décisions qui ont été prises par la CEI et
@@ -542,7 +537,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Autres Institutions
-    subject: CIML
+    subject: Le Bureau
     actions:
     - type: remarks
       message: 'Le Bureau évoque brièvement les liaisons existant entre l''OIML et
@@ -569,7 +564,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Groupes de travail mixtes
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. TURSKI fait le point sur le travail du groupe mixte BIPM-CEI-ISO-OIML
@@ -594,7 +588,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PAYS EN DEVELOPEMENT
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. SOUCH, qui a présidé la réunion du Conseil de Développement tenue
@@ -617,7 +610,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: SEMINAIRES
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'M. THULIN rappelle les résultats du premier séminaire, organisé en
@@ -642,7 +635,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: LOGO (sigle)
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. THULIN montre le logo adopté, dans sa forme définitive, et indique
@@ -665,7 +657,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: BULLETIN OIML
-    subject: CIML
     actions:
     - type: remarks
       message: 'M. THULIN indique les modifications visant à améliorer le Bulletin
@@ -690,7 +681,6 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT D'ACTIVITE
-    subject: CIML
     actions:
     - type: remarks
       message: 'Un rapport sur l''activité du Bureau, de juillet 1980 à février 1982,
@@ -713,7 +703,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PROCHAINES REUNIONS
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité accepte l''invitation présentée par M. REPSTORFF HOLTVEG
@@ -746,7 +736,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: AUTRES QUESTIONS
-    subject: CIML
+    subject: le Comité
     actions:
     - type: remarks
       message: 'A la demande de M. ISSAEV, le Comité charge son Président d''adresser
@@ -770,7 +760,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: CLOTURE
-    subject: CIML
+    subject: Le Comité
     actions:
     - type: remarks
       message: 'Le Comité a adopté le compte rendu de sa 17e réunion.

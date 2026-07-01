@@ -29,7 +29,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF THE MINUTES OF THE $ 31^{\mathrm{ST}} $ CIML MEETING
-    subject: CIML
     actions:
     - type: remarks
       message: 'The minutes of the thirty-first meeting of the International Committee
@@ -52,7 +51,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New Members - Expected accessions
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. Athané reminded the Committee of the accession as Corresponding
@@ -77,7 +76,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Situation of certain Members
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. Athané informed the Committee that he had been obliged to seriously
@@ -105,7 +104,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Adoption of the auditor's report for 1996
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'The Auditor''s report for 1996 was approved without comment and the
@@ -129,7 +128,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examination of the financial situation for 1997 and estimates for 1998
-    subject: CIML
+    subject: the Conference
     actions:
     - type: remarks
       message: 'Mr. Athané reported that the financial situation of the Organization
@@ -156,7 +155,7 @@ resolutions:
     script: Latn
     title: GENERAL INFORMATION CONCERNING THE IMPLEMENTATION OF DECISIONS MADE AT
       THE TENTH CONFERENCE
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'At the request of Mr. Faber, Mr. Athané reviewed the main decisions
@@ -181,7 +180,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: The OIML long-term policy and the Birkeland study
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. Faber introduced this matter by evoking the rapprochement with
@@ -207,7 +206,7 @@ resolutions:
     script: Latn
     title: ACTIVITIES LINKED WITH ACCREDITATION AND ESTABLISHMENT OF MUTUAL CONFIDENCE
       REGARDING LEGAL METROLOG…
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. Faber informed the Committee that he had charged Mr. Chappell
@@ -231,7 +230,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examination of the situation of certain TCs/SCs
-    subject: CIML
+    subject: The Committee
     actions:
     - type: remarks
       message: 'Mr. Chappell presented a report concerning the OIML technical activity
@@ -264,7 +263,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF INTERNATIONAL RECOMMENDATIONS
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. Athané introduced the five drafts submitted for approval by the
@@ -287,7 +286,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: General information regarding the operation of the System
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr. Athané summarized the information distributed in written form
@@ -319,7 +318,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Revision of the paper governing the operation of the System
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr. Athané reminded the participants of the activity of the Technical
@@ -350,7 +349,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New Recommendations applicable within the System
-    subject: CIML
+    subject: The Committee
     actions:
     - type: decides
       message: 'The Committee decided that the two new Recommendations:
@@ -372,7 +371,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: BIPM/OIML rapprochement and liaisons with ILAC
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr. Faber said that there was not too much to report after the extensive
@@ -406,7 +404,6 @@ resolutions:
     script: Latn
     title: Cooperation within the recently established JCGM (Joint Committee for Guides
       on Metrology), successo…
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr. Athané reminded the participants of the history of the establishment
@@ -444,7 +441,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: World Trade Organization
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr. Athané gave a summary of his preliminary discussions with representatives
@@ -481,7 +477,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Other liaisons (see also Item 10.2)
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr. Kochsiek reported on a meeting of representatives of the OIML
@@ -518,7 +513,7 @@ resolutions:
     script: Latn
     title: Information regarding the Development Council meeting of $ 2 9^{\mathrm{th}}
       $ October 1997
-    subject: CIML
+    subject: the Conference
     actions:
     - type: remarks
       message: 'Mr. Kochsiek, Vice-Chairman of the Council, reported on the activities
@@ -544,7 +539,7 @@ resolutions:
     script: Latn
     title: Planning of an international Seminar to be held in Germany in cooperation
       with the BIPM, IMEKO and P…
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. Kochsiek reminded the participants of the background to this Seminar,
@@ -576,7 +571,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: General situation
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr. Athané gave a brief reminder of the composition of the BIML staff,
@@ -600,7 +594,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Appointment of an Assistant Director
-    subject: CIML
+    subject: the Committee
     actions:
     - type: remarks
       message: 'Mr. Faber pointed out how important it was for the OIML to appoint
@@ -634,7 +628,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: REPORT ON BIML ACTIVITIES
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr. Athanedistributed a written report summarizing the activities
@@ -666,7 +660,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML Bulletin
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr. Athané reminded delegates of the ongoing efforts made by the Bureau
@@ -694,7 +688,7 @@ resolutions:
     script: Latn
     title: OIML on Internet (general information, meetings and proceedings, OIML certificates,
       OIML publication…
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'Mr. Athané summarized the development of the OIML page on Internet
@@ -733,7 +727,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: "$ 3 3^{\\mathrm{r d}} $ and $ 3 4^{\\mathrm{t h}} $ meetings of the CIML"
-    subject: CIML
     actions:
     - type: remarks
       message: 'The Delegation of the Republic of Korea confirmed that the $ 33^{\mathrm{rd}}
@@ -758,7 +751,6 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Eleventh Conference
-    subject: CIML
     actions:
     - type: remarks
       message: 'Mr. Athané said that, for the same reasons as explained above, the
@@ -783,7 +775,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: CLOSURE
-    subject: CIML
+    subject: the Bureau
     actions:
     - type: remarks
       message: 'At the request of Mr. Faber, Mr. Athané reviewed the decisions made
