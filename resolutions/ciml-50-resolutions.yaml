@@ -803,6 +803,7 @@ resolutions:
     script: Latn
     title: Prend note du rapport oral de son Second Vice-Président, Dr. Yukinobu Miki,
       concernant la
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Prend note du rapport oral de son Second Vice-Président, Dr. Yukinobu

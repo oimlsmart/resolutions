@@ -29,6 +29,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU COMPTE RENDU DE LA 23e REUNION DU COMITE
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Ce compte rendu est adopté sans modification
@@ -50,6 +51,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouvelles adhésions Perspectives d'adhésions
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. ATHANÉ rappelle que quatre Etats ont adhéré comme Membres Correspondants
@@ -77,6 +79,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation de certains Etats Membres
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. ATHANÉ rappelle que la Guinée a été déclarée démissionnaire d''office,
@@ -424,6 +427,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT D'ACTIVITE DU BIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Un rapport écrit couvrant la période octobre 1988-septembre 1989 est

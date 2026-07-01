@@ -35,6 +35,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the minutes of the $ 3 5^{th} $ CIML Meeting
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The minutes of the $ 3 5^{th} $ CIML Meeting were approved without
@@ -47,6 +48,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Liste des Organisations représentées
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Faber établi la liste des RLMO présentes à la réunion (voir ci-dessus)
@@ -129,6 +131,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Participation des RLMO aux travaux de l'OIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Magaña présente une liste de sujets dont la discussion a été suggérée
@@ -329,6 +332,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Presidential Council activities
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. Faber reminded the participants (and especially recently appointed
@@ -555,6 +559,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML Certificate System for Measuring Instruments
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'A written report prepared by the BIML was distributed to participants
@@ -568,6 +573,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Système de Certificats OIML pour les Instruments de Mesure
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Un rapport écrit préparé par le BIML est distribué aux participants
@@ -725,6 +731,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Mutual Acceptance Arrangement (MAA)
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Under item 2, Mr. Faber had reminded the participants about the decision
@@ -770,6 +777,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: IQ mark for prepackaged goods
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Under item 2 Mr. Faber had reminded the participants that the Eleventh
@@ -1097,6 +1105,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Autres questions
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'L''atelier L''avenir de la Métrologie Légale en 2020 pour lequel un
@@ -1159,6 +1168,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Closure
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. Faber underlined the somewhat special character of this 36th CIML

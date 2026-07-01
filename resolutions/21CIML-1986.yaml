@@ -29,6 +29,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF THE REPORT ON THE 20TH COMMITTEE MEETING
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The report is approved without modification.
@@ -50,6 +51,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: New accessions-Anticipated accessions
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'After Mr. BIRKELAND has recalled the accession of the People''s Republic
@@ -254,6 +256,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: IMPLEMENTATION OF THE DECISIONS OF THE 7th CONFERENCE
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. ATHANE recalls the decisions of the 7th Conference and summarizes
@@ -593,6 +596,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: REPORT ON ACTIVITY OF BIML
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'A report covering the activity of BIML between October 1984 and March

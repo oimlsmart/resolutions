@@ -897,7 +897,13 @@ module ResolutionsData
     # so a source with "le Comité" yields subject "le Comité", not
     # "Le Comité". Returns nil if no issuer phrase is found (e.g. a
     # verb-led formal resolution with no explicit subject).
-    def self.extract_subject(body, lang, _src = nil)
+    #
+    # The `src` argument is used only when the source body has no
+    # issuer phrase. In that case we fall back to a parenthesised
+    # placeholder — "(The CIML)" / "(Le CIML)" / "(The Conference)" /
+    # "(La Conférence)" — to signal that the subject is inferred from
+    # the meeting kind, not extracted from the body text.
+    def self.extract_subject(body, lang, src = nil)
       phrases =
         case lang
         when :fr
@@ -919,7 +925,18 @@ module ResolutionsData
         m = body.match(pat)
         return m[0] if m
       end
-      nil
+      inferred_subject(src, lang)
+    end
+
+    # Parenthesised placeholder used when the source body has no
+    # explicit issuer phrase — signals "inferred from meeting kind".
+    def self.inferred_subject(src, lang)
+      meeting_kind = (src && src["kind"]) || "ciml"
+      if meeting_kind == "conference"
+        lang == :fr ? "(La Conférence)" : "(The Conference)"
+      else
+        lang == :fr ? "(Le CIML)" : "(The CIML)"
+      end
     end
 
     # Drop metadata lines (agenda item, subject marker) from body, and

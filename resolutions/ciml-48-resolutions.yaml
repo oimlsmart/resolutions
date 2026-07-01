@@ -1223,6 +1223,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Agenda item 12
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: "[Point 12 de l'ordre du jour]\n"

@@ -29,6 +29,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION du COMPTE RENDU
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'de la QUATORZIÈME RÉUNION du COMITÉ.
@@ -243,6 +244,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Dispositifs électroniques.
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Bien que certains participants aient soutenu l''avis contraire, l''ensemble
@@ -294,6 +296,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Secrétariats vacants.
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Certains États ayant posé leur candidature pour assumer la responsabilité

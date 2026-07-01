@@ -35,6 +35,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the Minutes of the $ 3 6^{th} $ CIML Meeting
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The Minutes of the 36th CIML Meeting (Moscow, 2001) were approved
@@ -47,6 +48,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Approbation du compte-rendu de la 36ème Réunion du CIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le compte-rendu de la 36ème Réunion du CIML (Moscou, 2001) a été approuvé
@@ -70,6 +72,7 @@ resolutions:
     script: Latn
     title: Implementation of the Decisions and Resolutions of the $ 1 1^{th} $ Conference
       and $ 3 6^{th} $ CIML…
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The CIML President and BIML Director explained that all the Decisions
@@ -84,6 +87,7 @@ resolutions:
     script: Latn
     title: Mise en application des Décisions et Résolutions de la Onzième Conférence
       et de la 36ème Réunion du …
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le Président du CIML et le Directeur du BIML ont expliqué que toutes
@@ -569,6 +573,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Activités techniques
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Un rapport rédigé par le BIML a été distribué aux Participants et
@@ -690,6 +695,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML Certificate System for Measuring Instruments
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'A written report prepared by the BIML was distributed to Participants
@@ -703,6 +709,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Système de Certificats OIML pour les Instruments de Mesure
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Un rapport écrit préparé par le BIML était distribué aux Participants
@@ -1067,6 +1074,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Presentation of World Bank programs
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. Magaña reported that unfortunately Mr. Wilson of the World Bank,
@@ -1083,6 +1091,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Présentation des programmes de la Banque Mondiale
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Magaña a rapporté que malencontreusement M. Wilson de la Banque

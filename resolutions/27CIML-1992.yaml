@@ -29,6 +29,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU COMPTE RENDU DE LA VINGT-SIXIÈME RÉUNION DU COMITÉ
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Ce compte rendu est adopté sans modifications.
@@ -101,6 +102,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: STRUCTURES ET PROCEDURES POUR LES TRAVAUX TECHNIQUES DE L'OIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. BIRKELAND introduit ce point en indiquant qu''il doit être considéré
@@ -323,6 +325,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT D'ACTIVITÉ DU BIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Un rapport résumant l''activité du BIML pour la période octobre 1991-octobre

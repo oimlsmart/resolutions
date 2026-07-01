@@ -29,6 +29,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouveaux Membres - Perspectives de nouvelles adhésions
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. ATHANÉ rappelle l''adhésion comme État Membre de la République
@@ -59,6 +60,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation de certains Membres
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. ATHANÉ indique tout d''abord que Liban, dont la participation à
@@ -109,6 +111,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation financiere pour 1993
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. ATHANÉ indique tout d''abord que les estimations de dépenses pour
@@ -429,6 +432,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: LIAISONS AVEC D'AUTRES ORGANISATIONS
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. ATHANÉ indique tous d''abord que les liaisons entre les nouveaux
@@ -504,6 +508,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: BROCHURE OIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Mlle FRENCH dit que, dans le cadre de la nouvelle politique de communication
@@ -530,6 +535,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT SUR LES ACTIVITÉS DU BIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Un rapport écrit, décrivant les activités du BIML de novembre 1992

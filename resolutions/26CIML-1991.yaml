@@ -58,6 +58,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: The situations of some Member States
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr ATHANE said that Cameroon was the only Member State that was in
@@ -85,6 +86,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the auditor's report for 1990
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The auditor''s report was approved without comment.
@@ -355,6 +357,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: State of progress of work
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr BIRKELAND indicated that the paper entitled State of progress of
@@ -591,6 +594,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Instituting a world metrology day
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr STOICHITOIU explained his reasons for the proposal: activities

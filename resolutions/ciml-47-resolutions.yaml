@@ -48,6 +48,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Agenda item 1
+    subject: "(Le CIML)"
     actions:
     - type: approves
       message: |

@@ -246,6 +246,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: ANY OTHER BUSINESS
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'There was no other business.

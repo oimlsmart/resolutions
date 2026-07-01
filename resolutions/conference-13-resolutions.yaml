@@ -453,6 +453,7 @@ resolutions:
     script: Latn
     title: La part contributive de base des Etats Membres pour la période financière
       2009-2012 sera
+    subject: "(La Conférence)"
     actions:
     - type: remarks
       message: 'La part contributive de base des Etats Membres pour la période financière
@@ -476,6 +477,7 @@ resolutions:
     script: Latn
     title: Les droits de Membre Correspondant pour la période financière 2009-2012
       seront les suivants
+    subject: "(La Conférence)"
     actions:
     - type: remarks
       message: 'Les droits de Membre Correspondant pour la période financière 2009-2012
@@ -499,6 +501,7 @@ resolutions:
     script: Latn
     title: Les tarifs des autres produits ou services de l'OIML pendant la période
       financière 2009-2012
+    subject: "(La Conférence)"
     actions:
     - type: remarks
       message: 'Les tarifs des autres produits ou services de l''OIML pendant la période

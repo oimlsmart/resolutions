@@ -29,6 +29,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF THE MINUTES OF THE $ 31^{\mathrm{ST}} $ CIML MEETING
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The minutes of the thirty-first meeting of the International Committee
@@ -371,6 +372,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: BIPM/OIML rapprochement and liaisons with ILAC
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. Faber said that there was not too much to report after the extensive
@@ -404,6 +406,7 @@ resolutions:
     script: Latn
     title: Cooperation within the recently established JCGM (Joint Committee for Guides
       on Metrology), successo…
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. Athané reminded the participants of the history of the establishment
@@ -441,6 +444,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: World Trade Organization
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. Athané gave a summary of his preliminary discussions with representatives
@@ -477,6 +481,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Other liaisons (see also Item 10.2)
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. Kochsiek reported on a meeting of representatives of the OIML
@@ -571,6 +576,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: General situation
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. Athané gave a brief reminder of the composition of the BIML staff,
@@ -727,6 +733,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: "$ 3 3^{\\mathrm{r d}} $ and $ 3 4^{\\mathrm{t h}} $ meetings of the CIML"
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The Delegation of the Republic of Korea confirmed that the $ 33^{\mathrm{rd}}
@@ -751,6 +758,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Eleventh Conference
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. Athané said that, for the same reasons as explained above, the

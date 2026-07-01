@@ -1547,6 +1547,7 @@ resolutions:
     script: Latn
     title: Requests the 14th Conference to take account of this opinion in the budget
       for
+    subject: "(The CIML)"
     considerations:
     - type: considering
       message: |
@@ -1573,6 +1574,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Demande à la 14ème Conférence de prendre cet avis en compte dans le budget
+    subject: "(Le CIML)"
     considerations:
     - type: considering
       message: |

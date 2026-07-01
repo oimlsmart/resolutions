@@ -29,6 +29,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF THE REPORT ON THE 19th COMMITTEE MEETING
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'This report is approved with the following amendment :

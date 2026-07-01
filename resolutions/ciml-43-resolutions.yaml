@@ -555,6 +555,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Après qu'il ait été mis fin au Système de Certificats dit "de base" pour
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Après qu''il ait été mis fin au Système de Certificats dit "de base"
@@ -774,6 +775,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: "(Supprimée)"
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: "(Supprimée)\n"

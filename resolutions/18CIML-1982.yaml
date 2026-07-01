@@ -29,6 +29,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU COMPTE RENDU
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'DE LA DIX-SEPTIEME REUNION DU COMITE
@@ -50,6 +51,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouvelles adhésions. Perspectives de nouvelles adhésions
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. BIRKELAND réitère ses souhaits de bienvenue à M. KNAPP, représentant
@@ -230,6 +232,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de l'expertise comptable sur la caisse de retraite
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'La présentation de cette expertise est reportée à la prochaine réunion
@@ -252,6 +255,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Création de « Commissions Spécialisées »
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le Président rappelle que des propositions visant à étudier l''opportunité
@@ -375,6 +379,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Etat d'avancement des travaux des Secrétariats
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Une édition à jour du document « Etat d''avancement » dont la présentation
@@ -564,6 +569,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Groupes de travail mixtes
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. TURSKI fait le point sur le travail du groupe mixte BIPM-CEI-ISO-OIML
@@ -588,6 +594,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PAYS EN DEVELOPEMENT
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. SOUCH, qui a présidé la réunion du Conseil de Développement tenue
@@ -635,6 +642,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: LOGO (sigle)
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. THULIN montre le logo adopté, dans sa forme définitive, et indique
@@ -657,6 +665,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: BULLETIN OIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. THULIN indique les modifications visant à améliorer le Bulletin
@@ -681,6 +690,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT D'ACTIVITE
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Un rapport sur l''activité du Bureau, de juillet 1980 à février 1982,

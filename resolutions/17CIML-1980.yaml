@@ -29,6 +29,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: APPROVAL OF MINUTES OF THE 16th MEETING OF THE COMMITTEE
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The minutes were approved without modification.
@@ -245,6 +246,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Creation of a new Secretariat for explosimeters.
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'This Reporting Secretariat, created on the proposal of France, and
@@ -477,6 +479,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: SIGNIFICANCE OF NATIONAL MARKS OF METROLOGICAL CONTROL
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The investigation conducted by the BIML is being pursued, and it is

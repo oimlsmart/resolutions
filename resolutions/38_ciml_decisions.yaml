@@ -35,6 +35,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the Minutes of the $ 3 7^{\mathrm{th}} $ CIML Meeting
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The Minutes of the $ 37^{\mathrm{th}} $ CIML Meeting (Saint-Jean-de-Luz,
@@ -47,6 +48,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Approbation du compte rendu de la 37ème Réunion du CIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le compte rendu de la 37ème Réunion du CIML (Saint-Jean-de-Luz, 2002)
@@ -70,6 +72,7 @@ resolutions:
     script: Latn
     title: Implementation of the Decisions and Resolutions of the $ 3 7^{th} $ CIML
       Meeting
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The CIML President and BIML Director explained that all the Decisions
@@ -83,6 +86,7 @@ resolutions:
     script: Latn
     title: Mise en application des Décisions et Résolutions de la 37ème Réunion du
       CIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le Président du CIML et le Directeur du BIML ont expliqué que toutes
@@ -1576,6 +1580,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Election of the CIML President
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'In the absence of a conclusive election result and in application
@@ -1591,6 +1596,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Élection du Président du CIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'A défaut d''un résultat de scrutin concluant et en application de

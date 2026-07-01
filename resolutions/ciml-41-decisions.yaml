@@ -35,6 +35,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the Minutes of the 40th CIML Meeting
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The Minutes of the 40th CIML Meeting were approved without modification.
@@ -46,6 +47,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Approbation du Compte Rendu de la 40ème Réunion du CIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le Compte Rendu de la 40ème Réunion du CIML a été approuvé sans modification.
@@ -67,6 +69,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Situation of certain Members
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The CIML noted the situation of the Democratic People''s Republic
@@ -81,6 +84,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation de certains Membres
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le CIML a pris note de la situation de la République Démocratique
@@ -1287,6 +1291,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Other matters
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The CIML took note of a presentation given by Dr. Sahin (Turkey) giving
@@ -1300,6 +1305,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Divers
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le CIML a pris note de la présentation faite par Dr. Sahin (Turquie)

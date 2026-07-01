@@ -1050,9 +1050,11 @@ resolutions:
   - language_code: eng
     script: Latn
     title: "(Untitled)"
+    subject: "(The CIML)"
   - language_code: fra
     script: Latn
     title: "(Supprimée)"
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: "(Supprimée)\n"
@@ -1072,9 +1074,11 @@ resolutions:
   - language_code: eng
     script: Latn
     title: "(Untitled)"
+    subject: "(The CIML)"
   - language_code: fra
     script: Latn
     title: "(Supprimée)"
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: "(Supprimée)\n"

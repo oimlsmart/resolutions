@@ -29,6 +29,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU COMPTE RENDU DE LA 30 $ ^{\mathrm{E M E}} $ RÉUNION DU CIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le compte rendu de la trentième réunion du Comité International de
@@ -122,6 +123,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation générale
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Athané indique qu''il avait eu l''intention de parler de ce sujet
@@ -201,6 +203,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: MISE EN APPLICATION DES DÉCISIONS DE LA DIXIÈME CONFÉRENCE
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Faber passe en revue les diverses décisions et résolutions adoptées
@@ -248,6 +251,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: PROCHAINES RÉUNIONS
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'La Délégation du Brésil confirme l''invitation au Comité de se réunir
@@ -304,6 +308,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: CLOTURE
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Faber exprime ses remerciements à tous les participants, aux interprètes

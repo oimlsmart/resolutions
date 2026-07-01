@@ -85,6 +85,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Situation de certains Membres
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a noté que la Zambie avait été radiée de la liste des
@@ -194,6 +195,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Projet de Révision du Règlement Financier de l'OIML
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a approuvé le Projet de Révision du Règlement Financier
@@ -234,6 +236,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Rapport sur les liaisons
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a pris note d''un rapport présenté par le Directeur
@@ -305,6 +308,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Rapport sur les actions réalisées depuis la Onzième Conférence
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a pris note d''un rapport présenté par le Directeur
@@ -340,6 +344,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Travaux entrepris - État d'avancement
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a pris note d''un rapport concernant les activités des
@@ -381,6 +386,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Mise en application des Recommandations par les Membres de l'OIML
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a pris note d''informations fournies par le Bureau concernant
@@ -421,6 +427,7 @@ resolutions:
     script: Latn
     title: Sanction officielle des Recommandations déjà approuvées par le Comité en
       2001, 2002, 2003 et 2004
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a décidé que les Formats de Rapport d''Essai OIML, qui
@@ -463,6 +470,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Projets de Recommandations présentés directement pour sanction par la Conférence
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a sanctionné une nouvelle Recommandation Instruments
@@ -498,6 +506,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approbation de Documents Internationaux
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a approuvé le Document International suivant:
@@ -544,6 +553,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examen de la situation de certains TC/SC
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport du BIML décrivant la situation
@@ -618,6 +628,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Application du MAA
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport sur l''Atelier tenu le dimanche
@@ -671,6 +682,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Rapport sur les activités de la période 2001-2004
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a pris note d''un rapport concernant la réunion du Conseil
@@ -708,6 +720,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Directives pour l'activité à venir
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a pris note du rapport du Comité selon lequel, en dépit
@@ -751,6 +764,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Examen de la gestion du budget de 2000 à 2003 et estimations pour 2004
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence Internationale de Métrologie Légale,
@@ -784,6 +798,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Décisions relatives aux dettes de certains pays
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a adopté la Résolution suivante:
@@ -817,6 +832,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Révision du Règlement Financier de l'OIML
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a approuvé le Règlement Financier de l''OIML révisé
@@ -852,6 +868,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Personnel du Bureau et plan de Retraite
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a pris note d''un rapport fourni par le Directeur du
@@ -923,6 +940,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Statut des Publications OIML
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'La Conférence a approuvé la proposition de rendre toutes les Publications
@@ -962,6 +980,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Adoption des Décisions et Résolutions de la Conférence
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Après avoir procédé à un second appel des Délégués, il a été constaté
@@ -975,6 +994,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption des Décisions et Résolutions de la Conférence
+    subject: "(La Conférence)"
     actions:
     - type: remarks
       message: 'Après avoir procédé à un second appel des Délégués, il a été constaté
@@ -1065,6 +1085,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Activités du Conseil de la Présidence
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport de son Président Intérimaire en
@@ -1088,6 +1109,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Activités du BIML
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport décrivant les activités du Bureau
@@ -1110,6 +1132,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Autres décisions liées au Système de Certificats OIML
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a décidé qu''à partir du 1<sup>er</sup> janvier 2005, les
@@ -1134,6 +1157,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Divers
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a souhaité qu''il soit précisé que les interprétations substantielles
@@ -1157,6 +1181,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Pays en Développement
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a pris note d''un rapport présenté par le Dr Seiler à propos
@@ -1199,6 +1224,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Coordination avec les Organisations Régionales de Métrologie Légale
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a chargé son Président et le Directeur du Bureau de continuer
@@ -1222,6 +1248,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Douzième Conférence Internationale de Métrologie Légale
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a approuvé les projets d''ordre du jour et de programme
@@ -1247,6 +1274,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Présidence du CIML
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a élu M. Alan E. Johnston (Membre du CIML pour le Canada)
@@ -1269,6 +1297,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Douzième Conférence Internationale de Métrologie Légale
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a pris note des décisions rendues par la Douzième Conférence
@@ -1293,6 +1322,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: 40ème Réunion du CIML (2005)
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a remercié le Gouvernement français pour son invitation
@@ -1318,6 +1348,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: 41ème Réunion du CIML (2006)
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a accepté l''invitation de l''Afrique du Sud pour accueillir
@@ -1341,6 +1372,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Directeur du BIML
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Le Comité a approuvé la Procédure de recrutement du Directeur du BIML
@@ -1363,6 +1395,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Adoption des décisions
+    subject: "(The Conference)"
     actions:
     - type: remarks
       message: 'Les décisions mentionnées ci-dessus ont été adoptées.

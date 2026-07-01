@@ -74,6 +74,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: The situation of some Member States and Corresponding Members
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr ATHANE reported that Venezuela had asked to be considered as no
@@ -232,6 +233,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: State of progress of work
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr BIRKELAND introduced the paper, "State of progress of the work

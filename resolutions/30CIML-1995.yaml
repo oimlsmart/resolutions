@@ -29,6 +29,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouveaux Membres - Perspectives d'adhésions
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Athané rappelle au Comité l''adhésion comme État Membre du Kazakhstan;
@@ -56,6 +57,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Situation de certains membres
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Athané indique qu''il n''y a rien à signaler concernant les États
@@ -136,6 +138,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de la situation financiere pour 1995
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Athané rappelle que les estimations financières pour 1995 ont été
@@ -330,6 +333,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: CERTIFICATION
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Kochsiek, en tant que responsable du suivi de l''activité de certification
@@ -403,6 +407,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Rapport de publication
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Athané donne des informations concernant la publication et la diffusion
@@ -482,6 +487,7 @@ resolutions:
     script: Latn
     title: Rapport sur le Symposium Activités métrologiques dans les pays en développement,
       23-24 octobre 1995
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Kochsiek, responsable du suivi des activités de développement au
@@ -510,6 +516,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Rapport sur la réunion du Conseil de Développement du 25 octobre
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Benkirane, Président du Conseil de Développement de l''OIML, fait
@@ -730,6 +737,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Budget 1997-2000
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Athané présente les grandes lignes générales du budget qui sera
@@ -775,6 +783,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: AUTRES QUESTIONS
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Il n''y a pas eu d''autres sujets de discussion.

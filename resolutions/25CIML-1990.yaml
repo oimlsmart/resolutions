@@ -89,6 +89,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the auditor's report for 1989
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The auditor''s report for 1989 was approved without comment.
@@ -482,6 +483,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: OIML SEMINARS
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The BUREAU mentioned the technical seminars organized to date and
@@ -507,6 +509,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: REPORT ON THE ACTIVITIES OF BIML (OCTOBER 1989 TO SEPTEMBER 1990)
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The report was distributed to all present.
@@ -528,6 +531,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: ANY OTHER BUSINESS
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'There was no other business.

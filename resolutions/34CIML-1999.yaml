@@ -35,6 +35,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the minutes of the $ 3 3 ^{r d} $ CIML Meeting
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The minutes of the $ 3 3 ^{\mathrm{r d}} $ CIML Meeting were approved
@@ -47,6 +48,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Approbation du compte rendu de la 33ème réunion du CIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le compte rendu de la 33ème réunion du CIML a été approuvé sans modification.
@@ -1228,6 +1230,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: 35th CIML Meeting (2000)
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'This meeting will be held in London in conjunction with the Eleventh
@@ -1240,6 +1243,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 35ème réunion du CIML (2000)
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Cette réunion se tiendra à Londres conjointement à la Onzième Conférence.
@@ -1261,6 +1265,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: 36th CIML Meeting (2001)
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Invitations were received, in order of priority, from the Russian
@@ -1275,6 +1280,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: 36ème réunion du CIML (2001)
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Des invitations ont été reçues, dans l''ordre de priorité, de la Fédération

@@ -29,6 +29,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: APPROBATION DU COMPTE RENDU DE LA 32'EME RÉUNION DU CIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Le compte rendu de la 32ème réunion du CIML a été approuvé sans commentaires.
@@ -205,6 +206,7 @@ resolutions:
     script: Latn
     title: Informations sur le Séminaire International le Rôle de la Métrologie dans
       le Développement Économiqu…
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Kochsiek rapporte que plus de deux cent experts de quelques quatre-vingts
@@ -292,6 +294,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: BIPM et ILAC
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Faber indique que les relations avec le BIPM sont bonnes, bien
@@ -324,6 +327,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: JCGM
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Athané rappelle aux participants que le JCGM a été créé il y a
@@ -759,6 +763,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DES DÉCISIONS
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. Athané procède d''abord aux votes sur les cinq Projets de Recommandations;

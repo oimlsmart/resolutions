@@ -29,6 +29,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: ADOPTION DU COMPTE RENDU DE LA 18ème REUNION DU COMITE
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Ce compte rendu est adopté avec les corrections suivantes :
@@ -50,6 +51,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Nouvelles adhésions, perspectives d'adhésions
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'M. BIRKELAND rappelle l''adhésion, comme Etat Membre, du Kenya, et,
@@ -262,6 +264,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Examen de l'état d'avancement des travaux
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Une édition, à jour au 1er avril 1983, du document « Etat d''avancement
@@ -538,6 +541,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: RAPPORT D'ACTIVITE DU BIML
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Un rapport, couvrant la période mars 1982 - avril 1983, est distribué

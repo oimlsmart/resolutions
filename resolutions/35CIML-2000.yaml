@@ -72,6 +72,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Approval of the minutes of the $ 3 4^{\mathrm{th}} $ CIML Meeting
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'The minutes of the $ 3 4^{\mathrm{th}} $ CIML Meeting were approved
@@ -106,6 +107,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: Member States and Corresponding Members
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: "## Situation of certain Members\n"
@@ -224,6 +226,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: BIML activities
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: 'Mr. Athané made some remarks concerning a written report on BIML activities
@@ -344,6 +347,7 @@ resolutions:
   - language_code: eng
     script: Latn
     title: CIML Presidency
+    subject: "(The CIML)"
     actions:
     - type: remarks
       message: "## Election of the CIML President\n"
@@ -552,6 +556,7 @@ resolutions:
   - language_code: fra
     script: Latn
     title: Adoption des décisions
+    subject: "(Le CIML)"
     actions:
     - type: remarks
       message: 'Les décisions ci-dessus ont été adoptées.
