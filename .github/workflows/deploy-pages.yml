@@ -62,6 +62,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
 
+      - name: Checkout the shell package (the chrome SSOT)
+        uses: actions/checkout@v7
+        with:
+          repository: oimlsmart/site-shell
+          path: vendor/site-shell
+
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:

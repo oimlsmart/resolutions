@@ -10,8 +10,11 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",
+    "@astrojs/vue": "^7.0.1",
     "@edoxen/browser": "^0.12.0",
+    "@oimlsmart/site-shell": "file:../vendor/site-shell",
     "astro": "^7.1.6",
+    "vue": "^3.5.41",
     "yaml": "^2.9.0"
   },
   "pnpm": {

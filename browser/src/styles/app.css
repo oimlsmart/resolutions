@@ -4,94 +4,21 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @import "./components.css";
+@source "../../node_modules/@oimlsmart/site-shell/src/**/*.{astro,vue}";
 
-/* ── Design system tokens (Tailwind @theme) ──────────
-   Mirrors oimlsmart.github.io/src/styles/app.css so the resolutions
-   browser reads as a natural extension of oimlsmart.org.
-   These become both CSS variables AND Tailwind utilities.
-   ──────────────────────────────────────────────────── */
+/* The design tokens + the blueprint layer come from @oimlsmart/site-shell
+   (the one home for the house style, TODO.fix/08) — the local copy was
+   the same system duplicated. Only the resolutions-specific back-compat
+   aliases stay local. */
+@import "@oimlsmart/site-shell/tokens.css";
+@import "@oimlsmart/site-shell/blueprint.css";
+
 @theme {
-  /* Brand blue (primary) */
-  --color-brand-50:  #f0f6ff;
-  --color-brand-100: #dde9fc;
-  --color-brand-200: #bcd3f8;
-  --color-brand-300: #89b4ef;
-  --color-brand-400: #4d8fe0;
-  --color-brand-500: #1a6fc2;
-  --color-brand-600: #004996;
-  --color-brand-700: #003a78;
-  --color-brand-800: #002b5a;
-  --color-brand-900: #001e41;
-  --color-brand-950: #001230;
-
-  /* Teal (secondary accent) */
-  --color-teal-50:  #f0f7fc;
-  --color-teal-100: #dbeaf3;
-  --color-teal-200: #b3d5e6;
-  --color-teal-300: #82bad5;
-  --color-teal-400: #4d9ac0;
-  --color-teal-500: #1a7aa3;
-  --color-teal-600: #024873;
-  --color-teal-700: #023d62;
-  --color-teal-800: #013150;
-  --color-teal-900: #00243d;
-  --color-teal-950: #001629;
-
-  /* Cream paper ramp */
-  --color-cream:      #faf6ee;
-  --color-cream-soft: #f5ede0;
-  --color-cream-deep: #e8dec8;
-
-  /* Semantic surfaces */
-  --color-paper:        #faf6ee;
-  --color-paper-soft:   #ffffff;
-  --color-paper-raised: #f5ede0;
-  --color-paper-deep:   #e8dec8;
-
-  --color-ink:        #0a1628;
-  --color-ink-soft:   #3a4a63;
-  --color-ink-muted:  #6b7a92;
-
-  --color-rule:       #ddd2bd;
-  --color-rule-soft:  #ebe3d2;
-
-  --color-accent:       #004996;
-  --color-accent-hover: #003a78;
-  --color-accent-soft:  rgba(0, 73, 150, 0.08);
-
-  --color-grid-line:        rgba(10, 22, 40, 0.04);
-  --color-grid-line-strong: rgba(10, 22, 40, 0.07);
-
-  --font-sans:  'IBM Plex Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
-  --font-serif: 'Fraunces', 'Source Serif 4', ui-serif, Georgia, 'Times New Roman', serif;
-  --font-mono:  'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
-
   /* Site header is exactly 50px (3.125rem). */
   --container-7xl: 80rem;
 }
 
-/* ── Semantic token aliases ────────────────────────── */
 :root {
-  --paper:        var(--color-paper);
-  --paper-soft:   var(--color-paper-soft);
-  --paper-raised: var(--color-paper-raised);
-  --paper-deep:   var(--color-paper-deep);
-
-  --ink:        var(--color-ink);
-  --ink-soft:   var(--color-ink-soft);
-  --ink-muted:  var(--color-ink-muted);
-
-  --rule:       var(--color-rule);
-  --rule-soft:  var(--color-rule-soft);
-
-  --accent:        var(--color-accent);
-  --accent-hover:  var(--color-accent-hover);
-  --accent-soft:   var(--color-accent-soft);
-  --accent-2:      var(--color-teal-600);
-
-  --grid-line:        var(--color-grid-line);
-  --grid-line-strong: var(--color-grid-line-strong);
-
   /* Back-compat aliases used by legacy CSS */
   --color-blue-accent: var(--color-accent);
   --color-slate-50:  #f8fafc;
@@ -105,40 +32,6 @@
   --color-slate-800: #1e293b;
   --color-slate-900: #0f172a;
   --site-header-height: 3.125rem;
-}
-
-.dark {
-  --color-paper:        #0a1628;
-  --color-paper-soft:   #13233d;
-  --color-paper-raised: #18294a;
-  --color-paper-deep:   #060e1c;
-
-  --color-ink:        #f5efe4;
-  --color-ink-soft:   #c2cad8;
-  --color-ink-muted:  #8d9bb4;
-
-  --color-rule:       #1f3357;
-  --color-rule-soft:  #152543;
-
-  --color-accent:       var(--color-brand-300);
-  --color-accent-hover: var(--color-brand-200);
-  --color-accent-soft:  rgba(137, 180, 239, 0.12);
-
-  --color-grid-line:        rgba(245, 239, 228, 0.04);
-  --color-grid-line-strong: rgba(245, 239, 228, 0.08);
-
-  --paper:        var(--color-paper);
-  --paper-soft:   var(--color-paper-soft);
-  --paper-raised: var(--color-paper-raised);
-  --paper-deep:   var(--color-paper-deep);
-  --ink:          var(--color-ink);
-  --ink-soft:     var(--color-ink-soft);
-  --ink-muted:    var(--color-ink-muted);
-  --rule:         var(--color-rule);
-  --rule-soft:    var(--color-rule-soft);
-  --accent:       var(--color-accent);
-  --accent-hover: var(--color-accent-hover);
-  --accent-soft:  var(--color-accent-soft);
 }
 
 /* ── Base layer ────────────────────────────────────── */
