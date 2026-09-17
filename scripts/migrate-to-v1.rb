@@ -21,6 +21,9 @@ require "yaml"
 require "pathname"
 require "fileutils"
 
+$LOAD_PATH.unshift(File.expand_path("../lib", __dir__))
+require "oiml/resolutions_data"
+
 ROOT = Pathname.new(File.expand_path("../..", __FILE__))
 
 def spelling_of(lang, script)
@@ -108,7 +111,7 @@ def migrate_meeting(m)
   m.delete("localizations")
 
   unless m["title"]
-    ordinal = m["ordinal"] ? "#{m['ordinal']}th " : ""
+    ordinal = m["ordinal"] ? "#{m['ordinal']}#{Oiml::ResolutionsData::Ordinal.suffix(m['ordinal'])} " : ""
     name = m["committee"] || "Meeting"
     m["title"] = [{ "spelling" => "eng", "value" => "#{ordinal}#{name}" }]
   end

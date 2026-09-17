@@ -237,7 +237,7 @@ const dateTypeLabel = (type: string | undefined): string => {
 </OimlLayout>
 
 <script>
-  (function () {
+  function initUrnCopyButtons() {
     const buttons = document.querySelectorAll<HTMLButtonElement>('[data-urn-copy]')
     if (!buttons.length) return
     async function copy(text: string, btn: HTMLButtonElement) {
@@ -254,5 +254,9 @@ const dateTypeLabel = (type: string | undefined): string => {
       setTimeout(() => btn.classList.remove('urn-copy-btn--done'), 1400)
     }
     buttons.forEach((btn) => btn.addEventListener('click', () => copy(btn.dataset.urnCopy ?? '', btn)))
-  })()
+  }
+
+  // Re-bind on every ClientRouter swap (astro:page-load also fires on the
+  // initial load) — module scripts otherwise run only once.
+  document.addEventListener('astro:page-load', initUrnCopyButtons)
 </script>

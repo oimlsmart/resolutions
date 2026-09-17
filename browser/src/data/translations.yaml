@@ -234,6 +234,9 @@ translations:
   meetings.country:
     en: Country
     fr: Pays
+  meetings.decades:
+    en: Decades
+    fr: Décennies
   meetings.empty:
     en: No meetings match the current filters.
     fr: Aucune réunion ne correspond aux filtres.
@@ -264,6 +267,9 @@ translations:
   meetings.title:
     en: Meetings
     fr: Réunions
+  meetings.undated:
+    en: Undated
+    fr: Sans date
   meetings.virtual:
     en: Virtual Meeting
     fr: Réunion en ligne
@@ -387,6 +393,9 @@ translations:
   search.placeholder:
     en: Search resolutions…
     fr: Rechercher des résolutions…
+  search.previousYears:
+    en: Previous years
+    fr: Années précédentes
   search.results:
     en: '{count} resolutions'
     fr: '{count} résolutions'

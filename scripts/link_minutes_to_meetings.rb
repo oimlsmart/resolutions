@@ -17,6 +17,9 @@ require "yaml"
 require "fileutils"
 require "set"
 
+$LOAD_PATH.unshift(File.expand_path("../lib", __dir__))
+require "oiml/resolutions_data"
+
 ROOT = File.expand_path("..", __dir__)
 MEETINGS_DIR = File.join(ROOT, "meetings")
 MINUTES_DIR = File.join(ROOT, "minutes")
@@ -96,7 +99,7 @@ minutes_by_ordinal.each do |ordinal, refs|
     {
       "language_code" => lang,
       "script" => "Latn",
-      "title" => "#{ordinal}th CIML Meeting (skeleton from minutes)",
+      "title" => "#{ordinal}#{Oiml::ResolutionsData::Ordinal.suffix(ordinal)} CIML Meeting (skeleton from minutes)",
       "general_area" => "",
     }
   end
