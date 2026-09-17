@@ -16,7 +16,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-01
   agenda_item: '1'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -26,7 +26,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -42,7 +42,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-02
   agenda_item: '2'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -52,7 +52,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -61,7 +61,7 @@ decisions:
       value: Prend note du rapport présenté par son Président,
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -73,7 +73,7 @@ decisions:
         dans son rapport.
   - type: supports
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -85,7 +85,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-03
   agenda_item: '3'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -95,7 +95,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -104,7 +104,7 @@ decisions:
       value: Prend note du rapport présenté par le Directeur du BIML, et
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -119,7 +119,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-04
   agenda_item: '4'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -129,7 +129,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -141,7 +141,7 @@ decisions:
         du CIML,
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -154,7 +154,7 @@ decisions:
         Encourage le BIML à continuer de soutenir les activités de formation technique à l'avenir, dans la mesure où les dispositions financières le permettent, et
   - type: requests
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -170,7 +170,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-05
   agenda_item: '5'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -180,14 +180,14 @@ decisions:
   actions:
   - type: welcomes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
       value: Welcomes Kyrgyzstan as a returning Corresponding Member.
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -199,7 +199,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-06
   agenda_item: '6'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -209,7 +209,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -217,7 +217,7 @@ decisions:
         from the BIML Director,
   - type: considering
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -225,7 +225,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -234,7 +234,7 @@ decisions:
       value: Approuve les comptes de l'année 2018, et
   - type: instructs
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -242,7 +242,7 @@ decisions:
         2020.
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -251,7 +251,7 @@ decisions:
         Compte tenu de l'approbation des comptes de l'année 2018 par l'auditeur externe,
   - type: charges
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -264,7 +264,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-07
   agenda_item: '7'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -274,7 +274,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -283,7 +283,7 @@ decisions:
   actions:
   - type: instructs
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -298,7 +298,7 @@ decisions:
         on these to the 55th CIML Meeting in 2020.
   - type: charges
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -320,7 +320,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-08
   agenda_item: '8'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -330,7 +330,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -348,7 +348,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-09
   agenda_item: '9'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -358,7 +358,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -371,7 +371,7 @@ decisions:
         Encourage le BIML à poursuivre ses efforts pour recouvrer les arriérés impayés et à envisager de nouveaux mécanismes pour encourager les Etats Membres et les Membres Correspondants à effectuer un règlement rapide,
   - type: requests
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -393,7 +393,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-10
   agenda_item: '10'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -403,7 +403,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -419,7 +419,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-11
   agenda_item: '11'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -429,7 +429,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -439,7 +439,7 @@ decisions:
         de métrologie légale (RLMO) présenté par son Président,
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -461,7 +461,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-12
   agenda_item: '12'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -471,7 +471,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -480,7 +480,7 @@ decisions:
       value: Prend note du rapport présenté par le BIPM,
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -491,7 +491,7 @@ decisions:
         au Comité, et
   - type: supports
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -500,7 +500,7 @@ decisions:
         (Agenda item 7.4)
   - type: endorses
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -516,7 +516,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-13
   agenda_item: '13'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -526,7 +526,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -537,7 +537,7 @@ decisions:
         Consultatif des Unités (CCU) et pour son rapport écrit,
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -548,7 +548,7 @@ decisions:
         sur l'évolution de la situation au sein du CCU, et
   - type: requests
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -568,7 +568,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-14
   agenda_item: '14'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -578,7 +578,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -599,7 +599,7 @@ decisions:
         - ONUDI.
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -613,7 +613,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-15
   agenda_item: '15'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -623,7 +623,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -633,7 +633,7 @@ decisions:
         CEEMS,
   - type: welcomes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -643,7 +643,7 @@ decisions:
         Emphasises the importance of OIML D1 Considerations for a Law on Metrology and requests the appropriate Project Group to do all in its power to produce a Final Draft Document which can be adopted at the 55th CIML Meeting in 2020.
   - type: approves
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -658,7 +658,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-16
   agenda_item: '16'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -668,7 +668,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -680,7 +680,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -691,7 +691,7 @@ decisions:
         Consultatif pour les CEEMS et pour son leadership en tant que Président,
   - type: appoints
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -707,7 +707,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-17
   agenda_item: '17'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -719,7 +719,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -731,7 +731,7 @@ decisions:
   actions:
   - type: requests
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -751,7 +751,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-18
   agenda_item: '18'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -762,7 +762,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -781,7 +781,7 @@ decisions:
         Considère que le développement d'un concept d'apprentissage en ligne au profit de la communauté de la métrologie légale, entre autres, devrait être une activité prioritaire pour l'Organisation,
   - type: requests
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -802,7 +802,7 @@ decisions:
         5) l'examen des mécanismes et des sources de financement appropriés,
   - type: instructs
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -810,7 +810,7 @@ decisions:
         when preparing the budget for the 2021-2024 financial period.
   - type: charges
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -823,7 +823,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-19
   agenda_item: '19'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -835,7 +835,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -851,7 +851,7 @@ decisions:
         de Certification de l'OIML (OIML CS),
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -862,7 +862,7 @@ decisions:
         Management depuis le lancement de l'OIML-CS,
   - type: requests
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -878,7 +878,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-20
   agenda_item: '20'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -890,7 +890,7 @@ decisions:
   considerations:
   - type: considering
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -901,7 +901,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -917,7 +917,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-21
   agenda_item: '21'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -929,7 +929,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -952,7 +952,7 @@ decisions:
         - Révision de la R 117 Ensembles de mesurage dynamique de liquides autres que l'eau,
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -968,7 +968,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-22
   agenda_item: '22'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -980,7 +980,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1001,7 +1001,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-23
   agenda_item: '23'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1012,7 +1012,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1032,7 +1032,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-24
   agenda_item: '24'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1044,7 +1044,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1064,7 +1064,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-25
   agenda_item: '25'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1075,7 +1075,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1096,7 +1096,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-26
   agenda_item: '26'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1107,7 +1107,7 @@ decisions:
   considerations:
   - type: considering
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1119,7 +1119,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1135,7 +1135,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-27
   agenda_item: '27'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1147,7 +1147,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1168,7 +1168,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-28
   agenda_item: '28'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1180,7 +1180,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1198,7 +1198,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1228,7 +1228,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-29
   agenda_item: '29'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1240,7 +1240,7 @@ decisions:
   actions:
   - type: supports
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1251,7 +1251,7 @@ decisions:
         approval at the 55th CIML Meeting in 2020.
   - type: endorses
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -1262,7 +1262,7 @@ decisions:
         prioritaires présentées lors de la Réunion, et
   - type: requests
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -1276,7 +1276,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-30
   agenda_item: '30'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1287,7 +1287,7 @@ decisions:
   actions:
   - type: supports
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1298,7 +1298,7 @@ decisions:
         practitioners,
   - type: requests
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1316,7 +1316,7 @@ decisions:
         de l'OIML.
   - type: endorses
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -1332,7 +1332,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-31
   agenda_item: '31'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1342,7 +1342,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1352,7 +1352,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1366,7 +1366,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-32
   agenda_item: '32'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1376,7 +1376,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1390,7 +1390,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-33
   agenda_item: '33'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1401,7 +1401,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1427,7 +1427,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-34
   agenda_item: '34'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1438,7 +1438,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1447,7 +1447,7 @@ decisions:
         launch of the OIML-CS.
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -1459,7 +1459,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-35
   agenda_item: '35'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1471,7 +1471,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1489,7 +1489,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-36
   agenda_item: '36'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1501,7 +1501,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1512,7 +1512,7 @@ decisions:
         du CIML et de la 16eme Conférence Internationale en 2020,
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1523,7 +1523,7 @@ decisions:
         la 55ème Réunion du CIML et la 16ème Conférence Internationale en 2020, et
   - type: instructs
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1531,7 +1531,7 @@ decisions:
         55th CIML Meeting and 16th International Conference in 2020.
   - type: charges
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra
@@ -1544,7 +1544,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2019-37
   agenda_item: '37'
   dates:
-  - date: '2019-10-22'
+  - date: '2019-10-21'
     type: decided
   title:
   - spelling: eng
@@ -1556,7 +1556,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1567,7 +1567,7 @@ decisions:
         du CIML en 2021,
   - type: thanks
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1578,7 +1578,7 @@ decisions:
         56ème Réunion du CIML en 2021, et
   - type: instructs
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: eng
@@ -1588,7 +1588,7 @@ decisions:
         **
   - type: charges
     date_effective:
-      date: '2019-10-22'
+      date: '2019-10-21'
       type: effective
     message:
     - spelling: fra

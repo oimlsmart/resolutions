@@ -16,7 +16,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-01
   agenda_item: '1'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -26,7 +26,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -40,7 +40,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-02
   agenda_item: '2'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -50,7 +50,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -64,7 +64,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-03
   agenda_item: '3'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -74,7 +74,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -85,7 +85,7 @@ decisions:
         pour la désignation du Directeur et des Adjoints au Directeur du BIML,
   - type: considering
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -96,7 +96,7 @@ decisions:
         2018,
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -106,7 +106,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -114,7 +114,7 @@ decisions:
         aim of appointing a new Director at its 53rd Meeting in 2018, and
   - type: requests
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -127,7 +127,7 @@ decisions:
         Comité de Sélection en consultation avec le Conseil de la Présidence.'
   - type: decides
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: fra
@@ -140,7 +140,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-04
   agenda_item: '4'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -150,7 +150,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -165,7 +165,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-05
   agenda_item: '5'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -177,7 +177,7 @@ decisions:
   actions:
   - type: welcomes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -196,7 +196,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-06
   agenda_item: '6'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -208,7 +208,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -219,7 +219,7 @@ decisions:
         Compte tenu de l'approbation des comptes de l'année 2016 par l'auditeur externe,
   - type: considering
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -227,7 +227,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -236,14 +236,14 @@ decisions:
       value: Approuve les comptes de l'année 2016, et
   - type: instructs
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
       value: Instructs its President to present them to the 16th OIML Conference.
   - type: charges
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: fra
@@ -256,7 +256,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-07
   agenda_item: '7'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -266,7 +266,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -282,7 +282,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-08
   agenda_item: '8'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -292,7 +292,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -305,7 +305,7 @@ decisions:
         Encourage le BIML à poursuivre ses efforts pour recouvrer les arriérés de ses États Membres et de ses Membres Correspondants,
   - type: requests
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -323,7 +323,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-09
   agenda_item: '9'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -333,7 +333,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -348,7 +348,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-10
   agenda_item: '10'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -358,7 +358,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -367,7 +367,7 @@ decisions:
       value: Prend note des rapports établis par les organisations en liaison, et
   - type: thanks
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -381,7 +381,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-11
   agenda_item: '11'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -391,7 +391,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -408,7 +408,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -419,7 +419,7 @@ decisions:
         Confirmme les résultats de la réunion du Groupe Consultatif du 9 octobre 2017 présentée par M. Peter Mason.
   - type: confirms
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -432,7 +432,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-12
   agenda_item: '12'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -442,7 +442,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -458,7 +458,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-13
   agenda_item: '13'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -468,7 +468,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -484,7 +484,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-14
   agenda_item: '14'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -494,7 +494,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -504,7 +504,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -522,7 +522,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-15
   agenda_item: '15'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -532,7 +532,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -549,7 +549,7 @@ decisions:
         Nomme Mr. Peter Mason Vice-Président du Groupe Consultatif pour un mandat de trois ans.
   - type: having_regard_to
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -563,7 +563,7 @@ decisions:
   actions:
   - type: appoints
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -571,7 +571,7 @@ decisions:
         for a three-year term.
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: fra
@@ -583,7 +583,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-16
   agenda_item: '16'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -593,7 +593,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -603,7 +603,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -614,7 +614,7 @@ decisions:
         du Groupe de Projet,
   - type: approves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -625,7 +625,7 @@ decisions:
         les travaux techniques de l'OIML, et
   - type: requests
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -647,7 +647,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-17
   agenda_item: '17'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -657,7 +657,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -678,7 +678,7 @@ decisions:
   actions:
   - type: confirms
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -687,7 +687,7 @@ decisions:
         a particular Basic Publication,
   - type: requests
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -719,7 +719,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-18
   agenda_item: '18'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -729,7 +729,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -738,7 +738,7 @@ decisions:
       value: Rappelant sa Résolution no. 2016/17,
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -750,7 +750,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -766,7 +766,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-19
   agenda_item: '19'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -776,7 +776,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -785,7 +785,7 @@ decisions:
       value: Rappelant sa Résolution no. 2016/17,
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -797,7 +797,7 @@ decisions:
   actions:
   - type: instructs
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -809,7 +809,7 @@ decisions:
         Encourages all participants in the existing Basic and MAA systems to fulfil their obligations until 31 December 2017.
   - type: decides
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -832,7 +832,7 @@ decisions:
         de Type OIML au 31 décembre 2017,
   - type: charges
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: fra
@@ -849,7 +849,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-20
   agenda_item: '20'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -859,7 +859,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -868,7 +868,7 @@ decisions:
       value: Rappelant sa Résolution no. 2017/19,
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -880,7 +880,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -923,7 +923,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-21
   agenda_item: '21'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -933,7 +933,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -942,7 +942,7 @@ decisions:
       value: Rappelant sa Résolution no. 2017/19,
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -954,7 +954,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -967,7 +967,7 @@ decisions:
         Dissout le Comité de Gestion provisoire (prMC) avec effet au 31 décembre 2017,
   - type: decides
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -977,7 +977,7 @@ decisions:
       value: Décide de créer un Comité de Gestion (CM) à compter de janvier 2018,
   - type: requests
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1002,7 +1002,7 @@ decisions:
         4.2.2 du Document Opérationnel OD-01 de l'OIML,
   - type: instructs
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1014,7 +1014,7 @@ decisions:
         to participate in the MC (as observers).
   - type: charges
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: fra
@@ -1030,7 +1030,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-22
   agenda_item: '22'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1040,7 +1040,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1055,7 +1055,7 @@ decisions:
       value: Prenant note des commentaires de ses membres,
   - type: having_regard_to
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1068,7 +1068,7 @@ decisions:
   actions:
   - type: appoints
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1076,7 +1076,7 @@ decisions:
         MC Deputy Chairperson.
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: fra
@@ -1088,7 +1088,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-23
   agenda_item: '23'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1099,7 +1099,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1116,7 +1116,7 @@ decisions:
         Nomme Mme. Corinne Lagauterie, Mr. Thomas Madzivhe, Mr. Sergey Golubev and Dr. Yukinobu Miki comme membres de la Chambre des Recours (BoA) et Dr. Roman Schwartz comme Président du BoA.
   - type: having_regard_to
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1127,7 +1127,7 @@ decisions:
   actions:
   - type: appoints
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1136,7 +1136,7 @@ decisions:
         Schwartz as BoA Chairperson.
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: fra
@@ -1148,7 +1148,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-24
   agenda_item: '24'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1160,7 +1160,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1180,7 +1180,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-25
   agenda_item: '25'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1192,7 +1192,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1214,7 +1214,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-26
   agenda_item: '26'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1226,7 +1226,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1239,7 +1239,7 @@ decisions:
   actions:
   - type: requests
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1262,7 +1262,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-27
   agenda_item: '27'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1274,7 +1274,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1294,7 +1294,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-28
   agenda_item: '28'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1304,7 +1304,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1326,7 +1326,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-29
   agenda_item: '29'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1336,7 +1336,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1350,7 +1350,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1364,7 +1364,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-30
   agenda_item: '30'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1374,7 +1374,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1388,7 +1388,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1402,7 +1402,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-31
   agenda_item: '31'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1412,7 +1412,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1423,7 +1423,7 @@ decisions:
         et des Adjoints au Directeur du BIML,
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1441,14 +1441,14 @@ decisions:
   actions:
   - type: appoints
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
       value: Appoints Mr. Paul Dixon as BIML Assistant Director.
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: fra
@@ -1460,7 +1460,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-32
   agenda_item: '32'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1471,7 +1471,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1485,7 +1485,7 @@ decisions:
         BIML,
   - type: considering
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1500,7 +1500,7 @@ decisions:
       value: Considérant la proposition de son Président et de ses Vice-Présidents,
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1514,7 +1514,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1522,7 +1522,7 @@ decisions:
         B 13:2004.
   - type: decides
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: fra
@@ -1535,7 +1535,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-33
   agenda_item: '33'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1547,7 +1547,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1583,7 +1583,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-34
   agenda_item: '34'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1594,7 +1594,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1607,7 +1607,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1625,7 +1625,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-35
   agenda_item: '35'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1636,7 +1636,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1648,7 +1648,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1668,7 +1668,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2017-36
   agenda_item: '36'
   dates:
-  - date: '2017-10-10'
+  - date: '2017-10-09'
     type: decided
   title:
   - spelling: eng
@@ -1680,7 +1680,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1691,7 +1691,7 @@ decisions:
         de la 53ème Réunion du CIML à Hambourg en Allemagne en 2018, et
   - type: instructs
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: eng
@@ -1699,7 +1699,7 @@ decisions:
         53rd CIML Meeting in 2018.
   - type: charges
     date_effective:
-      date: '2017-10-10'
+      date: '2017-10-09'
       type: effective
     message:
     - spelling: fra

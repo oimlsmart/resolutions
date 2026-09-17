@@ -16,7 +16,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:15.01
   agenda_item: '1'
   dates:
-  - date: '2016-10-19'
+  - date: '2016-10-17'
     type: decided
   title:
   - spelling: eng
@@ -31,7 +31,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -46,7 +46,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:15.02
   agenda_item: '2'
   dates:
-  - date: '2016-10-19'
+  - date: '2016-10-17'
     type: decided
   title:
   - spelling: eng
@@ -61,7 +61,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -71,7 +71,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -81,7 +81,7 @@ decisions:
         b) During the financial period 2017-2020,the increase in the reserve funds mentioned in a) above should be made available to provide time-limited support to secretariats and conveners in developing their capability,in particular through training,to deliver the technical work of the OIML.
   - type: instructs
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -89,7 +89,7 @@ decisions:
         for the years 2017,2018,2019 and 2020 which reflect this expenditure.
   - type: decides
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: fra
@@ -99,7 +99,7 @@ decisions:
         b) Durant l'exercice financier 2017-2020, l'augmentation des fonds de réserve mentionnés en a) ci-dessus devrait être utilisée pour apporter aux secrétariats et aux responsables des groupes un soutien limité dans le temps visant à développer leurs capacités à réaliser le travail technique de l'OIML, notamment par des actions de formation.
   - type: charges
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: fra
@@ -112,7 +112,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:15.03
   agenda_item: '3'
   dates:
-  - date: '2016-10-19'
+  - date: '2016-10-17'
     type: decided
   title:
   - spelling: eng
@@ -127,7 +127,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -139,7 +139,7 @@ decisions:
   actions:
   - type: requests
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -158,7 +158,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:15.04
   agenda_item: '4'
   dates:
-  - date: '2016-10-19'
+  - date: '2016-10-17'
     type: decided
   title:
   - spelling: eng
@@ -173,7 +173,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -182,7 +182,7 @@ decisions:
       value: Vu l'avant-dernier paragraphe de l'Article XXV de la Convention,
   - type: noting
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -193,7 +193,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -202,7 +202,7 @@ decisions:
         The audited accounts for 2012, 2013, 2014 and 2015 are hereby approved. The CIML President and the BIML Director are finally discharged for the financial management during these years.
   - type: decides
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: fra
@@ -216,7 +216,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:15.05
   agenda_item: '5'
   dates:
-  - date: '2016-10-19'
+  - date: '2016-10-17'
     type: decided
   title:
   - spelling: eng
@@ -231,7 +231,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -241,7 +241,7 @@ decisions:
         VIII de la Convention,
   - type: noting
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -253,7 +253,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -262,7 +262,7 @@ decisions:
         The OIML publications listed in the report in Annex D are hereby sanctioned. Member States are reminded of their obligation to implement OIML Recommendations as far as possible.
   - type: decides
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: fra
@@ -277,7 +277,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:15.06
   agenda_item: '6'
   dates:
-  - date: '2016-10-19'
+  - date: '2016-10-17'
     type: decided
   title:
   - spelling: eng
@@ -292,7 +292,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -303,7 +303,7 @@ decisions:
         second paragraphe de l'Article XXVIII de la Convention,
   - type: noting
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -313,7 +313,7 @@ decisions:
         m e}} $ Réunion du CIML,
   - type: considering
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -329,7 +329,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -341,7 +341,7 @@ decisions:
         d) For the 2017-2020 financial period, newly admitted or readmitted Member States shall not pay an entry fee.
   - type: decides
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: fra
@@ -358,7 +358,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:15.07
   agenda_item: '7'
   dates:
-  - date: '2016-10-19'
+  - date: '2016-10-17'
     type: decided
   title:
   - spelling: eng
@@ -375,7 +375,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -384,7 +384,7 @@ decisions:
       value: Vu l'Article XIII de la Convention,
   - type: noting
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -395,7 +395,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -406,7 +406,7 @@ decisions:
         c) If it is not possible, within a reasonable period of time to be decided by the Committee, to obtain confirmation from the Member State as to the status of its representative in the Committee, this person shall no longer be taken into account when establishing the quorum for decisions of the Committee.
   - type: decides
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: fra
@@ -422,7 +422,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:15.08
   agenda_item: '8'
   dates:
-  - date: '2016-10-19'
+  - date: '2016-10-17'
     type: decided
   title:
   - spelling: eng
@@ -437,7 +437,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -446,7 +446,7 @@ decisions:
       value: Vu l'Article X de la Convention,
   - type: considering
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -458,7 +458,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -477,7 +477,7 @@ decisions:
         2013
   - type: approves
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: eng
@@ -530,7 +530,7 @@ decisions:
         - New R Standard blackbody radiator for the temperature range from $ - 5 0 \, ^ {\circ} C $ to $ 2 5 0 0 \, ^ {\circ} C $
   - type: decides
     date_effective:
-      date: '2016-10-19'
+      date: '2016-10-17'
       type: effective
     message:
     - spelling: fra

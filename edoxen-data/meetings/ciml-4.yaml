@@ -964,3 +964,6 @@ minutes:
 title:
 - spelling: fra
   value: 4th CIML Meeting (skeleton from minutes)
+scheduled_date_range:
+  start: '1961-10-14'
+  end: '1961-10-16'

@@ -16,7 +16,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.01
   agenda_item: '1'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -31,7 +31,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -48,7 +48,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.02
   agenda_item: '2'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -63,7 +63,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -83,7 +83,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.03
   agenda_item: '3'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -98,7 +98,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -119,7 +119,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.04
   agenda_item: '4'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -134,7 +134,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -152,7 +152,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.4a
   agenda_item: 4a
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -169,7 +169,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -188,7 +188,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.4b
   agenda_item: 4b
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -205,7 +205,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -228,7 +228,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.05
   agenda_item: '5'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -243,7 +243,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -261,7 +261,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.06
   agenda_item: '6'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -276,7 +276,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -294,7 +294,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.6a
   agenda_item: 6a
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -311,7 +311,7 @@ decisions:
   actions:
   - type: instructs
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -319,7 +319,7 @@ decisions:
         Publications.
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: fra
@@ -336,7 +336,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.07
   agenda_item: '7'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -351,7 +351,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -365,7 +365,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.08
   agenda_item: '8'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -380,7 +380,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -398,7 +398,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.09
   agenda_item: '9'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -415,7 +415,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -435,7 +435,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.10
   agenda_item: '10'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -452,7 +452,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -472,7 +472,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.11
   agenda_item: '11'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -489,7 +489,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -507,7 +507,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.12
   agenda_item: '12'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -524,7 +524,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -544,7 +544,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.13
   agenda_item: '13'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -559,7 +559,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -581,7 +581,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -595,7 +595,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.14
   agenda_item: '14'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -612,7 +612,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -628,7 +628,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.15
   agenda_item: '15'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -645,7 +645,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -661,7 +661,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.16
   agenda_item: '16'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -678,7 +678,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -694,7 +694,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.17
   agenda_item: '17'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -711,7 +711,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -733,7 +733,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.18
   agenda_item: '18'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -750,7 +750,7 @@ decisions:
   considerations:
   - type: considering
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -768,7 +768,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng
@@ -786,7 +786,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:13.19
   agenda_item: '19'
   dates:
-  - date: '2008-10-29'
+  - date: '2008-10-28'
     type: decided
   title:
   - spelling: eng
@@ -803,7 +803,7 @@ decisions:
   actions:
   - type: instructs
     date_effective:
-      date: '2008-10-29'
+      date: '2008-10-28'
       type: effective
     message:
     - spelling: eng

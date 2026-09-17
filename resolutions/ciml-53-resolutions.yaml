@@ -16,7 +16,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-01
   agenda_item: '1'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -29,14 +29,14 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
       value: "(agenda item 1)"
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -48,7 +48,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-02
   agenda_item: '2'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -61,7 +61,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -75,7 +75,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-03
   agenda_item: '3'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -85,7 +85,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -103,7 +103,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-04
   agenda_item: '4'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -113,7 +113,7 @@ decisions:
   actions:
   - type: welcomes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -127,7 +127,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-05
   agenda_item: '5'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -137,14 +137,14 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
       value: Noting the accounts for 2017 and the BIML Director's comments,
   - type: considering
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -152,7 +152,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -161,7 +161,7 @@ decisions:
       value: Approuve les comptes de l'année 2017, et
   - type: instructs
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -169,7 +169,7 @@ decisions:
         2020.
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -178,7 +178,7 @@ decisions:
         Compte tenu de l'approbation des comptes de l'année 2017 par l'auditeur externe,
   - type: charges
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -191,7 +191,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-06
   agenda_item: '6'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -201,7 +201,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -213,7 +213,7 @@ decisions:
         Désigne le Cabinet "LG Audits & Conseils" comme expert-comptable indépendant de l'Organisation pour une période de quatre ans à compter du 1er janvier 2019.
   - type: following_recommendation
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -221,7 +221,7 @@ decisions:
   actions:
   - type: appoints
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -229,7 +229,7 @@ decisions:
         of the Organization for a four-year term from 1 January 2019.
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -241,7 +241,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-07
   agenda_item: '7'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -251,7 +251,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -264,7 +264,7 @@ decisions:
         Encourage le BIML à poursuivre ses efforts pour recouvrer les arriérés impayés des États Membres et des Membres Correspondants, et
   - type: requests
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -280,7 +280,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-08
   agenda_item: '8'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -290,7 +290,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -305,7 +305,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-09
   agenda_item: '9'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -315,7 +315,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -330,7 +330,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-10
   agenda_item: '10'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -340,7 +340,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -356,7 +356,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-11
   agenda_item: '11'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -366,7 +366,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -378,7 +378,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -389,7 +389,7 @@ decisions:
         du Dr. Anna Chunovkina (Fédération de Russie) pour le WG2, et
   - type: requests
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -404,7 +404,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-12
   agenda_item: '12'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -414,7 +414,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -423,7 +423,7 @@ decisions:
       value: Prend note des rapports effectués par les organisations en liaison,
   - type: thanks
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -437,7 +437,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-13
   agenda_item: '13'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -447,7 +447,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -457,7 +457,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -468,7 +468,7 @@ decisions:
         les synergies et les possibilités de coopération,
   - type: requests
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -490,7 +490,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-14
   agenda_item: '14'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -500,7 +500,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -515,7 +515,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-15
   agenda_item: '15'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -525,7 +525,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -538,7 +538,7 @@ decisions:
         Reconnaissant les progrès notables accomplis dans les efforts visant à renforcer les capacités des institutions de métrologie légale et de leur personnel au sein de la communauté CEEMS.
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -560,7 +560,7 @@ decisions:
   actions:
   - type: instructs
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -588,7 +588,7 @@ decisions:
         to legal metrology,
   - type: requests
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -625,7 +625,7 @@ decisions:
         Incite les États Membres et les Membres Correspondants à étudier les possibilités de détacher du personnel auprès du Bureau afin de développer les compétences et l'expérience des personnes concernées.
   - type: charges
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -658,7 +658,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-16
   agenda_item: '16'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -668,7 +668,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -684,7 +684,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-17
   agenda_item: '17'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -694,7 +694,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -705,7 +705,7 @@ decisions:
         de Certification de l'OIML,
   - type: thanks
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -721,7 +721,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-18
   agenda_item: '18'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -731,7 +731,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -741,7 +741,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -757,7 +757,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-19
   agenda_item: '19'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -770,7 +770,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -779,7 +779,7 @@ decisions:
       value: Prenant note de la recommandation du Comité de Management de l'OIML-CS,
   - type: having_regard_to
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -797,7 +797,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -855,7 +855,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-20
   agenda_item: '20'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -868,7 +868,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -878,7 +878,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -910,7 +910,7 @@ decisions:
         en métrologie légale) passera au MC de l'OIML-CS,
   - type: instructs
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -925,7 +925,7 @@ decisions:
         contacts.
   - type: charges
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -945,7 +945,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-21
   agenda_item: '21'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -957,7 +957,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -971,7 +971,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -992,7 +992,7 @@ decisions:
         rapports d'essais séparés, et
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1012,7 +1012,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-22
   agenda_item: '22'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1024,7 +1024,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1044,7 +1044,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-23
   agenda_item: '23'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1056,7 +1056,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1076,7 +1076,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-24
   agenda_item: '24'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1087,7 +1087,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1099,7 +1099,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1120,7 +1120,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-25
   agenda_item: '25'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1132,7 +1132,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1152,7 +1152,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-26
   agenda_item: '26'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1164,7 +1164,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1190,7 +1190,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-27
   agenda_item: '27'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1202,7 +1202,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1214,7 +1214,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1235,7 +1235,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-28
   agenda_item: '28'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1246,7 +1246,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1255,7 +1255,7 @@ decisions:
       value: Rappelant sa Résolution no. 2017/26,
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1267,7 +1267,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1288,7 +1288,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-29
   agenda_item: '29'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1300,7 +1300,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1326,7 +1326,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-30
   agenda_item: '30'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1338,7 +1338,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1364,7 +1364,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-31
   agenda_item: '31'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1376,7 +1376,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1399,7 +1399,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-32
   agenda_item: '32'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1410,7 +1410,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1425,14 +1425,14 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
       value: "(agenda item 12.3)"
   - type: thanks
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -1445,7 +1445,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-33
   agenda_item: '33'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1456,7 +1456,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1471,14 +1471,14 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
       value: "(agenda item 12.4)"
   - type: thanks
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -1491,7 +1491,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-34
   agenda_item: '34'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1502,7 +1502,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1516,14 +1516,14 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
       value: "(agenda item 13)"
   - type: thanks
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -1536,7 +1536,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-35
   agenda_item: '35'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1547,7 +1547,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1558,7 +1558,7 @@ decisions:
         du Directeur et des Adjoints au Directeur du BIML,
   - type: considering
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1584,7 +1584,7 @@ decisions:
   actions:
   - type: appoints
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1593,7 +1593,7 @@ decisions:
         with effect from 1 January 2019.
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -1605,7 +1605,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-36
   agenda_item: '36'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1615,7 +1615,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1630,7 +1630,7 @@ decisions:
       value: Vu sa Résolution 2017/32,
   - type: considering
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1648,7 +1648,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1662,7 +1662,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-37
   agenda_item: '37'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1672,7 +1672,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1686,7 +1686,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-38
   agenda_item: '38'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1696,7 +1696,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1710,7 +1710,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-39
   agenda_item: '39'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1725,7 +1725,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1743,7 +1743,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-40
   agenda_item: '40'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1755,7 +1755,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1766,7 +1766,7 @@ decisions:
         du CIML en 2019,
   - type: thanks
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1777,7 +1777,7 @@ decisions:
         Réunion du CIML en 2019, et
   - type: instructs
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1785,7 +1785,7 @@ decisions:
         54th CIML Meeting in 2019.
   - type: charges
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra
@@ -1798,7 +1798,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2018-41
   agenda_item: '41'
   dates:
-  - date: '2018-10-09'
+  - date: '2018-10-08'
     type: decided
   title:
   - spelling: eng
@@ -1810,7 +1810,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1821,7 +1821,7 @@ decisions:
         du CIML et de la 16ème Conférence Internationale en 2020,
   - type: thanks
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1832,7 +1832,7 @@ decisions:
         la 55ème Réunion du CIML et la 16ème Conférence Internationale en 2020, et
   - type: instructs
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: eng
@@ -1841,7 +1841,7 @@ decisions:
         ***
   - type: charges
     date_effective:
-      date: '2018-10-09'
+      date: '2018-10-08'
       type: effective
     message:
     - spelling: fra

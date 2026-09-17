@@ -66,3 +66,6 @@ minutes:
 title:
 - spelling: fra
   value: 9th CIML Meeting (skeleton from minutes)
+scheduled_date_range:
+  start: '1968-10-21'
+  end: '1968-10-26'
