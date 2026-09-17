@@ -25,13 +25,21 @@ function firstActionTypeOf(d: any): string {
   const full = payloads.decisionByUrn[d.urn]
   return full?.actions?.[0]?.type ?? ''
 }
+function bodyTypeOf(d: any): string {
+  const m = String(d.urn ?? '').match(/^urn:oiml:doc:([a-z]+):/)
+  return m?.[1] ?? ''
+}
+function bodyLabel(b: string): string {
+  return b === 'ciml' ? t(lang, 'meetings.bodyCiml') : b === 'conf' ? t(lang, 'meetings.bodyConf') : b
+}
 
 const yearSet = new Set<string>()
 const bodySet = new Set<string>()
 for (const d of items) {
   const y = d.dates?.[0]?.date?.slice(0, 4)
   if (y) yearSet.add(y)
-  if (d.bodyType) bodySet.add(d.bodyType)
+  const b = bodyTypeOf(d)
+  if (b) bodySet.add(b)
 }
 const years = [...yearSet].sort((a, b) => Number(b) - Number(a))
 const bodies = [...bodySet].sort()
@@ -73,7 +81,7 @@ const bodies = [...bodySet].sort()
           <div class="flex flex-wrap gap-1">
             <button class="std-chip is-active px-2.5 py-1 text-xs font-medium rounded-full border border-rule bg-paper text-ink-muted cursor-pointer transition-colors hover:border-accent hover:text-accent" data-body="">{t(lang, 'common.all')}</button>
             {bodies.map((b) => (
-              <button class="std-chip px-2.5 py-1 text-xs font-medium rounded-full border border-rule bg-paper text-ink-muted cursor-pointer transition-colors hover:border-accent hover:text-accent" data-body={b}>{b}</button>
+              <button class="std-chip px-2.5 py-1 text-xs font-medium rounded-full border border-rule bg-paper text-ink-muted cursor-pointer transition-colors hover:border-accent hover:text-accent" data-body={b}>{bodyLabel(b)}</button>
             ))}
           </div>
         </div>
@@ -89,7 +97,7 @@ const bodies = [...bodySet].sort()
         const actionType = firstActionTypeOf(d)
         const snippet = snippetOf(d)
         const year = d.dates?.[0]?.date?.slice(0, 4) ?? ''
-        const bodyType = d.bodyType ?? ''
+        const bodyType = bodyTypeOf(d)
         return (
           <a
             href={`${prefix}decisions/${d.urn}`}
@@ -120,7 +128,7 @@ const bodies = [...bodySet].sort()
               <div class="flex items-center justify-between gap-2 mt-auto pt-2.5 border-t border-dashed border-rule">
                 <div class="flex flex-wrap gap-1">
                   {bodyType && (
-                    <span class="inline-flex items-center px-2 py-0.5 text-[0.625rem] font-bold uppercase tracking-wider rounded-full bg-accent-soft text-accent border border-accent-soft">{bodyType}</span>
+                    <span class="inline-flex items-center px-2 py-0.5 text-[0.625rem] font-bold uppercase tracking-wider rounded-full bg-accent-soft text-accent border border-accent-soft">{bodyLabel(bodyType)}</span>
                   )}
                   {d.dates?.[0]?.date && (
                     <span class="inline-flex items-center px-2 py-0.5 text-[0.625rem] font-bold uppercase tracking-wider rounded-full bg-paper-raised dark:bg-paper-deep text-ink-soft border border-rule font-mono">{d.dates[0].date}</span>
@@ -141,7 +149,7 @@ const bodies = [...bodySet].sort()
 </OimlLayout>
 
 <script>
-  (function () {
+  function initDecisionsPage() {
     const root = document.querySelector('[data-decisions-search]')?.closest('.max-w-7xl')
     if (!root) return
     const input = root.querySelector('[data-decisions-search]') as HTMLInputElement | null
@@ -185,5 +193,10 @@ const bodies = [...bodySet].sort()
       if (count) count.textContent = `${shown} / ${total}`
       if (empty) empty.classList.toggle('hidden', shown === 0)
     }
-  })()
+  }
+
+  // Re-initialize on every ClientRouter swap (astro:page-load also fires
+  // on the initial load) — module scripts otherwise run only once, which
+  // left the page dead on back/forward navigation.
+  document.addEventListener('astro:page-load', initDecisionsPage)
 </script>

@@ -32,13 +32,18 @@ function firstActionTypeOf(d: any): string {
   const full = payloads.decisionByUrn[d.urn]
   return full?.actions?.[0]?.type ?? ''
 }
+function bodyTypeOf(d: any): string {
+  const m = String(d.urn ?? '').match(/^urn:oiml:doc:([a-z]+):/)
+  return m?.[1] ?? ''
+}
 
 const yearSet = new Set<string>()
 const bodySet = new Set<string>()
 for (const d of items) {
   const y = d.dates?.[0]?.date?.slice(0, 4)
   if (y) yearSet.add(y)
-  if (d.bodyType) bodySet.add(d.bodyType)
+  const b = bodyTypeOf(d)
+  if (b) bodySet.add(b)
 }
 const years = [...yearSet].sort((a, b) => Number(b) - Number(a))
 const bodies = [...bodySet].sort()
@@ -102,6 +107,12 @@ const bodies = [...bodySet].sort()
             {years.slice(0, 12).map((y) => (
               <button class="std-chip px-2.5 py-1 text-xs font-medium rounded-full border border-rule bg-paper text-ink-muted cursor-pointer transition-colors hover:border-accent hover:text-accent" data-year={y}>{y}</button>
             ))}
+            {years.slice(12).map((y) => (
+              <button class="std-chip hidden px-2.5 py-1 text-xs font-medium rounded-full border border-rule bg-paper text-ink-muted cursor-pointer transition-colors hover:border-accent hover:text-accent" data-year={y} data-year-extra>{y}</button>
+            ))}
+            {years.length > 12 && (
+              <button class="px-2.5 py-1 text-xs font-medium text-accent hover:underline cursor-pointer" data-years-more>{t(lang, 'search.previousYears')}</button>
+            )}
           </div>
         </div>
         {bodies.length > 1 && (
@@ -110,7 +121,7 @@ const bodies = [...bodySet].sort()
             <div class="flex flex-wrap gap-1">
               <button class="std-chip is-active px-2.5 py-1 text-xs font-medium rounded-full border border-rule bg-paper text-ink-muted cursor-pointer transition-colors hover:border-accent hover:text-accent" data-body="">{t(lang, 'common.all')}</button>
               {bodies.map((b) => (
-                <button class="std-chip px-2.5 py-1 text-xs font-medium rounded-full border border-rule bg-paper text-ink-muted cursor-pointer transition-colors hover:border-accent hover:text-accent" data-body={b}>{b}</button>
+                <button class="std-chip px-2.5 py-1 text-xs font-medium rounded-full border border-rule bg-paper text-ink-muted cursor-pointer transition-colors hover:border-accent hover:text-accent" data-body={b}>{b === 'ciml' ? t(lang, 'meetings.bodyCiml') : b === 'conf' ? t(lang, 'meetings.bodyConf') : b}</button>
               ))}
             </div>
           </div>
@@ -126,7 +137,7 @@ const bodies = [...bodySet].sort()
           const actionType = firstActionTypeOf(d)
           const snippet = snippetOf(d)
           const year = d.dates?.[0]?.date?.slice(0, 4) ?? ''
-          const bodyType = d.bodyType ?? ''
+          const bodyType = bodyTypeOf(d)
           return (
             <a
               href={`${prefix}decisions/${d.urn}`}
@@ -162,7 +173,7 @@ const bodies = [...bodySet].sort()
                   <div class="flex flex-wrap gap-1">
                     {bodyType && (
                       <span class="inline-flex items-center px-2 py-0.5 text-[0.625rem] font-bold uppercase tracking-wider rounded-full bg-accent-soft text-accent border border-accent-soft">
-                        {bodyType}
+                        {bodyType === 'ciml' ? t(lang, 'meetings.bodyCiml') : bodyType === 'conf' ? t(lang, 'meetings.bodyConf') : bodyType}
                       </span>
                     )}
                     {d.dates?.[0]?.date && (
@@ -186,7 +197,7 @@ const bodies = [...bodySet].sort()
 </OimlLayout>
 
 <script>
-  (function () {
+  function initHomePage() {
     const page = document.querySelector('.home-page') ?? document.querySelector('[id="results-section"]')?.parentElement
     if (!page) return
     const input = page.querySelector('[data-decisions-search]') as HTMLInputElement | null
@@ -195,6 +206,7 @@ const bodies = [...bodySet].sort()
     const cards = Array.from(page.querySelectorAll('[data-decision-card]')) as HTMLElement[]
     const count = page.querySelector('[data-decisions-count]')
     const empty = page.querySelector('[data-decisions-empty]') as HTMLElement | null
+    const moreBtn = page.querySelector('[data-years-more]') as HTMLElement | null
     const total = cards.length
     let activeYear = ''
     let activeBody = ''
@@ -213,6 +225,10 @@ const bodies = [...bodySet].sort()
       activeBody = (chip as HTMLElement).dataset.body ?? ''
       apply()
     }))
+    moreBtn?.addEventListener('click', () => {
+      page.querySelectorAll<HTMLElement>('[data-year-extra]').forEach((c) => c.classList.remove('hidden'))
+      moreBtn.classList.add('hidden')
+    })
     input?.addEventListener('input', () => {
       query = input.value.trim().toLowerCase()
       apply()
@@ -257,5 +273,10 @@ const bodies = [...bodySet].sort()
     } else {
       counters.forEach((el) => { el.textContent = Number(el.dataset.countUp ?? '0').toLocaleString() })
     }
-  })()
+  }
+
+  // Re-initialize on every ClientRouter swap (astro:page-load also fires
+  // on the initial load) — module scripts otherwise run only once, which
+  // left counters at 0 and filters unbound on back/forward navigation.
+  document.addEventListener('astro:page-load', initHomePage)
 </script>

@@ -7,6 +7,7 @@ module Oiml
     autoload :DecisionCollectionBuilder, "oiml/resolutions_data/decision_collection_builder"
     autoload :IdentifierParser,         "oiml/resolutions_data/identifier_parser"
     autoload :MinutesBuilder,           "oiml/resolutions_data/minutes_builder"
+    autoload :Ordinal,                  "oiml/resolutions_data/ordinal"
     autoload :Version,                  "oiml/resolutions_data/version"
 
     module Ocr
