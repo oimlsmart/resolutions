@@ -15,7 +15,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-01
   agenda_item: '2'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -25,7 +25,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -44,7 +44,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-02
   agenda_item: '3'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -54,7 +54,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -73,7 +73,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-03
   agenda_item: '4.1'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -83,7 +83,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -108,7 +108,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-04
   agenda_item: '4.2'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -118,14 +118,14 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
       value: Recalling its resolution 2020/1,
   - type: noting
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -151,7 +151,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -159,7 +159,7 @@ decisions:
         is considered to be equivalent, and
   - type: requests
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -186,7 +186,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-05
   agenda_item: '4.3'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -196,7 +196,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -216,7 +216,7 @@ decisions:
   actions:
   - type: confirms
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -239,7 +239,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-06
   agenda_item: '4.3'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -249,14 +249,14 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
       value: Recalling its Resolution 2020/6,
   - type: noting
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -282,7 +282,7 @@ decisions:
   actions:
   - type: confirms
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -290,7 +290,7 @@ decisions:
         MoU, and
   - type: requests
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -310,7 +310,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-07
   agenda_item: '4.4'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -325,7 +325,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -333,7 +333,7 @@ decisions:
         by its President,
   - type: welcomes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -343,7 +343,7 @@ decisions:
         to its Members and stakeholders, in cooperation with other QI partners, and
   - type: requests
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -375,7 +375,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-08
   agenda_item: '5'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -385,7 +385,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -404,7 +404,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-09
   agenda_item: '6'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -416,7 +416,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -426,7 +426,7 @@ decisions:
         Directors,
   - type: considering
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -436,7 +436,7 @@ decisions:
       value: Considering the proposal made by its President,
   - type: noting
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -475,7 +475,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -496,7 +496,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-10
   agenda_item: '7.1'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -506,14 +506,14 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
       value: Noting the accounts for 2020 and the BIML Director's comments,
   - type: considering
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -528,14 +528,14 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
       value: Approves the 2020 accounts, and
   - type: instructs
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -569,7 +569,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-11
   agenda_item: '7.2'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -579,7 +579,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -588,7 +588,7 @@ decisions:
         Encourages the BIML to continue its efforts to recover outstanding arrears of its Member States and Corresponding Members, and
   - type: requests
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -618,7 +618,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-12
   agenda_item: '7.3'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -628,7 +628,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -648,7 +648,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-13
   agenda_item: '7.4'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -658,7 +658,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -673,7 +673,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -681,7 +681,7 @@ decisions:
         Corresponding Member classes and fees,
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -690,7 +690,7 @@ decisions:
         for this meeting, with effect from 1 January 2022, and
   - type: requests
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -729,7 +729,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-14
   agenda_item: '7.5'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -739,7 +739,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -748,14 +748,14 @@ decisions:
         Having examined the proposed budget for the 2022-2025 financial period,
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
       value: Approves this budget, and
   - type: requests
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -786,7 +786,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-15
   agenda_item: '7.6'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -796,7 +796,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -804,7 +804,7 @@ decisions:
         on Legal Metrology,
   - type: noting
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -827,7 +827,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -835,14 +835,14 @@ decisions:
         BIML Director,
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
       value: Approves this policy, and
   - type: requests
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -876,7 +876,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-16
   agenda_item: 9.1.1.1
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -886,7 +886,7 @@ decisions:
   considerations:
   - type: considering
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -901,7 +901,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -923,7 +923,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-17
   agenda_item: 9.1.1.1
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -933,7 +933,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -941,7 +941,7 @@ decisions:
         cells, and
   - type: thanks
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -969,7 +969,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-18
   agenda_item: 9.1.1.2
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -979,7 +979,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -987,7 +987,7 @@ decisions:
         and
   - type: thanks
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1015,7 +1015,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-19
   agenda_item: 9.1.2.1
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1025,7 +1025,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1051,7 +1051,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-20
   agenda_item: 9.1.2.2
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1061,7 +1061,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1086,7 +1086,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-21
   agenda_item: 9.1.2.3
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1096,7 +1096,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1121,7 +1121,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-22
   agenda_item: 9.1.2.4
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1131,7 +1131,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1158,7 +1158,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-23
   agenda_item: 9.1.2.5
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1171,7 +1171,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1199,7 +1199,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-24
   agenda_item: 9.1.2.6
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1209,7 +1209,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1234,7 +1234,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-25
   agenda_item: 9.1.2.7
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1244,7 +1244,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1269,7 +1269,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-26
   agenda_item: 9.1.2.8
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1279,7 +1279,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1304,7 +1304,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-27
   agenda_item: 9.1.2.9
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1314,7 +1314,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1339,7 +1339,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-28
   agenda_item: 9.1.2.10
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1349,7 +1349,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1374,7 +1374,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-29
   agenda_item: '9.2'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1384,7 +1384,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1399,7 +1399,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1425,7 +1425,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-30
   agenda_item: '10.1'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1435,7 +1435,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1443,7 +1443,7 @@ decisions:
         Committee (MC) Chairperson, and
   - type: thanks
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1472,7 +1472,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-31
   agenda_item: '10.2'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1482,7 +1482,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1501,7 +1501,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1515,7 +1515,7 @@ decisions:
         10.2 to the Working Document for this meeting.
   - type: requests
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1557,7 +1557,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-32
   agenda_item: '11'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1572,7 +1572,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1583,7 +1583,7 @@ decisions:
         Encourages CIML Members to send nominations for this position to the Bureau by the end of November 2021.
   - type: welcomes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1609,7 +1609,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-33
   agenda_item: '15.1'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1619,7 +1619,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1639,7 +1639,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-34
   agenda_item: '15.2'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1649,7 +1649,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1670,7 +1670,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-35
   agenda_item: '15.3'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1680,14 +1680,14 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
       value: Notes the written reports submitted by organisations in liaison, and
   - type: thanks
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1707,7 +1707,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-36
   agenda_item: '16.1'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1717,7 +1717,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1736,7 +1736,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-37
   agenda_item: '16.2'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1746,7 +1746,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1765,7 +1765,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-38
   agenda_item: '16.3'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1775,7 +1775,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1795,7 +1795,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-39
   agenda_item: '16.4'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1805,7 +1805,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1826,7 +1826,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-40
   agenda_item: '17.1'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1836,7 +1836,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1851,7 +1851,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1859,7 +1859,7 @@ decisions:
         host the 57th CIML Meeting in 2022, and
   - type: instructs
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1888,7 +1888,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2021-41
   agenda_item: '41'
   dates:
-  - date: '2021-10-19'
+  - date: '2021-10-18'
     type: decided
   title:
   - spelling: eng
@@ -1899,7 +1899,7 @@ decisions:
   considerations:
   - type: recalling
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng
@@ -1928,7 +1928,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2021-10-19'
+      date: '2021-10-18'
       type: effective
     message:
     - spelling: eng

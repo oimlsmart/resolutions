@@ -16,7 +16,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-05
   agenda_item: '6'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -26,7 +26,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -40,7 +40,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -57,7 +57,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-06
   agenda_item: '7'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -67,7 +67,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -81,7 +81,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-07
   agenda_item: '7'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -91,7 +91,7 @@ decisions:
   actions:
   - type: welcomes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -100,7 +100,7 @@ decisions:
       value: Welcomes Saint Lucia as a new Corresponding Member.
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: fra
@@ -112,7 +112,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-08
   agenda_item: '8'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -122,7 +122,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -140,7 +140,7 @@ decisions:
         Prolonge le contrat de M. Anthony Donnellan en tant que Directeur du BIML pour une durée de cinq ans avec effet au 1er janvier 2024.
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -150,7 +150,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -166,7 +166,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-09
   agenda_item: '9'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -176,7 +176,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -194,7 +194,7 @@ decisions:
         Prolonge le contrat de M. Ian Dunmill en tant qu'Adjoint au Directeur du BIML pour une durée de cinq ans avec effet au 15 mars 2024.
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -204,7 +204,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -220,7 +220,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-10
   agenda_item: '10.1'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -230,7 +230,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -239,7 +239,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -248,14 +248,14 @@ decisions:
       value: Approuve les comptes de 2022, et
   - type: instructs
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
       value: Instructs its President to present them to the 17th OIML Conference.
   - type: charges
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: fra
@@ -267,7 +267,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-11
   agenda_item: '10.2'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -277,7 +277,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -286,7 +286,7 @@ decisions:
         Encourages the BIML to continue its efforts to recover outstanding arrears of its Member States and Corresponding Members, and
   - type: requests
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -302,7 +302,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-12
   agenda_item: '10.3'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -312,7 +312,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -327,7 +327,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-13
   agenda_item: '10.4'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -337,7 +337,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -352,7 +352,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-14
   agenda_item: 11.1.1
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -362,7 +362,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -372,7 +372,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -384,7 +384,7 @@ decisions:
         et
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -400,7 +400,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-15
   agenda_item: 11.1.2
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -410,7 +410,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -420,7 +420,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -435,7 +435,7 @@ decisions:
         et la présentation des publications de l''OIML,'
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -453,7 +453,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-16
   agenda_item: 11.1.3
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -463,7 +463,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -473,7 +473,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -496,7 +496,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-17
   agenda_item: 11.1.4
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -506,7 +506,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: fra
@@ -514,7 +514,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -525,7 +525,7 @@ decisions:
         de Travail de la présente réunion,
   - type: supports
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -536,7 +536,7 @@ decisions:
         the BIML.
   - type: endorses
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: fra
@@ -552,7 +552,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-18
   agenda_item: 11.2.1
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -562,7 +562,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -582,7 +582,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-19
   agenda_item: 11.2.2
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -592,7 +592,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -612,7 +612,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-20
   agenda_item: '11.3'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -622,7 +622,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -634,7 +634,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -656,7 +656,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-21
   agenda_item: '11.3'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -666,7 +666,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -675,7 +675,7 @@ decisions:
   actions:
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -692,7 +692,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-22
   agenda_item: '11.3'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -702,7 +702,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -724,7 +724,7 @@ decisions:
   actions:
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -737,7 +737,7 @@ decisions:
         9/SC 1/p 1, pour leurs efforts sur ce projet,
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -754,7 +754,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-23
   agenda_item: '11.4'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -764,7 +764,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -775,7 +775,7 @@ decisions:
         d'apprentissage en ligne et d'autres formations en ligne,
   - type: requests
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -793,7 +793,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-24
   agenda_item: '11.5'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -803,7 +803,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -811,7 +811,7 @@ decisions:
         of the OIML Bulletin,
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -832,7 +832,7 @@ decisions:
         de l'OIML,
   - type: requests
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -845,14 +845,14 @@ decisions:
         Encourage les Membres à soumettre des articles à caractère scientifique pour examen par les pairs, et Confirme son soutien continu au Bulletin de l'OIML.
   - type: confirms
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
       value: Confirms its continued support for the OIML Bulletin.
   - type: charges
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: fra
@@ -869,7 +869,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-25
   agenda_item: '12.1'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -879,7 +879,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -890,7 +890,7 @@ decisions:
         de Certification de 1'OIML (OIML-CS), et
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -907,7 +907,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-26
   agenda_item: '12.1'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -917,7 +917,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -929,7 +929,7 @@ decisions:
   actions:
   - type: appoints
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -937,7 +937,7 @@ decisions:
         a three-year term starting with immediate effect, and
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -953,7 +953,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-27
   agenda_item: '12.2'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -963,7 +963,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -971,7 +971,7 @@ decisions:
   actions:
   - type: appoints
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -979,7 +979,7 @@ decisions:
         for a three-year term with effect from 1 January 2024, and
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -995,7 +995,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-28
   agenda_item: '12.2'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1005,7 +1005,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1022,7 +1022,7 @@ decisions:
   actions:
   - type: confirms
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1031,7 +1031,7 @@ decisions:
         Chairperson for a 12-month period with effect from 1 January 2024,
   - type: resolves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1039,7 +1039,7 @@ decisions:
         59th meeting in October 2024, and
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1050,7 +1050,7 @@ decisions:
         Comité de Management de l'OIML-CS pour la période 2021-2023.
   - type: decides
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: fra
@@ -1063,7 +1063,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-29
   agenda_item: '12.2'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1073,7 +1073,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1083,7 +1083,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1097,7 +1097,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-30
   agenda_item: '15.1'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1107,7 +1107,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1121,7 +1121,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-31
   agenda_item: '15.2'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1131,7 +1131,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1146,7 +1146,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-32
   agenda_item: '15.2'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1156,7 +1156,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1171,14 +1171,14 @@ decisions:
   actions:
   - type: supports
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
       value: Supports the reactivation of the JWG,
   - type: requests
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1191,7 +1191,7 @@ decisions:
         Encourage les Membres du CIML à proposer des nominations pour représenter l'OIML au sein du JWG.
   - type: endorses
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: fra
@@ -1203,7 +1203,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-33
   agenda_item: '15.3'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1213,7 +1213,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1222,7 +1222,7 @@ decisions:
       value: Prend note des rapports écrits fournis par les organisations en liaison,
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1242,7 +1242,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-34
   agenda_item: '14'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1252,7 +1252,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1263,7 +1263,7 @@ decisions:
         Se félicite de la participation enthousiaste de ses Membres et d'autres personnes au Séminaire de l'OIML L'avenir de l'OIML à l'ère numérique qui s'est tenu le 16 octobre 2023,
   - type: welcomes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1272,7 +1272,7 @@ decisions:
         2023,
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1291,7 +1291,7 @@ decisions:
         pour préparer cette feuille de route,
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1309,7 +1309,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-35
   agenda_item: '13.1'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1319,7 +1319,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1328,7 +1328,7 @@ decisions:
       value: Prend note du rapport du Président du Groupe Consultatif des CEEMS,
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1354,7 +1354,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-36
   agenda_item: '13.2'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1364,7 +1364,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1377,7 +1377,7 @@ decisions:
         Se félicite de cette proposition importante pour l'organisation des travaux des CEEMS de l'OIML,
   - type: welcomes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1385,7 +1385,7 @@ decisions:
         CEEMS work,
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1403,7 +1403,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-37
   agenda_item: '13.2'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1413,7 +1413,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1424,7 +1424,7 @@ decisions:
         13.2a au Document de Travail de la présente réunion, et
   - type: approves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1444,7 +1444,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-38
   agenda_item: '17.1'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1454,7 +1454,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1468,7 +1468,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-39
   agenda_item: '17.1'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1478,7 +1478,7 @@ decisions:
   actions:
   - type: decides
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1495,7 +1495,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-40
   agenda_item: '17.2'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1505,7 +1505,7 @@ decisions:
   actions:
   - type: notes
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1520,7 +1520,7 @@ decisions:
   urn: urn:oiml:doc:ciml:resolution:2023-41
   agenda_item: '18'
   dates:
-  - date: '2023-10-17'
+  - date: '2023-10-16'
     type: decided
   title:
   - spelling: eng
@@ -1530,7 +1530,7 @@ decisions:
   considerations:
   - type: noting
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1547,14 +1547,14 @@ decisions:
   actions:
   - type: confirms
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
       value: Confirmss its preference for in-person meetings,
   - type: thanks
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1565,7 +1565,7 @@ decisions:
         à accueillir la 59ème Réunion du CIML, et
   - type: resolves
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: eng
@@ -1574,7 +1574,7 @@ decisions:
         and submitted to the CIML for online approval.
   - type: decides
     date_effective:
-      date: '2023-10-17'
+      date: '2023-10-16'
       type: effective
     message:
     - spelling: fra

@@ -48,3 +48,6 @@ minutes:
 title:
 - spelling: fra
   value: 10th CIML Meeting (skeleton from minutes)
+scheduled_date_range:
+  start: '1970-04-20'
+  end: '1970-04-24'

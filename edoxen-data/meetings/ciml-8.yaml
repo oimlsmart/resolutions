@@ -360,3 +360,6 @@ minutes:
 title:
 - spelling: fra
   value: 8th CIML Meeting (skeleton from minutes)
+scheduled_date_range:
+  start: '1966-09-19'
+  end: '1966-09-22'

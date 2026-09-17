@@ -16,7 +16,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.01
   agenda_item: '2.2'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -31,7 +31,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -40,7 +40,7 @@ decisions:
       value: Vu I'Article XI de la Convention de I'OIML,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -52,7 +52,7 @@ decisions:
         CIML,
   - type: considering
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -64,7 +64,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -80,7 +80,7 @@ decisions:
         (h) All other meetings shall be conducted in English without interpretation provided by the Organization.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -101,7 +101,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.02
   agenda_item: '2'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -116,7 +116,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -125,7 +125,7 @@ decisions:
       value: Vu l'Article IV, premier paragraphe (1), de la Convention,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -137,7 +137,7 @@ decisions:
         »,
   - type: considering
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -151,7 +151,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -160,7 +160,7 @@ decisions:
         The position of "Facilitator for developing country matters" is dissolved.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -174,7 +174,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.03
   agenda_item: '3'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -189,7 +189,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -198,7 +198,7 @@ decisions:
       value: Vu I'Article XXVII de la Convention,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -209,7 +209,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -218,7 +218,7 @@ decisions:
         The revision of the OIML Financial Regulations (OIML B 8:2012) is sanctioned.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -232,7 +232,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.04
   agenda_item: '4'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -247,7 +247,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -257,7 +257,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -266,7 +266,7 @@ decisions:
         The budget surpluses (net results) from the 2009-2012 financial period shall be kept in reserve.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -280,7 +280,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.05
   agenda_item: '5'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -295,7 +295,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -304,7 +304,7 @@ decisions:
       value: Vu l'Article XXV, avant-dernier paragraphe, de la Convention,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -317,7 +317,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -326,7 +326,7 @@ decisions:
         The audited accounts for 2008, 2009, 2010 and 2011 are hereby approved. The CIML President and the BIML Director are finally discharged for their financial management during these years.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -340,7 +340,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.06
   agenda_item: '6'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -355,7 +355,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -364,7 +364,7 @@ decisions:
       value: Vu l'Article VIII, premier et cinquième paragraphes, de la Convention,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -377,7 +377,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -405,7 +405,7 @@ decisions:
         - D7 The evaluation of flow standards and facilities used for testing water meters
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -440,7 +440,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.07
   agenda_item: '7'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -455,7 +455,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -464,7 +464,7 @@ decisions:
       value: Vu l'Article IV, premier paragraphe (1), de la Convention,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -478,7 +478,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -487,7 +487,7 @@ decisions:
         The OIML Strategy as laid down in OIML B 15:2011 is hereby sanctioned. The Committee is instructed to implement this strategy taking into account the budgetary resources.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -501,7 +501,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.08
   agenda_item: '8'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -516,7 +516,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -525,7 +525,7 @@ decisions:
       value: Vu l'Article XXVI (1) de la Convention,
   - type: recalling
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -538,7 +538,7 @@ decisions:
         d'une classe de contribution inférieure,
   - type: considering
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -550,7 +550,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -559,7 +559,7 @@ decisions:
         The classification of Member States according to Article XXVI (1) of the Convention shall be reviewed in the final year of a financial period in order to determine the respective contributory shares of the Member States for the following financial period. The review shall be according to the method decided by the Committee at its 40th Meeting in 2005. However, any change in the classification of a Member State shall take effect from the second year of the following financial period.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -573,7 +573,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.09
   agenda_item: '9'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -588,7 +588,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -599,7 +599,7 @@ decisions:
         XXVIII, second paragraphe, de la Convention,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -608,7 +608,7 @@ decisions:
       value: Prenant note des Résolutions n° 7 et n° 10 de la 47ème Réunion du CIML,
   - type: considering
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -624,7 +624,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -636,7 +636,7 @@ decisions:
         (d) For the 2013-2016 financial period, newly admitted or readmitted Member States shall not pay an entry fee.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -654,7 +654,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.10
   agenda_item: '10'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -669,7 +669,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -683,7 +683,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -695,7 +695,7 @@ decisions:
         (d) The provisions of (a), (b) and (c) apply accordingly to Corresponding Members with respect to annual Corresponding Member fees.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -712,7 +712,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.11
   agenda_item: '11'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -727,7 +727,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -741,7 +741,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -751,7 +751,7 @@ decisions:
         (b) The provisions in (a) apply accordingly to Corresponding Members with respect to Corresponding Member fees.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -766,7 +766,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.12
   agenda_item: '12'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -781,7 +781,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -790,7 +790,7 @@ decisions:
       value: Vu les Articles XXIX et XXX de la Convention,
   - type: recalling
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -801,7 +801,7 @@ decisions:
         13<sup>ème</sup> Conférence,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -812,7 +812,7 @@ decisions:
         du CIML et de la Résolution n° 9 de la $ 47^{\mathrm{eme}} $ Réunion du CIML,
   - type: considering
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -828,7 +828,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -839,7 +839,7 @@ decisions:
         (c) The provisions of (a) and (b) apply accordingly to Corresponding Members.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -855,7 +855,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.13
   agenda_item: '13'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -871,7 +871,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -880,7 +880,7 @@ decisions:
       value: Vu l'Article XV de la Convention,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -893,7 +893,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -902,7 +902,7 @@ decisions:
         In the event of the absence, impediment, cessation of mandate, resignation or death of the first Vice-President, his duties shall be temporarily assumed by the second Vice-President.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -916,7 +916,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.14
   agenda_item: '14'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -932,7 +932,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -941,7 +941,7 @@ decisions:
       value: Vu I'Article XVII de la Convention,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -951,7 +951,7 @@ decisions:
         du CIML,
   - type: considering
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -965,7 +965,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -974,7 +974,7 @@ decisions:
         A 'colleague' as mentioned in the first paragraph of Article XVII of the Convention may be: either another CIML Member or someone designated by the absent CIML Member to represent him/her. In the latter case, the representative shall be from the same government or administration as the absent CIML Member and may not represent other CIML Members, i.e. may not receive proxies from other CIML Members.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -988,7 +988,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.15
   agenda_item: '15'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -1005,7 +1005,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -1014,7 +1014,7 @@ decisions:
       value: Vu I'Article X de la Convention,
   - type: considering
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -1026,7 +1026,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -1035,7 +1035,7 @@ decisions:
         The Committee is hereby charged to organize the 15th Conference in 2016, the venue and dates to be decided by the Committee.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
@@ -1049,7 +1049,7 @@ decisions:
   urn: urn:oiml:doc:conf:resolution:14.16
   agenda_item: '16'
   dates:
-  - date: '2012-10-03'
+  - date: '2012-10-01'
     type: decided
   title:
   - spelling: eng
@@ -1064,7 +1064,7 @@ decisions:
   considerations:
   - type: having_regard_to
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -1073,7 +1073,7 @@ decisions:
       value: Vu l'Article XXIX, second paragraphe, de la Convention,
   - type: recalling
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -1082,7 +1082,7 @@ decisions:
       value: Rappelant sa Résolution n° 8,
   - type: noting
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -1097,7 +1097,7 @@ decisions:
   actions:
   - type: resolves
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: eng
@@ -1108,7 +1108,7 @@ decisions:
         (c) The request for a remission is therefore not approved.
   - type: decides
     date_effective:
-      date: '2012-10-03'
+      date: '2012-10-01'
       type: effective
     message:
     - spelling: fra
